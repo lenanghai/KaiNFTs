@@ -1,0 +1,1000 @@
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Giải thích XSS là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Tối ưu đoạn code Rust đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Thiết kế kiến trúc multi-region trên GCP đạt RTO 5 phút, RPO 0; mô tả replication, failover và thử nghiệm định kỳ.
+Minh hoạ bắt tay (handshake) của HTTP/2; trình bày từng bước và điểm dễ sai ở tầng mạng.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Xây dựng pipeline dữ liệu cho bài toán phân loại cảm xúc tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Chuyển đổi log ứng dụng sang YAML tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Áp dụng đạo hàm để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa BNB và MATIC; nêu tình huống sử dụng phù hợp.
+Đo và cải thiện CPU mà không làm xấu error rate trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+Minh hoạ bắt tay (handshake) của QUIC; trình bày từng bước và điểm dễ sai ở tầng mạng.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Tối ưu đoạn code SQL đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Bắc Ninh; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Viết Next.js hook/component xử lý vô hiệu hoá nút Submit khi form chưa hợp lệ; kèm ví dụ code ngắn.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Viết middleware Vue để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Thiết kế hệ thống đặt vé du lịch tại Nha Trang dùng React, chịu tải 3220633 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Trình bày quy trình transformer cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Thiết kế kiến trúc multi-region trên GCP đạt RTO 5 phút, RPO 0; mô tả replication, failover và thử nghiệm định kỳ.
+Giải thích mã hóa AES-GCM là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Thiết kế kiến trúc multi-region trên GCP đạt RTO 5 phút, RPO 0; mô tả replication, failover và thử nghiệm định kỳ.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Tối ưu biểu thức: ∑_(i=1..n) i^4 + ∑_(i=1..n) i^5; chứng minh bằng quy nạp công thức đóng.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa SUI và PHRS; nêu tình huống sử dụng phù hợp.
+Hướng dẫn Tú học SQL từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+Chuyển đổi log ứng dụng sang ProtoBuf tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Tối ưu đoạn code JavaScript đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Viết câu lệnh Elasticsearch tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Minh hoạ bắt tay (handshake) của QUIC; trình bày từng bước và điểm dễ sai ở tầng mạng.
+Giải hệ phương trình: { x + y = 7, x·y = 10 } và giải thích phương pháp.
+Xây dựng pipeline dữ liệu cho bài toán phân loại cảm xúc tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa BNB và ARB; nêu tình huống sử dụng phù hợp.
+Thiết kế chỉ mục văn bản cho 4904806 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+Giải hệ phương trình: { x + y = 7, x·y = 10 } và giải thích phương pháp.
+Thiết kế thí nghiệm A/B để đánh giá transformer cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Xây dựng dashboard KPI cho du lịch trong 1 tháng; nêu 8 chỉ số cốt lõi và mô hình dữ liệu.
+Xây dựng dashboard KPI cho giáo dục trong 1 tháng; nêu 8 chỉ số cốt lõi và mô hình dữ liệu.
+Thiết kế hệ thống đặt vé du lịch tại Cần Thơ dùng Vue, chịu tải 2610587 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết middleware Django để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Giải thích JWT là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Minh hoạ bắt tay (handshake) của TLS 1.3; trình bày từng bước và điểm dễ sai ở tầng mạng.
+Viết Svelte hook/component xử lý vô hiệu hoá nút Submit khi form chưa hợp lệ; kèm ví dụ code ngắn.
+Trình bày quy trình prompt engineering cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Thiết kế kiến trúc multi-region trên Azure đạt RTO 5 phút, RPO 0; mô tả replication, failover và thử nghiệm định kỳ.
+Hướng dẫn Trung học JavaScript từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+Hướng dẫn Trang học SQL từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+Đo và cải thiện p99 mà không làm xấu latency trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+Xây dựng dashboard KPI cho bán lẻ trong 1 ngày; nêu 8 chỉ số cốt lõi và mô hình dữ liệu.
+Viết hàm TypeScript tính số Fibonacci thứ 1947 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 2968700 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Bài toán chia kẹo: có 17 viên, chia cho 2 bạn chênh nhau 9 viên; liệt kê mọi phương án hợp lệ.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup edtech ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Đo và cải thiện latency mà không làm xấu availability trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+Xây dựng pipeline dữ liệu cho bài toán tóm tắt văn bản tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Viết Vue hook/component xử lý vô hiệu hoá nút Submit khi form chưa hợp lệ; kèm ví dụ code ngắn.
+Trình bày quy trình transformer cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa ETH và OP; nêu tình huống sử dụng phù hợp.
+Hướng dẫn Long học Rust từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+Hướng dẫn Thịnh học Python từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+Tối ưu biểu thức: ∑_(i=1..n) i^5 + ∑_(i=1..n) i^4; chứng minh bằng quy nạp công thức đóng.
+Thiết kế hệ thống đặt vé du lịch tại Bangkok dùng Spring Boot, chịu tải 3789706 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Đà Nẵng; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Thiết kế hệ thống đặt vé du lịch tại Huế dùng FastAPI, chịu tải 431224 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch du lịch Sydney 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Lập kế hoạch du lịch Paris 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Viết pseudo-code tính VWAP cho BTC theo dữ liệu OHLCV 34 ngày; kèm phân tích độ phức tạp.
+Minh hoạ bắt tay (handshake) của TCP; trình bày từng bước và điểm dễ sai ở tầng mạng.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup logistics ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Viết middleware FastAPI để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Bài toán chia kẹo: có 39 viên, chia cho 2 bạn chênh nhau 1 viên; liệt kê mọi phương án hợp lệ.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup IoT ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Xây dựng dashboard KPI cho chứng khoán trong 1 tuần; nêu 8 chỉ số cốt lõi và mô hình dữ liệu.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề địa lý dành cho học sinh lớp 10; có gợi ý đáp án.
+Viết hàm C++ tính số Fibonacci thứ 1288 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề vật lý dành cho học sinh lớp 10; có gợi ý đáp án.
+Trình bày quy trình transformer cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Bài toán chia kẹo: có 13 viên, chia cho 2 bạn chênh nhau 5 viên; liệt kê mọi phương án hợp lệ.
+Thiết kế hệ thống gợi ý top-18 sản phẩm theo lịch sử người dùng; mô tả lược đồ dữ liệu, offline/online feature store và đánh giá offline/online.
+Tối ưu đoạn code Python đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Lập kế hoạch du lịch New York 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Áp dụng biến đổi Fourier để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề sinh học dành cho học sinh lớp 10; có gợi ý đáp án.
+Xây dựng pipeline dữ liệu cho bài toán trả lời câu hỏi tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Trình bày quy trình vector database cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+So sánh HTTP/2 và HTTP/3 trong bối cảnh trading real-time; khi nào chọn cái nào và vì sao?
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Thiết kế kiến trúc multi-region trên AWS đạt RTO 5 phút, RPO 0; mô tả replication, failover và thử nghiệm định kỳ.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Phan Thiết; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup healthcare ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Tối ưu biểu thức: ∑_(i=1..n) i^8 + ∑_(i=1..n) i^9; chứng minh bằng quy nạp công thức đóng.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Hải Phòng; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup logistics ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề toán học dành cho học sinh lớp 10; có gợi ý đáp án.
+Thiết kế thí nghiệm A/B để đánh giá RLHF cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup logistics ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Áp dụng tổ hợp để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Viết pseudo-code tính VWAP cho ETH theo dữ liệu OHLCV 36 ngày; kèm phân tích độ phức tạp.
+Xây dựng dashboard KPI cho giáo dục trong 1 tuần; nêu 8 chỉ số cốt lõi và mô hình dữ liệu.
+Minh hoạ bắt tay (handshake) của HTTP/2; trình bày từng bước và điểm dễ sai ở tầng mạng.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Huế (công suất 216730 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Xây dựng dashboard KPI cho du lịch trong 1 tháng; nêu 8 chỉ số cốt lõi và mô hình dữ liệu.
+Giải hệ phương trình: { x + y = 10, x·y = 25 } và giải thích phương pháp.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup fintech ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Minh hoạ bắt tay (handshake) của HTTP/2; trình bày từng bước và điểm dễ sai ở tầng mạng.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Áp dụng tối ưu hóa để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Viết câu lệnh MongoDB tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Giải thích OAuth2 là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Viết câu lệnh SQLite tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Xây dựng dashboard KPI cho ngân hàng trong 1 quý; nêu 8 chỉ số cốt lõi và mô hình dữ liệu.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Cần Thơ (công suất 368511 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết pseudo-code tính VWAP cho ARB theo dữ liệu OHLCV 15 ngày; kèm phân tích độ phức tạp.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+Viết hàm Go tính số Fibonacci thứ 444 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế hệ thống đặt vé du lịch tại Bắc Ninh dùng React, chịu tải 4025872 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+So sánh gRPC và TCP trong bối cảnh IoT sensor; khi nào chọn cái nào và vì sao?
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa ETH và BTC; nêu tình huống sử dụng phù hợp.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên laptop chạy macOS Sequoia.
+Xây dựng pipeline dữ liệu cho bài toán trả lời câu hỏi tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Tối ưu biểu thức: ∑_(i=1..n) i^3 + ∑_(i=1..n) i^8; chứng minh bằng quy nạp công thức đóng.
+Trình bày quy trình RAG cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Viết câu lệnh MySQL tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup gaming ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+So sánh gRPC và WebSocket trong bối cảnh game online; khi nào chọn cái nào và vì sao?
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hạ Long (công suất 219401 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên TV chạy iOS 18.
+Viết middleware FastAPI để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Thiết kế thí nghiệm A/B để đánh giá vector database cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Thiết kế kiến trúc multi-region trên DigitalOcean đạt RTO 5 phút, RPO 0; mô tả replication, failover và thử nghiệm định kỳ.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup healthcare ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên điện thoại chạy macOS Sequoia.
+Giải thích OAuth2 là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Thiết kế kiến trúc multi-region trên DigitalOcean đạt RTO 5 phút, RPO 0; mô tả replication, failover và thử nghiệm định kỳ.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Viết câu lệnh MongoDB tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Xây dựng dashboard KPI cho chứng khoán trong 1 năm; nêu 8 chỉ số cốt lõi và mô hình dữ liệu.
+Thiết kế hệ thống đặt vé du lịch tại Nha Trang dùng NestJS, chịu tải 1280932 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Hướng dẫn Giang học C++ từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+So sánh UDP và QUIC trong bối cảnh IoT sensor; khi nào chọn cái nào và vì sao?
+Giải hệ phương trình: { x + y = 9, x·y = 20 } và giải thích phương pháp.
+Thiết kế hệ thống đặt vé du lịch tại Nha Trang dùng Next.js, chịu tải 1908417 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết middleware NestJS để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Thiết kế thí nghiệm A/B để đánh giá LoRA fine-tuning cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Viết pseudo-code tính VWAP cho OP theo dữ liệu OHLCV 88 ngày; kèm phân tích độ phức tạp.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+Bài toán chia kẹo: có 23 viên, chia cho 2 bạn chênh nhau 17 viên; liệt kê mọi phương án hợp lệ.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Buôn Ma Thuột (công suất 308669 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết câu lệnh ClickHouse tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Hướng dẫn Huy học Java từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+Xây dựng dashboard KPI cho chứng khoán trong 1 ngày; nêu 8 chỉ số cốt lõi và mô hình dữ liệu.
+Xây dựng pipeline dữ liệu cho bài toán tóm tắt văn bản tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Thiết kế chỉ mục văn bản cho 2897141 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Chuyển đổi log ứng dụng sang Avro tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Minh hoạ bắt tay (handshake) của TLS 1.3; trình bày từng bước và điểm dễ sai ở tầng mạng.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên điện thoại chạy Ubuntu 24.04.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa PHRS và SUI; nêu tình huống sử dụng phù hợp.
+Viết middleware Spring Boot để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Hướng dẫn Quân học Go từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Áp dụng biến đổi Fourier để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Áp dụng tích phân để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Trình bày quy trình RAG cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Lập kế hoạch du lịch London 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Viết unit test table-driven cho một hàm JavaScript parse datetime không chuẩn; kèm 6 test case méo mó.
+So sánh WebSocket và TCP trong bối cảnh streaming video; khi nào chọn cái nào và vì sao?
+Chuyển đổi log ứng dụng sang JSON tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Áp dụng đạo hàm để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho TP.HCM (công suất 331523 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết hàm Go tính số Fibonacci thứ 1216 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa TON và ARB; nêu tình huống sử dụng phù hợp.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại TP.HCM; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Thiết kế hệ thống gợi ý top-18 sản phẩm theo lịch sử người dùng; mô tả lược đồ dữ liệu, offline/online feature store và đánh giá offline/online.
+Thiết kế hệ thống đặt vé du lịch tại Bắc Ninh dùng NestJS, chịu tải 234472 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Áp dụng tối ưu hóa để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Viết unit test table-driven cho một hàm Rust parse datetime không chuẩn; kèm 6 test case méo mó.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Viết pseudo-code tính VWAP cho APT theo dữ liệu OHLCV 76 ngày; kèm phân tích độ phức tạp.
+Chuyển đổi log ứng dụng sang Avro tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Áp dụng biến đổi Fourier để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Lập kế hoạch du lịch New York 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Viết unit test table-driven cho một hàm Go parse datetime không chuẩn; kèm 6 test case méo mó.
+Tối ưu đoạn code TypeScript đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Đo và cải thiện p99 mà không làm xấu error rate trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+Thiết kế hệ thống đặt vé du lịch tại Vinh dùng Spring Boot, chịu tải 1255703 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Chuyển đổi log ứng dụng sang ProtoBuf tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Giải thích CORS là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Viết câu lệnh SQLite tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Bài toán chia kẹo: có 14 viên, chia cho 2 bạn chênh nhau 10 viên; liệt kê mọi phương án hợp lệ.
+Xây dựng pipeline dữ liệu cho bài toán tóm tắt văn bản tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa MATIC và BNB; nêu tình huống sử dụng phù hợp.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Giải hệ phương trình: { x + y = 7, x·y = 12 } và giải thích phương pháp.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên máy tính bảng chạy macOS Sequoia.
+Viết middleware Spring Boot để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Xây dựng pipeline dữ liệu cho bài toán dịch máy tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup gaming ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Biên Hòa (công suất 111424 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Minh hoạ bắt tay (handshake) của gRPC; trình bày từng bước và điểm dễ sai ở tầng mạng.
+Lập kế hoạch du lịch Dubai 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Thiết kế kiến trúc multi-region trên DigitalOcean đạt RTO 5 phút, RPO 0; mô tả replication, failover và thử nghiệm định kỳ.
+Viết middleware Spring Boot để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Áp dụng quy hoạch tuyến tính để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Thiết kế kiến trúc multi-region trên Azure đạt RTO 5 phút, RPO 0; mô tả replication, failover và thử nghiệm định kỳ.
+Viết Express.js hook/component xử lý vô hiệu hoá nút Submit khi form chưa hợp lệ; kèm ví dụ code ngắn.
+Giải hệ phương trình: { x + y = 7, x·y = 10 } và giải thích phương pháp.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên TV chạy Windows 11.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Vinh; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên điện thoại chạy iOS 18.
+Giải thích JWT là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Xây dựng pipeline dữ liệu cho bài toán trả lời câu hỏi tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Áp dụng tổ hợp để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Áp dụng quy hoạch tuyến tính để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Bài toán chia kẹo: có 34 viên, chia cho 2 bạn chênh nhau 6 viên; liệt kê mọi phương án hợp lệ.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup healthcare ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Giải hệ phương trình: { x + y = 7, x·y = 12 } và giải thích phương pháp.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+Thiết kế chỉ mục văn bản cho 3255593 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Tối ưu đoạn code JavaScript đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Xây dựng pipeline dữ liệu cho bài toán trả lời câu hỏi tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Thiết kế hệ thống đặt vé du lịch tại Singapore dùng Vue, chịu tải 441634 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Xây dựng pipeline dữ liệu cho bài toán tóm tắt văn bản tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Thiết kế hệ thống đặt vé du lịch tại Sydney dùng Spring Boot, chịu tải 232015 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết Express.js hook/component xử lý vô hiệu hoá nút Submit khi form chưa hợp lệ; kèm ví dụ code ngắn.
+Xây dựng pipeline dữ liệu cho bài toán nhận dạng thực thể tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Áp dụng quy hoạch tuyến tính để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Phan Thiết; nêu RACI, ma trận liên hệ và kênh truyền thông.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa APT và TON; nêu tình huống sử dụng phù hợp.
+Tối ưu đoạn code SQL đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Viết middleware Next.js để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Viết pseudo-code tính VWAP cho SUI theo dữ liệu OHLCV 47 ngày; kèm phân tích độ phức tạp.
+Viết unit test table-driven cho một hàm JavaScript parse datetime không chuẩn; kèm 6 test case méo mó.
+Viết hàm Python tính số Fibonacci thứ 305 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Đo và cải thiện p99 mà không làm xấu IOPS trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Bắc Ninh (công suất 319287 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup social network ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa SOL và APT; nêu tình huống sử dụng phù hợp.
+Chuyển đổi log ứng dụng sang YAML tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Thiết kế kiến trúc multi-region trên AWS đạt RTO 5 phút, RPO 0; mô tả replication, failover và thử nghiệm định kỳ.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề địa lý dành cho học sinh lớp 10; có gợi ý đáp án.
+Giải hệ phương trình: { x + y = 7, x·y = 12 } và giải thích phương pháp.
+Thiết kế chỉ mục văn bản cho 1484282 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Phan Thiết; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Xây dựng dashboard KPI cho ngân hàng trong 1 năm; nêu 8 chỉ số cốt lõi và mô hình dữ liệu.
+Trình bày quy trình transformer cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Trình bày quy trình transformer cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup gaming ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Nha Trang; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Viết Svelte hook/component xử lý vô hiệu hoá nút Submit khi form chưa hợp lệ; kèm ví dụ code ngắn.
+Giải thích mã hóa AES-GCM là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Đo và cải thiện IOPS mà không làm xấu availability trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+Viết pseudo-code tính VWAP cho SUI theo dữ liệu OHLCV 70 ngày; kèm phân tích độ phức tạp.
+Thiết kế hệ thống đặt vé du lịch tại Nha Trang dùng Svelte, chịu tải 2830429 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Xây dựng dashboard KPI cho bán lẻ trong 1 năm; nêu 8 chỉ số cốt lõi và mô hình dữ liệu.
+Viết câu lệnh MongoDB tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Quy Nhơn (công suất 218890 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Bài toán chia kẹo: có 28 viên, chia cho 2 bạn chênh nhau 6 viên; liệt kê mọi phương án hợp lệ.
+Viết unit test table-driven cho một hàm Go parse datetime không chuẩn; kèm 6 test case méo mó.
+Thiết kế hệ thống đặt vé du lịch tại Bắc Ninh dùng Next.js, chịu tải 3174084 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên đồng hồ thông minh chạy Windows 11.
+Giải thích Zero Trust là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề hóa học dành cho học sinh lớp 10; có gợi ý đáp án.
+Viết câu lệnh Redis tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Tối ưu đoạn code Python đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Trình bày quy trình prompt engineering cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Lập kế hoạch du lịch London 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Tối ưu đoạn code Rust đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Quy Nhơn; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Thiết kế hệ thống đặt vé du lịch tại Hà Nội dùng Django, chịu tải 4293963 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên laptop chạy Windows 11.
+Đo và cải thiện latency mà không làm xấu throughput trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Cần Thơ; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Bài toán chia kẹo: có 27 viên, chia cho 2 bạn chênh nhau 3 viên; liệt kê mọi phương án hợp lệ.
+Đo và cải thiện latency mà không làm xấu throughput trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề sinh học dành cho học sinh lớp 10; có gợi ý đáp án.
+Viết hàm Bash tính số Fibonacci thứ 847 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Viết middleware Express.js để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Xây dựng dashboard KPI cho bảo hiểm trong 1 tuần; nêu 8 chỉ số cốt lõi và mô hình dữ liệu.
+Minh hoạ bắt tay (handshake) của HTTP/2; trình bày từng bước và điểm dễ sai ở tầng mạng.
+Bài toán chia kẹo: có 25 viên, chia cho 2 bạn chênh nhau 11 viên; liệt kê mọi phương án hợp lệ.
+Tối ưu biểu thức: ∑_(i=1..n) i^2 + ∑_(i=1..n) i^7; chứng minh bằng quy nạp công thức đóng.
+Viết Express.js hook/component xử lý vô hiệu hoá nút Submit khi form chưa hợp lệ; kèm ví dụ code ngắn.
+Tối ưu đoạn code TypeScript đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Giải thích OAuth2 là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Bắc Ninh; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Lập kế hoạch du lịch Dubai 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Chuyển đổi log ứng dụng sang ProtoBuf tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Giải thích rate limit là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Áp dụng tổ hợp để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Giải thích XSS là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Đo và cải thiện CPU mà không làm xấu latency trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+Viết middleware Django để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Viết middleware Spring Boot để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+So sánh HTTP/2 và TLS 1.3 trong bối cảnh streaming video; khi nào chọn cái nào và vì sao?
+So sánh gRPC và TCP trong bối cảnh IoT sensor; khi nào chọn cái nào và vì sao?
+Tối ưu biểu thức: ∑_(i=1..n) i^9 + ∑_(i=1..n) i^7; chứng minh bằng quy nạp công thức đóng.
+Viết unit test table-driven cho một hàm Bash parse datetime không chuẩn; kèm 6 test case méo mó.
+Thiết kế thí nghiệm A/B để đánh giá prompt engineering cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Biên Hòa (công suất 416464 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Tối ưu đoạn code SQL đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Viết pseudo-code tính VWAP cho BNB theo dữ liệu OHLCV 81 ngày; kèm phân tích độ phức tạp.
+Lập kế hoạch du lịch Dubai 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Thiết kế kiến trúc multi-region trên AWS đạt RTO 5 phút, RPO 0; mô tả replication, failover và thử nghiệm định kỳ.
+Viết hàm Go tính số Fibonacci thứ 1967 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+So sánh WebSocket và HTTP/3 trong bối cảnh streaming video; khi nào chọn cái nào và vì sao?
+Đặt 5 câu hỏi tư duy phản biện về chủ đề toán học dành cho học sinh lớp 10; có gợi ý đáp án.
+Xây dựng pipeline dữ liệu cho bài toán trả lời câu hỏi tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Thiết kế chỉ mục văn bản cho 3157490 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết câu lệnh ClickHouse tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Hướng dẫn Tú học SQL từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+Chuyển đổi log ứng dụng sang CSV tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Tối ưu đoạn code Bash đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Viết hàm SQL tính số Fibonacci thứ 113 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Trình bày quy trình RLHF cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Giải thích WAF là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Tối ưu đoạn code Go đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Viết middleware Spring Boot để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Tối ưu đoạn code C++ đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa BTC và APT; nêu tình huống sử dụng phù hợp.
+Trình bày quy trình RAG cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Hướng dẫn Tú học JavaScript từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+Viết pseudo-code tính VWAP cho TON theo dữ liệu OHLCV 54 ngày; kèm phân tích độ phức tạp.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+So sánh TCP và TLS 1.3 trong bối cảnh streaming video; khi nào chọn cái nào và vì sao?
+Viết câu lệnh SQLite tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa SUI và APT; nêu tình huống sử dụng phù hợp.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề địa lý dành cho học sinh lớp 10; có gợi ý đáp án.
+Áp dụng ma trận để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+Bài toán chia kẹo: có 23 viên, chia cho 2 bạn chênh nhau 13 viên; liệt kê mọi phương án hợp lệ.
+Viết FastAPI hook/component xử lý vô hiệu hoá nút Submit khi form chưa hợp lệ; kèm ví dụ code ngắn.
+Viết React hook/component xử lý vô hiệu hoá nút Submit khi form chưa hợp lệ; kèm ví dụ code ngắn.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Huế (công suất 153898 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết React hook/component xử lý vô hiệu hoá nút Submit khi form chưa hợp lệ; kèm ví dụ code ngắn.
+Lập kế hoạch du lịch Paris 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Thiết kế chỉ mục văn bản cho 2151741 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế thí nghiệm A/B để đánh giá distillation cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Minh hoạ bắt tay (handshake) của TCP; trình bày từng bước và điểm dễ sai ở tầng mạng.
+Xây dựng pipeline dữ liệu cho bài toán tóm tắt văn bản tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Viết câu lệnh MySQL tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Trình bày quy trình RLHF cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Áp dụng tổ hợp để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Minh hoạ bắt tay (handshake) của gRPC; trình bày từng bước và điểm dễ sai ở tầng mạng.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại TP.HCM; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Bài toán chia kẹo: có 23 viên, chia cho 2 bạn chênh nhau 13 viên; liệt kê mọi phương án hợp lệ.
+Trình bày quy trình distillation cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup fintech ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Thiết kế chỉ mục văn bản cho 276701 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Giải thích XSS là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Viết unit test table-driven cho một hàm Rust parse datetime không chuẩn; kèm 6 test case méo mó.
+Tối ưu đoạn code Java đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Nha Trang; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Thiết kế chỉ mục văn bản cho 296963 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế kiến trúc multi-region trên GCP đạt RTO 5 phút, RPO 0; mô tả replication, failover và thử nghiệm định kỳ.
+Bài toán chia kẹo: có 17 viên, chia cho 2 bạn chênh nhau 3 viên; liệt kê mọi phương án hợp lệ.
+Giải thích rate limit là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup healthcare ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề tâm lý học dành cho học sinh lớp 10; có gợi ý đáp án.
+Minh hoạ bắt tay (handshake) của WebSocket; trình bày từng bước và điểm dễ sai ở tầng mạng.
+So sánh QUIC và TCP trong bối cảnh trading real-time; khi nào chọn cái nào và vì sao?
+Xây dựng pipeline dữ liệu cho bài toán trả lời câu hỏi tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Xây dựng dashboard KPI cho du lịch trong 1 tuần; nêu 8 chỉ số cốt lõi và mô hình dữ liệu.
+Bài toán chia kẹo: có 30 viên, chia cho 2 bạn chênh nhau 4 viên; liệt kê mọi phương án hợp lệ.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Thái Nguyên (công suất 227916 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Chuyển đổi log ứng dụng sang YAML tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên đồng hồ thông minh chạy macOS Sequoia.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa ARB và ETH; nêu tình huống sử dụng phù hợp.
+Thiết kế chỉ mục văn bản cho 2903197 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết pseudo-code tính VWAP cho MATIC theo dữ liệu OHLCV 62 ngày; kèm phân tích độ phức tạp.
+Đo và cải thiện throughput mà không làm xấu IOPS trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Vinh; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Tối ưu biểu thức: ∑_(i=1..n) i^8 + ∑_(i=1..n) i^3; chứng minh bằng quy nạp công thức đóng.
+Thiết kế chỉ mục văn bản cho 93716 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch du lịch Berlin 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Giải hệ phương trình: { x + y = 9, x·y = 20 } và giải thích phương pháp.
+Hướng dẫn Thịnh học TypeScript từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Nha Trang (công suất 480501 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Giải thích WAF là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Xây dựng pipeline dữ liệu cho bài toán dịch máy tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Giải hệ phương trình: { x + y = 6, x·y = 8 } và giải thích phương pháp.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Biên Hòa (công suất 192600 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Minh hoạ bắt tay (handshake) của TLS 1.3; trình bày từng bước và điểm dễ sai ở tầng mạng.
+Chuyển đổi log ứng dụng sang XML tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Bài toán chia kẹo: có 31 viên, chia cho 2 bạn chênh nhau 1 viên; liệt kê mọi phương án hợp lệ.
+Tối ưu đoạn code Go đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề sinh học dành cho học sinh lớp 10; có gợi ý đáp án.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Đà Nẵng; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Thiết kế hệ thống gợi ý top-6 sản phẩm theo lịch sử người dùng; mô tả lược đồ dữ liệu, offline/online feature store và đánh giá offline/online.
+Minh hoạ bắt tay (handshake) của UDP; trình bày từng bước và điểm dễ sai ở tầng mạng.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Giải thích CORS là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Thái Nguyên (công suất 174417 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Hướng dẫn Hằng học C++ từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+Xây dựng pipeline dữ liệu cho bài toán nhận dạng thực thể tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Áp dụng tích phân để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+Lập kế hoạch du lịch Bangkok 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Thiết kế thí nghiệm A/B để đánh giá prompt engineering cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Trình bày quy trình RAG cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Bài toán chia kẹo: có 12 viên, chia cho 2 bạn chênh nhau 2 viên; liệt kê mọi phương án hợp lệ.
+Viết hàm TypeScript tính số Fibonacci thứ 1671 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+So sánh gRPC và TCP trong bối cảnh game online; khi nào chọn cái nào và vì sao?
+Minh hoạ bắt tay (handshake) của TCP; trình bày từng bước và điểm dễ sai ở tầng mạng.
+Thiết kế kiến trúc multi-region trên DigitalOcean đạt RTO 5 phút, RPO 0; mô tả replication, failover và thử nghiệm định kỳ.
+Đo và cải thiện latency mà không làm xấu IOPS trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+Viết câu lệnh SQLite tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Viết hàm Rust tính số Fibonacci thứ 168 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Viết pseudo-code tính VWAP cho BNB theo dữ liệu OHLCV 50 ngày; kèm phân tích độ phức tạp.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hải Phòng (công suất 382370 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết middleware Express.js để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+So sánh HTTP/3 và TCP trong bối cảnh IoT sensor; khi nào chọn cái nào và vì sao?
+Bài toán chia kẹo: có 35 viên, chia cho 2 bạn chênh nhau 3 viên; liệt kê mọi phương án hợp lệ.
+Thiết kế hệ thống đặt vé du lịch tại New York dùng Svelte, chịu tải 4491381 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết middleware React để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Viết hàm Bash tính số Fibonacci thứ 153 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế thí nghiệm A/B để đánh giá prompt engineering cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Hạ Long; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Thiết kế chỉ mục văn bản cho 1474235 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết pseudo-code tính VWAP cho OP theo dữ liệu OHLCV 53 ngày; kèm phân tích độ phức tạp.
+Xây dựng dashboard KPI cho bán lẻ trong 1 năm; nêu 8 chỉ số cốt lõi và mô hình dữ liệu.
+Tối ưu đoạn code Bash đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại TP.HCM; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Thiết kế thí nghiệm A/B để đánh giá RLHF cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Viết pseudo-code tính VWAP cho APT theo dữ liệu OHLCV 85 ngày; kèm phân tích độ phức tạp.
+Giải hệ phương trình: { x + y = 10, x·y = 25 } và giải thích phương pháp.
+Trình bày quy trình RAG cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+So sánh gRPC và HTTP/3 trong bối cảnh streaming video; khi nào chọn cái nào và vì sao?
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên máy tính bảng chạy Android 15.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên điện thoại chạy Windows 11.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Chuyển đổi log ứng dụng sang JSON tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Giải hệ phương trình: { x + y = 9, x·y = 20 } và giải thích phương pháp.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Thái Nguyên (công suất 315296 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Tối ưu đoạn code Java đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Xây dựng pipeline dữ liệu cho bài toán phân loại cảm xúc tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Chuyển đổi log ứng dụng sang Parquet tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+So sánh WebSocket và HTTP/3 trong bối cảnh streaming video; khi nào chọn cái nào và vì sao?
+Thiết kế thí nghiệm A/B để đánh giá distillation cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Thiết kế hệ thống đặt vé du lịch tại Buôn Ma Thuột dùng Django, chịu tải 1590020 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Chuyển đổi log ứng dụng sang XML tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+So sánh HTTP/2 và gRPC trong bối cảnh streaming video; khi nào chọn cái nào và vì sao?
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Bài toán chia kẹo: có 5 viên, chia cho 2 bạn chênh nhau 1 viên; liệt kê mọi phương án hợp lệ.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Thái Nguyên; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Áp dụng tổ hợp để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Đo và cải thiện availability mà không làm xấu IOPS trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+Bài toán chia kẹo: có 35 viên, chia cho 2 bạn chênh nhau 5 viên; liệt kê mọi phương án hợp lệ.
+Chuyển đổi log ứng dụng sang Parquet tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup logistics ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Hải Phòng; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Viết câu lệnh Elasticsearch tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Bài toán chia kẹo: có 17 viên, chia cho 2 bạn chênh nhau 13 viên; liệt kê mọi phương án hợp lệ.
+Tối ưu biểu thức: ∑_(i=1..n) i^4 + ∑_(i=1..n) i^8; chứng minh bằng quy nạp công thức đóng.
+Thiết kế hệ thống đặt vé du lịch tại Berlin dùng Django, chịu tải 2845853 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết câu lệnh MySQL tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Thiết kế thí nghiệm A/B để đánh giá distillation cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Hướng dẫn Huy học JavaScript từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+Xây dựng pipeline dữ liệu cho bài toán trả lời câu hỏi tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Giải thích mã hóa AES-GCM là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Thiết kế chỉ mục văn bản cho 3647257 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Minh hoạ bắt tay (handshake) của UDP; trình bày từng bước và điểm dễ sai ở tầng mạng.
+Thiết kế hệ thống đặt vé du lịch tại TP.HCM dùng Next.js, chịu tải 4470122 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch du lịch London 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Thiết kế kiến trúc multi-region trên GCP đạt RTO 5 phút, RPO 0; mô tả replication, failover và thử nghiệm định kỳ.
+Giải hệ phương trình: { x + y = 8, x·y = 15 } và giải thích phương pháp.
+Viết câu lệnh SQLite tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Viết pseudo-code tính VWAP cho BTC theo dữ liệu OHLCV 28 ngày; kèm phân tích độ phức tạp.
+Xây dựng pipeline dữ liệu cho bài toán nhận dạng thực thể tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hà Nội (công suất 289510 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống gợi ý top-7 sản phẩm theo lịch sử người dùng; mô tả lược đồ dữ liệu, offline/online feature store và đánh giá offline/online.
+Hướng dẫn Hòa học C++ từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+Giải thích CORS là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa PHRS và BNB; nêu tình huống sử dụng phù hợp.
+Thiết kế chỉ mục văn bản cho 3086852 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế thí nghiệm A/B để đánh giá vector database cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Tối ưu biểu thức: ∑_(i=1..n) i^2 + ∑_(i=1..n) i^6; chứng minh bằng quy nạp công thức đóng.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+So sánh QUIC và TCP trong bối cảnh game online; khi nào chọn cái nào và vì sao?
+Lập kế hoạch du lịch Tokyo 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề kinh tế dành cho học sinh lớp 10; có gợi ý đáp án.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Quy Nhơn; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Viết pseudo-code tính VWAP cho MATIC theo dữ liệu OHLCV 86 ngày; kèm phân tích độ phức tạp.
+Lập kế hoạch du lịch Tokyo 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Minh hoạ bắt tay (handshake) của WebSocket; trình bày từng bước và điểm dễ sai ở tầng mạng.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho TP.HCM (công suất 74765 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 2044401 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề hóa học dành cho học sinh lớp 10; có gợi ý đáp án.
+Viết hàm Rust tính số Fibonacci thứ 1237 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Viết câu lệnh ClickHouse tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên TV chạy Ubuntu 24.04.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên đồng hồ thông minh chạy Android 15.
+Viết câu lệnh SQLite tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Lập kế hoạch du lịch London 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Trình bày quy trình RLHF cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+Viết pseudo-code tính VWAP cho PHRS theo dữ liệu OHLCV 34 ngày; kèm phân tích độ phức tạp.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Cần Thơ; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên laptop chạy Ubuntu 24.04.
+Thiết kế thí nghiệm A/B để đánh giá prompt engineering cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Hướng dẫn Thiện học C++ từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+Minh hoạ bắt tay (handshake) của TCP; trình bày từng bước và điểm dễ sai ở tầng mạng.
+Chuyển đổi log ứng dụng sang ProtoBuf tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Giải hệ phương trình: { x + y = 8, x·y = 15 } và giải thích phương pháp.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Biên Hòa; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề địa lý dành cho học sinh lớp 10; có gợi ý đáp án.
+Thiết kế thí nghiệm A/B để đánh giá RAG cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Xây dựng pipeline dữ liệu cho bài toán phân loại cảm xúc tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup e-commerce ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Thiết kế hệ thống đặt vé du lịch tại Huế dùng Vue, chịu tải 1390054 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết unit test table-driven cho một hàm C++ parse datetime không chuẩn; kèm 6 test case méo mó.
+Thiết kế hệ thống gợi ý top-4 sản phẩm theo lịch sử người dùng; mô tả lược đồ dữ liệu, offline/online feature store và đánh giá offline/online.
+Thiết kế hệ thống gợi ý top-10 sản phẩm theo lịch sử người dùng; mô tả lược đồ dữ liệu, offline/online feature store và đánh giá offline/online.
+Xây dựng pipeline dữ liệu cho bài toán trả lời câu hỏi tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Tối ưu đoạn code JavaScript đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Viết unit test table-driven cho một hàm Java parse datetime không chuẩn; kèm 6 test case méo mó.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Hướng dẫn Quân học Bash từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+Tối ưu đoạn code TypeScript đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Xây dựng pipeline dữ liệu cho bài toán phân loại cảm xúc tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Xây dựng pipeline dữ liệu cho bài toán nhận dạng thực thể tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Tối ưu biểu thức: ∑_(i=1..n) i^4 + ∑_(i=1..n) i^4; chứng minh bằng quy nạp công thức đóng.
+Minh hoạ bắt tay (handshake) của UDP; trình bày từng bước và điểm dễ sai ở tầng mạng.
+Giải hệ phương trình: { x + y = 7, x·y = 10 } và giải thích phương pháp.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup IoT ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề văn học dành cho học sinh lớp 10; có gợi ý đáp án.
+Trình bày quy trình vector database cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Hướng dẫn Nam học JavaScript từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+Lập kế hoạch du lịch Tokyo 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Đà Nẵng (công suất 209341 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch du lịch Sydney 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề lịch sử dành cho học sinh lớp 10; có gợi ý đáp án.
+Viết unit test table-driven cho một hàm JavaScript parse datetime không chuẩn; kèm 6 test case méo mó.
+Viết middleware FastAPI để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+So sánh TLS 1.3 và UDP trong bối cảnh game online; khi nào chọn cái nào và vì sao?
+Tối ưu đoạn code JavaScript đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên máy tính bảng chạy macOS Sequoia.
+Giải thích XSS là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Minh hoạ bắt tay (handshake) của TLS 1.3; trình bày từng bước và điểm dễ sai ở tầng mạng.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa SOL và BTC; nêu tình huống sử dụng phù hợp.
+So sánh QUIC và HTTP/2 trong bối cảnh trading real-time; khi nào chọn cái nào và vì sao?
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+Thiết kế chỉ mục văn bản cho 4441216 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Tối ưu đoạn code JavaScript đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Viết middleware Spring Boot để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Lập kế hoạch du lịch Berlin 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+Hướng dẫn Ngọc học Rust từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+Hướng dẫn Giang học Python từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+Lập kế hoạch du lịch Seoul 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Viết câu lệnh Elasticsearch tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Viết câu lệnh MySQL tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Thiết kế hệ thống gợi ý top-5 sản phẩm theo lịch sử người dùng; mô tả lược đồ dữ liệu, offline/online feature store và đánh giá offline/online.
+Trình bày quy trình RAG cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Viết Spring Boot hook/component xử lý vô hiệu hoá nút Submit khi form chưa hợp lệ; kèm ví dụ code ngắn.
+Tối ưu biểu thức: ∑_(i=1..n) i^7 + ∑_(i=1..n) i^6; chứng minh bằng quy nạp công thức đóng.
+Xây dựng dashboard KPI cho bán lẻ trong 1 tuần; nêu 8 chỉ số cốt lõi và mô hình dữ liệu.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Giải thích CSRF là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Thiết kế thí nghiệm A/B để đánh giá RLHF cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa PHRS và MATIC; nêu tình huống sử dụng phù hợp.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+Giải hệ phương trình: { x + y = 10, x·y = 25 } và giải thích phương pháp.
+Xây dựng pipeline dữ liệu cho bài toán dịch máy tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+So sánh UDP và HTTP/2 trong bối cảnh streaming video; khi nào chọn cái nào và vì sao?
+Tối ưu đoạn code Bash đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Thiết kế hệ thống gợi ý top-4 sản phẩm theo lịch sử người dùng; mô tả lược đồ dữ liệu, offline/online feature store và đánh giá offline/online.
+Giải thích rate limit là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Giải hệ phương trình: { x + y = 6, x·y = 9 } và giải thích phương pháp.
+Viết câu lệnh PostgreSQL tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Viết pseudo-code tính VWAP cho OP theo dữ liệu OHLCV 66 ngày; kèm phân tích độ phức tạp.
+Giải thích Zero Trust là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Giải hệ phương trình: { x + y = 5, x·y = 6 } và giải thích phương pháp.
+Tối ưu biểu thức: ∑_(i=1..n) i^8 + ∑_(i=1..n) i^7; chứng minh bằng quy nạp công thức đóng.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên laptop chạy Ubuntu 24.04.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên laptop chạy macOS Sequoia.
+Lập kế hoạch du lịch Dubai 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại TP.HCM; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+Tối ưu biểu thức: ∑_(i=1..n) i^8 + ∑_(i=1..n) i^4; chứng minh bằng quy nạp công thức đóng.
+So sánh HTTP/2 và TLS 1.3 trong bối cảnh streaming video; khi nào chọn cái nào và vì sao?
+Thiết kế chỉ mục văn bản cho 2604016 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế thí nghiệm A/B để đánh giá transformer cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa SOL và BTC; nêu tình huống sử dụng phù hợp.
+Áp dụng tổ hợp để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Đà Nẵng (công suất 477144 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Tokyo dùng Django, chịu tải 3682276 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Chuyển đổi log ứng dụng sang JSON tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Viết hàm SQL tính số Fibonacci thứ 1645 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Hướng dẫn Minh học JavaScript từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Giải thích Zero Trust là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề toán học dành cho học sinh lớp 10; có gợi ý đáp án.
+Viết câu lệnh MySQL tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Lập kế hoạch du lịch New York 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Áp dụng quy hoạch tuyến tính để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Thiết kế hệ thống gợi ý top-19 sản phẩm theo lịch sử người dùng; mô tả lược đồ dữ liệu, offline/online feature store và đánh giá offline/online.
+Đo và cải thiện IOPS mà không làm xấu memory trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+Bài toán chia kẹo: có 33 viên, chia cho 2 bạn chênh nhau 3 viên; liệt kê mọi phương án hợp lệ.
+Minh hoạ bắt tay (handshake) của UDP; trình bày từng bước và điểm dễ sai ở tầng mạng.
+Viết câu lệnh PostgreSQL tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Viết hàm Python tính số Fibonacci thứ 507 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Giải thích JWT là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa PHRS và MATIC; nêu tình huống sử dụng phù hợp.
+Viết pseudo-code tính VWAP cho BNB theo dữ liệu OHLCV 7 ngày; kèm phân tích độ phức tạp.
+Viết câu lệnh ClickHouse tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Huế (công suất 151882 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup IoT ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Tối ưu đoạn code Python đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Viết Django hook/component xử lý vô hiệu hoá nút Submit khi form chưa hợp lệ; kèm ví dụ code ngắn.
+Viết câu lệnh MySQL tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Minh hoạ bắt tay (handshake) của QUIC; trình bày từng bước và điểm dễ sai ở tầng mạng.
+Bài toán chia kẹo: có 23 viên, chia cho 2 bạn chênh nhau 15 viên; liệt kê mọi phương án hợp lệ.
+So sánh HTTP/2 và HTTP/3 trong bối cảnh trading real-time; khi nào chọn cái nào và vì sao?
+Hướng dẫn Ngọc học Bash từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+Viết pseudo-code tính VWAP cho SUI theo dữ liệu OHLCV 51 ngày; kèm phân tích độ phức tạp.
+Xây dựng dashboard KPI cho giáo dục trong 1 tuần; nêu 8 chỉ số cốt lõi và mô hình dữ liệu.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho TP.HCM (công suất 450935 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Giải thích JWT là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa ETH và BTC; nêu tình huống sử dụng phù hợp.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa TON và MATIC; nêu tình huống sử dụng phù hợp.
+Tối ưu đoạn code SQL đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Thiết kế thí nghiệm A/B để đánh giá RLHF cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Viết middleware FastAPI để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Giải thích mã hóa AES-GCM là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Thiết kế thí nghiệm A/B để đánh giá LoRA fine-tuning cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Tối ưu biểu thức: ∑_(i=1..n) i^8 + ∑_(i=1..n) i^2; chứng minh bằng quy nạp công thức đóng.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Thiết kế hệ thống đặt vé du lịch tại Biên Hòa dùng Vue, chịu tải 3191922 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết unit test table-driven cho một hàm Java parse datetime không chuẩn; kèm 6 test case méo mó.
+Giải thích CORS là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Chuyển đổi log ứng dụng sang YAML tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Viết câu lệnh Redis tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Viết câu lệnh Elasticsearch tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Viết middleware Svelte để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Viết Express.js hook/component xử lý vô hiệu hoá nút Submit khi form chưa hợp lệ; kèm ví dụ code ngắn.
+Thiết kế chỉ mục văn bản cho 1710247 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Tối ưu biểu thức: ∑_(i=1..n) i^6 + ∑_(i=1..n) i^7; chứng minh bằng quy nạp công thức đóng.
+Viết pseudo-code tính VWAP cho ARB theo dữ liệu OHLCV 37 ngày; kèm phân tích độ phức tạp.
+Tối ưu biểu thức: ∑_(i=1..n) i^2 + ∑_(i=1..n) i^2; chứng minh bằng quy nạp công thức đóng.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Giải hệ phương trình: { x + y = 6, x·y = 8 } và giải thích phương pháp.
+Bài toán chia kẹo: có 20 viên, chia cho 2 bạn chênh nhau 16 viên; liệt kê mọi phương án hợp lệ.
+Viết câu lệnh PostgreSQL tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa SOL và BTC; nêu tình huống sử dụng phù hợp.
+Minh hoạ bắt tay (handshake) của HTTP/3; trình bày từng bước và điểm dễ sai ở tầng mạng.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên điện thoại chạy Android 15.
+Hướng dẫn Thu học C++ từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup healthcare ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Viết middleware NestJS để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Áp dụng biến đổi Fourier để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Chuyển đổi log ứng dụng sang Avro tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup e-commerce ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Viết middleware React để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Viết pseudo-code tính VWAP cho ETH theo dữ liệu OHLCV 47 ngày; kèm phân tích độ phức tạp.
+Thiết kế thí nghiệm A/B để đánh giá RAG cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Viết pseudo-code tính VWAP cho ETH theo dữ liệu OHLCV 58 ngày; kèm phân tích độ phức tạp.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Viết unit test table-driven cho một hàm Python parse datetime không chuẩn; kèm 6 test case méo mó.
+Đo và cải thiện throughput mà không làm xấu availability trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+Xây dựng dashboard KPI cho du lịch trong 1 năm; nêu 8 chỉ số cốt lõi và mô hình dữ liệu.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Bắc Ninh; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Viết React hook/component xử lý vô hiệu hoá nút Submit khi form chưa hợp lệ; kèm ví dụ code ngắn.
+Viết câu lệnh MongoDB tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Đo và cải thiện availability mà không làm xấu latency trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+Trình bày quy trình LoRA fine-tuning cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Bài toán chia kẹo: có 28 viên, chia cho 2 bạn chênh nhau 6 viên; liệt kê mọi phương án hợp lệ.
+Viết Next.js hook/component xử lý vô hiệu hoá nút Submit khi form chưa hợp lệ; kèm ví dụ code ngắn.
+Thiết kế kiến trúc multi-region trên Azure đạt RTO 5 phút, RPO 0; mô tả replication, failover và thử nghiệm định kỳ.
+Thiết kế kiến trúc multi-region trên DigitalOcean đạt RTO 5 phút, RPO 0; mô tả replication, failover và thử nghiệm định kỳ.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup IoT ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Quy Nhơn; nêu RACI, ma trận liên hệ và kênh truyền thông.
+So sánh TLS 1.3 và gRPC trong bối cảnh game online; khi nào chọn cái nào và vì sao?
+Xây dựng pipeline dữ liệu cho bài toán tóm tắt văn bản tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Thiết kế kiến trúc multi-region trên DigitalOcean đạt RTO 5 phút, RPO 0; mô tả replication, failover và thử nghiệm định kỳ.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Viết pseudo-code tính VWAP cho PHRS theo dữ liệu OHLCV 53 ngày; kèm phân tích độ phức tạp.
+Thiết kế kiến trúc multi-region trên AWS đạt RTO 5 phút, RPO 0; mô tả replication, failover và thử nghiệm định kỳ.
+Xây dựng dashboard KPI cho giáo dục trong 1 quý; nêu 8 chỉ số cốt lõi và mô hình dữ liệu.
+Viết Svelte hook/component xử lý vô hiệu hoá nút Submit khi form chưa hợp lệ; kèm ví dụ code ngắn.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Bài toán chia kẹo: có 20 viên, chia cho 2 bạn chênh nhau 16 viên; liệt kê mọi phương án hợp lệ.
+Chuyển đổi log ứng dụng sang Parquet tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Giải thích XSS là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Thiết kế hệ thống đặt vé du lịch tại Phan Thiết dùng Express.js, chịu tải 3573441 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Bắc Ninh (công suất 155183 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Đà Nẵng (công suất 487028 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Giải hệ phương trình: { x + y = 7, x·y = 10 } và giải thích phương pháp.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup blockchain ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên đồng hồ thông minh chạy iOS 18.
+Thiết kế chỉ mục văn bản cho 2981461 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết câu lệnh MySQL tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên điện thoại chạy Windows 11.
+Thiết kế chỉ mục văn bản cho 2233447 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế kiến trúc multi-region trên GCP đạt RTO 5 phút, RPO 0; mô tả replication, failover và thử nghiệm định kỳ.
+Thiết kế chỉ mục văn bản cho 1703927 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên TV chạy macOS Sequoia.
+Áp dụng tổ hợp để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Đo và cải thiện IOPS mà không làm xấu p99 trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên laptop chạy iOS 18.
+Thiết kế kiến trúc multi-region trên DigitalOcean đạt RTO 5 phút, RPO 0; mô tả replication, failover và thử nghiệm định kỳ.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Cần Thơ; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Thiết kế thí nghiệm A/B để đánh giá RLHF cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa TON và ARB; nêu tình huống sử dụng phù hợp.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa ARB và ETH; nêu tình huống sử dụng phù hợp.
+Tối ưu đoạn code C++ đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Chuyển đổi log ứng dụng sang CSV tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup gaming ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Viết câu lệnh PostgreSQL tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Thiết kế kiến trúc multi-region trên AWS đạt RTO 5 phút, RPO 0; mô tả replication, failover và thử nghiệm định kỳ.
+Hướng dẫn Ngọc học Bash từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Phan Thiết; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Hướng dẫn Thu học Rust từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+Đo và cải thiện latency mà không làm xấu memory trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên điện thoại chạy macOS Sequoia.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Đà Nẵng; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Chuyển đổi log ứng dụng sang JSON tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Lập kế hoạch du lịch Singapore 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup blockchain ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Giải hệ phương trình: { x + y = 8, x·y = 15 } và giải thích phương pháp.
+Viết unit test table-driven cho một hàm C++ parse datetime không chuẩn; kèm 6 test case méo mó.
+Viết middleware Spring Boot để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Giải hệ phương trình: { x + y = 6, x·y = 8 } và giải thích phương pháp.
+Viết pseudo-code tính VWAP cho BNB theo dữ liệu OHLCV 75 ngày; kèm phân tích độ phức tạp.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup logistics ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Viết hàm TypeScript tính số Fibonacci thứ 482 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế thí nghiệm A/B để đánh giá vector database cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+Thiết kế chỉ mục văn bản cho 3771774 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Áp dụng ma trận để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Viết hàm Java tính số Fibonacci thứ 1190 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế hệ thống gợi ý top-12 sản phẩm theo lịch sử người dùng; mô tả lược đồ dữ liệu, offline/online feature store và đánh giá offline/online.
+Thiết kế chỉ mục văn bản cho 3632298 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết câu lệnh SQLite tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Bài toán chia kẹo: có 27 viên, chia cho 2 bạn chênh nhau 13 viên; liệt kê mọi phương án hợp lệ.
+Thiết kế thí nghiệm A/B để đánh giá vector database cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Viết pseudo-code tính VWAP cho BTC theo dữ liệu OHLCV 15 ngày; kèm phân tích độ phức tạp.
+Lập kế hoạch du lịch Dubai 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Tối ưu đoạn code Rust đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Viết hàm Python tính số Fibonacci thứ 237 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch du lịch New York 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Viết pseudo-code tính VWAP cho OP theo dữ liệu OHLCV 43 ngày; kèm phân tích độ phức tạp.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Hải Phòng; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Thiết kế hệ thống gợi ý top-18 sản phẩm theo lịch sử người dùng; mô tả lược đồ dữ liệu, offline/online feature store và đánh giá offline/online.
+Viết unit test table-driven cho một hàm Rust parse datetime không chuẩn; kèm 6 test case méo mó.
+Áp dụng tích phân để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Bắc Ninh (công suất 35376 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Tối ưu đoạn code Java đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên điện thoại chạy iOS 18.
+Xây dựng pipeline dữ liệu cho bài toán nhận dạng thực thể tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Áp dụng tối ưu hóa để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề hóa học dành cho học sinh lớp 10; có gợi ý đáp án.
+Giải thích CORS là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Xây dựng pipeline dữ liệu cho bài toán nhận dạng thực thể tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Viết Next.js hook/component xử lý vô hiệu hoá nút Submit khi form chưa hợp lệ; kèm ví dụ code ngắn.
+Giải hệ phương trình: { x + y = 9, x·y = 20 } và giải thích phương pháp.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề hóa học dành cho học sinh lớp 10; có gợi ý đáp án.
+Viết Next.js hook/component xử lý vô hiệu hoá nút Submit khi form chưa hợp lệ; kèm ví dụ code ngắn.
+Minh hoạ bắt tay (handshake) của WebSocket; trình bày từng bước và điểm dễ sai ở tầng mạng.
+Trình bày quy trình prompt engineering cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Tối ưu biểu thức: ∑_(i=1..n) i^3 + ∑_(i=1..n) i^6; chứng minh bằng quy nạp công thức đóng.
+Viết middleware Express.js để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Lập kế hoạch du lịch London 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Thiết kế kiến trúc multi-region trên AWS đạt RTO 5 phút, RPO 0; mô tả replication, failover và thử nghiệm định kỳ.
+Thiết kế thí nghiệm A/B để đánh giá vector database cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Áp dụng ma trận để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Viết middleware FastAPI để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Thiết kế hệ thống đặt vé du lịch tại London dùng Svelte, chịu tải 3092957 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Giải thích WAF là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Thiết kế hệ thống gợi ý top-13 sản phẩm theo lịch sử người dùng; mô tả lược đồ dữ liệu, offline/online feature store và đánh giá offline/online.
+Xây dựng dashboard KPI cho ngân hàng trong 1 tuần; nêu 8 chỉ số cốt lõi và mô hình dữ liệu.
+Viết câu lệnh PostgreSQL tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Lập kế hoạch du lịch Seoul 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề hóa học dành cho học sinh lớp 10; có gợi ý đáp án.
+Thiết kế thí nghiệm A/B để đánh giá prompt engineering cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa TON và ETH; nêu tình huống sử dụng phù hợp.
+Chuyển đổi log ứng dụng sang ProtoBuf tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Trình bày quy trình prompt engineering cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Thiết kế thí nghiệm A/B để đánh giá RAG cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Viết pseudo-code tính VWAP cho SOL theo dữ liệu OHLCV 53 ngày; kèm phân tích độ phức tạp.
+Giải hệ phương trình: { x + y = 9, x·y = 20 } và giải thích phương pháp.
+Tối ưu biểu thức: ∑_(i=1..n) i^7 + ∑_(i=1..n) i^7; chứng minh bằng quy nạp công thức đóng.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Áp dụng tích phân để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên TV chạy Ubuntu 24.04.
+Bài toán chia kẹo: có 12 viên, chia cho 2 bạn chênh nhau 6 viên; liệt kê mọi phương án hợp lệ.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Chuyển đổi log ứng dụng sang Parquet tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Trình bày quy trình distillation cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Minh hoạ bắt tay (handshake) của HTTP/2; trình bày từng bước và điểm dễ sai ở tầng mạng.
+Viết pseudo-code tính VWAP cho PHRS theo dữ liệu OHLCV 51 ngày; kèm phân tích độ phức tạp.
+Áp dụng đạo hàm để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Viết hàm JavaScript tính số Fibonacci thứ 1627 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Áp dụng đạo hàm để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Thiết kế thí nghiệm A/B để đánh giá prompt engineering cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Bài toán chia kẹo: có 13 viên, chia cho 2 bạn chênh nhau 5 viên; liệt kê mọi phương án hợp lệ.
+Thiết kế hệ thống đặt vé du lịch tại New York dùng React, chịu tải 3468952 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Tối ưu đoạn code Rust đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên laptop chạy iOS 18.
+Viết middleware Express.js để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup healthcare ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+Tối ưu biểu thức: ∑_(i=1..n) i^2 + ∑_(i=1..n) i^3; chứng minh bằng quy nạp công thức đóng.
+Giải hệ phương trình: { x + y = 9, x·y = 20 } và giải thích phương pháp.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Thiết kế chỉ mục văn bản cho 4656618 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Xây dựng pipeline dữ liệu cho bài toán trả lời câu hỏi tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề tâm lý học dành cho học sinh lớp 10; có gợi ý đáp án.
+Tối ưu biểu thức: ∑_(i=1..n) i^7 + ∑_(i=1..n) i^8; chứng minh bằng quy nạp công thức đóng.
+Minh hoạ bắt tay (handshake) của HTTP/2; trình bày từng bước và điểm dễ sai ở tầng mạng.
+Viết middleware Vue để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Áp dụng xác suất để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+So sánh HTTP/2 và UDP trong bối cảnh trading real-time; khi nào chọn cái nào và vì sao?
+Thiết kế thí nghiệm A/B để đánh giá transformer cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Xây dựng pipeline dữ liệu cho bài toán phân loại cảm xúc tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Tối ưu biểu thức: ∑_(i=1..n) i^8 + ∑_(i=1..n) i^9; chứng minh bằng quy nạp công thức đóng.
+Xây dựng pipeline dữ liệu cho bài toán nhận dạng thực thể tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Thiết kế thí nghiệm A/B để đánh giá RAG cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Thiết kế thí nghiệm A/B để đánh giá RLHF cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Tối ưu biểu thức: ∑_(i=1..n) i^6 + ∑_(i=1..n) i^4; chứng minh bằng quy nạp công thức đóng.
+Viết middleware Vue để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Lập kế hoạch du lịch London 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Viết unit test table-driven cho một hàm Python parse datetime không chuẩn; kèm 6 test case méo mó.
+Giải hệ phương trình: { x + y = 6, x·y = 8 } và giải thích phương pháp.
+Tối ưu biểu thức: ∑_(i=1..n) i^6 + ∑_(i=1..n) i^9; chứng minh bằng quy nạp công thức đóng.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề lịch sử dành cho học sinh lớp 10; có gợi ý đáp án.
+Thiết kế hệ thống đặt vé du lịch tại Vinh dùng Next.js, chịu tải 956438 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Xây dựng dashboard KPI cho giáo dục trong 1 ngày; nêu 8 chỉ số cốt lõi và mô hình dữ liệu.
+Viết câu lệnh SQLite tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Hướng dẫn Huy học Rust từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+Tối ưu đoạn code Bash đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Hạ Long; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Xây dựng dashboard KPI cho du lịch trong 1 tháng; nêu 8 chỉ số cốt lõi và mô hình dữ liệu.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Nha Trang (công suất 151419 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+So sánh UDP và HTTP/2 trong bối cảnh trading real-time; khi nào chọn cái nào và vì sao?
+Viết hàm C++ tính số Fibonacci thứ 1565 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế hệ thống gợi ý top-7 sản phẩm theo lịch sử người dùng; mô tả lược đồ dữ liệu, offline/online feature store và đánh giá offline/online.
+Bài toán chia kẹo: có 8 viên, chia cho 2 bạn chênh nhau 2 viên; liệt kê mọi phương án hợp lệ.
+Trình bày quy trình LoRA fine-tuning cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Bài toán chia kẹo: có 11 viên, chia cho 2 bạn chênh nhau 5 viên; liệt kê mọi phương án hợp lệ.
+Minh hoạ bắt tay (handshake) của HTTP/3; trình bày từng bước và điểm dễ sai ở tầng mạng.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Lập kế hoạch du lịch Berlin 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Viết câu lệnh PostgreSQL tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Quy Nhơn (công suất 236285 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Phan Thiết dùng FastAPI, chịu tải 562043 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống gợi ý top-3 sản phẩm theo lịch sử người dùng; mô tả lược đồ dữ liệu, offline/online feature store và đánh giá offline/online.
+Giải thích Zero Trust là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Viết pseudo-code tính VWAP cho ETH theo dữ liệu OHLCV 14 ngày; kèm phân tích độ phức tạp.
+Viết hàm Go tính số Fibonacci thứ 1556 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế thí nghiệm A/B để đánh giá prompt engineering cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Thiết kế hệ thống đặt vé du lịch tại Hà Nội dùng FastAPI, chịu tải 3547264 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+Thiết kế hệ thống đặt vé du lịch tại Đà Nẵng dùng Next.js, chịu tải 33680 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Bài toán chia kẹo: có 26 viên, chia cho 2 bạn chênh nhau 8 viên; liệt kê mọi phương án hợp lệ.
+Thiết kế chỉ mục văn bản cho 227430 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên máy tính bảng chạy macOS Sequoia.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên laptop chạy Ubuntu 24.04.
+Chuyển đổi log ứng dụng sang Avro tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+Trình bày quy trình RLHF cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho TP.HCM (công suất 332383 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết Express.js hook/component xử lý vô hiệu hoá nút Submit khi form chưa hợp lệ; kèm ví dụ code ngắn.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề văn học dành cho học sinh lớp 10; có gợi ý đáp án.
+Đo và cải thiện availability mà không làm xấu latency trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+Viết hàm Bash tính số Fibonacci thứ 515 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Giải thích JWT là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Thiết kế kiến trúc multi-region trên AWS đạt RTO 5 phút, RPO 0; mô tả replication, failover và thử nghiệm định kỳ.
+Viết FastAPI hook/component xử lý vô hiệu hoá nút Submit khi form chưa hợp lệ; kèm ví dụ code ngắn.
+Viết middleware Spring Boot để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Viết middleware Spring Boot để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Chuyển đổi log ứng dụng sang Avro tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Viết câu lệnh PostgreSQL tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Bài toán chia kẹo: có 14 viên, chia cho 2 bạn chênh nhau 10 viên; liệt kê mọi phương án hợp lệ.
+Viết middleware Django để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Chuyển đổi log ứng dụng sang XML tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Trình bày quy trình prompt engineering cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+So sánh TLS 1.3 và HTTP/3 trong bối cảnh trading real-time; khi nào chọn cái nào và vì sao?
+Đề xuất 3 mô hình kinh doanh khả thi cho startup blockchain ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Minh hoạ bắt tay (handshake) của QUIC; trình bày từng bước và điểm dễ sai ở tầng mạng.
+Xây dựng pipeline dữ liệu cho bài toán dịch máy tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Viết pseudo-code tính VWAP cho PHRS theo dữ liệu OHLCV 65 ngày; kèm phân tích độ phức tạp.
+Hướng dẫn Trinh học JavaScript từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa ARB và SOL; nêu tình huống sử dụng phù hợp.
+Thiết kế chỉ mục văn bản cho 2072091 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Xây dựng dashboard KPI cho bảo hiểm trong 1 năm; nêu 8 chỉ số cốt lõi và mô hình dữ liệu.
+Viết middleware FastAPI để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Vinh (công suất 245789 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Minh hoạ bắt tay (handshake) của QUIC; trình bày từng bước và điểm dễ sai ở tầng mạng.
+Chuyển đổi log ứng dụng sang XML tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Viết Next.js hook/component xử lý vô hiệu hoá nút Submit khi form chưa hợp lệ; kèm ví dụ code ngắn.
+Viết unit test table-driven cho một hàm Bash parse datetime không chuẩn; kèm 6 test case méo mó.
+Tối ưu biểu thức: ∑_(i=1..n) i^3 + ∑_(i=1..n) i^5; chứng minh bằng quy nạp công thức đóng.
+Trình bày quy trình prompt engineering cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Viết middleware Express.js để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Thiết kế hệ thống gợi ý top-3 sản phẩm theo lịch sử người dùng; mô tả lược đồ dữ liệu, offline/online feature store và đánh giá offline/online.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+Đo và cải thiện latency mà không làm xấu CPU trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+So sánh HTTP/2 và gRPC trong bối cảnh game online; khi nào chọn cái nào và vì sao?
+Thiết kế hệ thống gợi ý top-15 sản phẩm theo lịch sử người dùng; mô tả lược đồ dữ liệu, offline/online feature store và đánh giá offline/online.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề văn học dành cho học sinh lớp 10; có gợi ý đáp án.
+Viết unit test table-driven cho một hàm SQL parse datetime không chuẩn; kèm 6 test case méo mó.
+Viết unit test table-driven cho một hàm Bash parse datetime không chuẩn; kèm 6 test case méo mó.
+Viết unit test table-driven cho một hàm Go parse datetime không chuẩn; kèm 6 test case méo mó.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên laptop chạy Ubuntu 24.04.
+Thiết kế hệ thống gợi ý top-11 sản phẩm theo lịch sử người dùng; mô tả lược đồ dữ liệu, offline/online feature store và đánh giá offline/online.
+Giải hệ phương trình: { x + y = 7, x·y = 12 } và giải thích phương pháp.
+Thiết kế hệ thống gợi ý top-5 sản phẩm theo lịch sử người dùng; mô tả lược đồ dữ liệu, offline/online feature store và đánh giá offline/online.
+Viết câu lệnh ClickHouse tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+So sánh HTTP/2 và WebSocket trong bối cảnh streaming video; khi nào chọn cái nào và vì sao?
+Tối ưu biểu thức: ∑_(i=1..n) i^9 + ∑_(i=1..n) i^4; chứng minh bằng quy nạp công thức đóng.
+Chuyển đổi log ứng dụng sang ProtoBuf tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Tối ưu biểu thức: ∑_(i=1..n) i^4 + ∑_(i=1..n) i^2; chứng minh bằng quy nạp công thức đóng.
+Viết middleware React để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên điện thoại chạy iOS 18.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề sinh học dành cho học sinh lớp 10; có gợi ý đáp án.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+So sánh HTTP/3 và TLS 1.3 trong bối cảnh streaming video; khi nào chọn cái nào và vì sao?
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề hóa học dành cho học sinh lớp 10; có gợi ý đáp án.
+Hướng dẫn Thành học JavaScript từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho TP.HCM (công suất 69259 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup e-commerce ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên TV chạy Android 15.
+Thiết kế chỉ mục văn bản cho 1607049 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Giải thích WAF là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa ETH và MATIC; nêu tình huống sử dụng phù hợp.
+Thiết kế thí nghiệm A/B để đánh giá transformer cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Viết middleware Spring Boot để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hạ Long (công suất 395268 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hải Phòng (công suất 58955 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa OP và ETH; nêu tình huống sử dụng phù hợp.

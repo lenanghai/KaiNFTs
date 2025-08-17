@@ -1,0 +1,1000 @@
+Thiết kế hệ thống đặt vé du lịch tại Singapore dùng NestJS, chịu tải 3070129 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 3062837 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm SQL tính số Fibonacci thứ 947 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hạ Long (công suất 67390 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết unit test table-driven cho một hàm JavaScript parse datetime không chuẩn; kèm 6 test case méo mó. #35005
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Thái Nguyên (công suất 320125 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Sydney dùng NestJS, chịu tải 3088308 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 3459579 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 2696467 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm SQL tính số Fibonacci thứ 1797 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Viết hàm Go tính số Fibonacci thứ 177 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế hệ thống đặt vé du lịch tại Hà Nội dùng Django, chịu tải 3750756 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Phan Thiết (công suất 251535 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Buôn Ma Thuột (công suất 69087 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 2713715 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Bắc Ninh (công suất 147768 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Thái Nguyên dùng Express.js, chịu tải 1401523 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết hàm JavaScript tính số Fibonacci thứ 1998 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế hệ thống đặt vé du lịch tại Hạ Long dùng React, chịu tải 3201193 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 3226623 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm Rust tính số Fibonacci thứ 1491 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hải Phòng (công suất 461713 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 772461 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Cần Thơ (công suất 457481 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Bắc Ninh (công suất 209412 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Seoul dùng Vue, chịu tải 585679 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết hàm SQL tính số Fibonacci thứ 1813 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế hệ thống đặt vé du lịch tại Buôn Ma Thuột dùng Next.js, chịu tải 3580389 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Sydney dùng Vue, chịu tải 1016287 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 938130 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế thí nghiệm A/B để đánh giá vector database cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu. #35031
+Thiết kế chỉ mục văn bản cho 1105171 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết Django hook/component xử lý vô hiệu hoá nút Submit khi form chưa hợp lệ; kèm ví dụ code ngắn. #35033
+Thiết kế chỉ mục văn bản cho 2600216 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm Go tính số Fibonacci thứ 660 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Hướng dẫn Hằng học C++ từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày. #35036
+Thiết kế chỉ mục văn bản cho 4646548 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 3410268 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 386532 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Thái Nguyên (công suất 227081 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết hàm JavaScript tính số Fibonacci thứ 143 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 3639372 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Nha Trang dùng Django, chịu tải 2476056 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Thái Nguyên (công suất 170864 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Bangkok dùng Django, chịu tải 983116 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 1153941 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hạ Long (công suất 424094 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Buôn Ma Thuột (công suất 181745 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Phan Thiết (công suất 292030 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Cần Thơ dùng Spring Boot, chịu tải 2023258 người dùng đồng thời; phác thảo kiến trúc và bottleneck. #35050
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Biên Hòa (công suất 179086 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Singapore dùng Express.js, chịu tải 3820375 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết hàm Bash tính số Fibonacci thứ 803 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 4378457 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm C++ tính số Fibonacci thứ 969 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Vinh (công suất 193999 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Quy Nhơn (công suất 405487 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Bangkok dùng Django, chịu tải 2560608 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Bắc Ninh dùng FastAPI, chịu tải 1692949 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 4513546 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hà Nội (công suất 493977 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 4888176 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 1474660 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Buôn Ma Thuột (công suất 427583 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Cần Thơ (công suất 471183 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn. #35066
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Đà Nẵng (công suất 142418 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết hàm TypeScript tính số Fibonacci thứ 284 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế hệ thống đặt vé du lịch tại Hà Nội dùng NestJS, chịu tải 93417 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Đo và cải thiện memory mà không làm xấu throughput trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi. #35070
+Tối ưu đoạn code SQL đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp. #35071
+Thiết kế chỉ mục văn bản cho 2650513 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Biên Hòa dùng Svelte, chịu tải 2799439 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Quy Nhơn (công suất 497321 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết hàm Java tính số Fibonacci thứ 655 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 1127806 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm TypeScript tính số Fibonacci thứ 1910 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Trình bày quy trình RAG cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng. #35078
+Viết hàm Go tính số Fibonacci thứ 1559 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế hệ thống đặt vé du lịch tại Hạ Long dùng Svelte, chịu tải 521663 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 205247 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Nha Trang dùng Next.js, chịu tải 1943344 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Đà Nẵng (công suất 85239 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Sydney dùng React, chịu tải 3951164 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Thái Nguyên (công suất 376421 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Đà Nẵng dùng Express.js, chịu tải 3683027 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết hàm JavaScript tính số Fibonacci thứ 899 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Nha Trang (công suất 314482 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Nha Trang dùng Django, chịu tải 1926047 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 925150 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại TP.HCM dùng Vue, chịu tải 2762101 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 3528663 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số. #35093
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Biên Hòa (công suất 79540 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Biên Hòa dùng Express.js, chịu tải 3764589 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Tokyo dùng FastAPI, chịu tải 2212538 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 2571172 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm Rust tính số Fibonacci thứ 677 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Viết hàm JavaScript tính số Fibonacci thứ 1337 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 4408491 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Huế (công suất 432388 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 399665 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hạ Long (công suất 158555 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Quy Nhơn (công suất 329447 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Cần Thơ (công suất 32217 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Bắc Ninh dùng Express.js, chịu tải 2150586 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Thái Nguyên (công suất 41508 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Tối ưu biểu thức: ∑_(i=1..n) i^3 + ∑_(i=1..n) i^3; chứng minh bằng quy nạp công thức đóng. #35108
+Tối ưu biểu thức: ∑_(i=1..n) i^4 + ∑_(i=1..n) i^3; chứng minh bằng quy nạp công thức đóng. #35109
+Đo và cải thiện throughput mà không làm xấu memory trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi. #35110
+Thiết kế hệ thống đặt vé du lịch tại Hà Nội dùng Vue, chịu tải 2093082 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Nha Trang (công suất 430673 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 2446854 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Buôn Ma Thuột (công suất 221651 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Thái Nguyên (công suất 111694 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 1572921 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm JavaScript tính số Fibonacci thứ 1227 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế hệ thống đặt vé du lịch tại Tokyo dùng React, chịu tải 104036 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 2744111 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Cần Thơ (công suất 497731 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 4696700 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm Java tính số Fibonacci thứ 1194 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 1269588 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại New York dùng Next.js, chịu tải 4434090 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho TP.HCM (công suất 449906 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 190308 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 2648702 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hải Phòng (công suất 33677 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 3244332 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 3366010 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm Rust tính số Fibonacci thứ 1912 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế hệ thống đặt vé du lịch tại Hải Phòng dùng Spring Boot, chịu tải 2675939 người dùng đồng thời; phác thảo kiến trúc và bottleneck. #35132
+Viết hàm SQL tính số Fibonacci thứ 1613 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 2855229 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Nha Trang (công suất 330217 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Huế (công suất 464847 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho TP.HCM (công suất 10622 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết hàm SQL tính số Fibonacci thứ 1463 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế hệ thống đặt vé du lịch tại Quy Nhơn dùng Django, chịu tải 1570250 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 2117978 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm Go tính số Fibonacci thứ 1928 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế hệ thống đặt vé du lịch tại Seoul dùng Spring Boot, chịu tải 893138 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết hàm JavaScript tính số Fibonacci thứ 1309 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Viết hàm TypeScript tính số Fibonacci thứ 1037 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế hệ thống đặt vé du lịch tại Phan Thiết dùng Express.js, chịu tải 1855140 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết pseudo-code tính VWAP cho PHRS theo dữ liệu OHLCV 28 ngày; kèm phân tích độ phức tạp. #35146
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Vinh (công suất 94876 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Nha Trang dùng NestJS, chịu tải 3171885 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Biên Hòa dùng Next.js, chịu tải 1072985 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Huế (công suất 438461 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Giải hệ phương trình: { x + y = 8, x·y = 15 } và giải thích phương pháp. #35151
+Xây dựng pipeline dữ liệu cho bài toán dịch máy tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu. #35152
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Biên Hòa (công suất 26900 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết hàm TypeScript tính số Fibonacci thứ 1213 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Tối ưu biểu thức: ∑_(i=1..n) i^3 + ∑_(i=1..n) i^2; chứng minh bằng quy nạp công thức đóng. #35155
+Thiết kế hệ thống đặt vé du lịch tại Sydney dùng Django, chịu tải 1998596 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết hàm JavaScript tính số Fibonacci thứ 1728 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Viết hàm JavaScript tính số Fibonacci thứ 102 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 1828276 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 1495790 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết NestJS hook/component xử lý vô hiệu hoá nút Submit khi form chưa hợp lệ; kèm ví dụ code ngắn. #35161
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hà Nội (công suất 17951 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Hà Nội dùng FastAPI, chịu tải 553431 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Sydney dùng Next.js, chịu tải 1264028 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Quy Nhơn (công suất 442692 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 2497682 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 3376531 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Cần Thơ (công suất 334055 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Tối ưu đoạn code SQL đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp. #35169
+Thiết kế kiến trúc multi-region trên Azure đạt RTO 5 phút, RPO 0; mô tả replication, failover và thử nghiệm định kỳ. #35170
+Thiết kế hệ thống đặt vé du lịch tại Đà Nẵng dùng NestJS, chịu tải 2631508 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 613399 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Thái Nguyên (công suất 342341 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Nha Trang (công suất 469901 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết hàm Go tính số Fibonacci thứ 1606 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 1175993 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống gợi ý top-3 sản phẩm theo lịch sử người dùng; mô tả lược đồ dữ liệu, offline/online feature store và đánh giá offline/online. #35177
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hạ Long (công suất 201598 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Vinh dùng Next.js, chịu tải 3365724 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hà Nội (công suất 110843 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hải Phòng (công suất 117588 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Biên Hòa (công suất 240866 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 2544498 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Quy Nhơn dùng Next.js, chịu tải 83335 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup e-commerce ở Việt Nam; tính toán đơn giản CAC, LTV, payback. #35185
+Thiết kế chỉ mục văn bản cho 1130602 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Cần Thơ dùng Svelte, chịu tải 4234806 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Thái Nguyên (công suất 430289 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết middleware Spring Boot để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình. #35189
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hải Phòng (công suất 302582 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Huế (công suất 285775 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn. #35192
+Thiết kế hệ thống đặt vé du lịch tại Vinh dùng Svelte, chịu tải 3736103 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 221244 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 1822287 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Hà Nội dùng Spring Boot, chịu tải 1165982 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Singapore dùng Spring Boot, chịu tải 4716727 người dùng đồng thời; phác thảo kiến trúc và bottleneck. #35197
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Biên Hòa (công suất 161300 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hải Phòng (công suất 167174 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 1981130 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Hướng dẫn Quỳnh học Bash từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày. #35201
+Thiết kế thí nghiệm A/B để đánh giá LoRA fine-tuning cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu. #35202
+Thiết kế hệ thống đặt vé du lịch tại Buôn Ma Thuột dùng FastAPI, chịu tải 1491436 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Hải Phòng dùng Vue, chịu tải 1384635 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại New York dùng Vue, chịu tải 593328 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết hàm TypeScript tính số Fibonacci thứ 1980 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế hệ thống đặt vé du lịch tại Tokyo dùng Next.js, chịu tải 1342340 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Thái Nguyên (công suất 24514 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Huế dùng Express.js, chịu tải 808873 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Bắc Ninh (công suất 47625 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 498966 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 4167854 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Vinh (công suất 200253 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Dubai dùng Express.js, chịu tải 1825145 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Đà Nẵng dùng Spring Boot, chịu tải 4942140 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 3101766 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Nha Trang (công suất 471625 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết hàm Rust tính số Fibonacci thứ 1445 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế thí nghiệm A/B để đánh giá distillation cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu. #35219
+Thiết kế chỉ mục văn bản cho 3033455 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hạ Long (công suất 285632 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại TP.HCM; nêu RACI, ma trận liên hệ và kênh truyền thông. #35222
+Thiết kế chỉ mục văn bản cho 2224429 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Hà Nội dùng Vue, chịu tải 2653719 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Quy Nhơn (công suất 104926 cảm biến); thiết kế pipeline ingest → ETL → lake → BI. #35225
+Thiết kế hệ thống đặt vé du lịch tại Singapore dùng Django, chịu tải 786064 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 4350350 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 439902 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 165715 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm SQL tính số Fibonacci thứ 392 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 4686550 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Vinh (công suất 20961 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Cần Thơ (công suất 72960 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hà Nội (công suất 298253 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Hạ Long dùng Next.js, chịu tải 1881873 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Sydney dùng Next.js, chịu tải 1374044 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 2772391 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 4248487 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Đà Nẵng (công suất 90069 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết hàm C++ tính số Fibonacci thứ 470 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 1129477 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật. #35241
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Đà Nẵng (công suất 41663 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Huế dùng Spring Boot, chịu tải 1053110 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Hải Phòng dùng Svelte, chịu tải 4539949 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 1044660 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Singapore dùng Next.js, chịu tải 1256982 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Phan Thiết (công suất 238795 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Sydney dùng Next.js, chịu tải 463751 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết hàm C++ tính số Fibonacci thứ 1957 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 3008125 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 2024400 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Berlin dùng FastAPI, chịu tải 729681 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 3280412 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 4774836 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Cần Thơ (công suất 157323 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 1436534 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 821880 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho TP.HCM (công suất 32006 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Hà Nội dùng Express.js, chịu tải 524434 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Phan Thiết dùng Next.js, chịu tải 4811049 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 1790533 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Quy Nhơn dùng FastAPI, chịu tải 1753017 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 2227676 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm Go tính số Fibonacci thứ 990 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế hệ thống đặt vé du lịch tại Nha Trang dùng NestJS, chịu tải 1580768 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Trình bày quy trình multimodal cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng. #35266
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Phan Thiết (công suất 419903 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Nha Trang (công suất 452522 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại London dùng Express.js, chịu tải 3728120 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho TP.HCM (công suất 377251 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Buôn Ma Thuột (công suất 173185 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Tối ưu biểu thức: ∑_(i=1..n) i^2 + ∑_(i=1..n) i^9; chứng minh bằng quy nạp công thức đóng. #35272
+Thiết kế hệ thống đặt vé du lịch tại Buôn Ma Thuột dùng FastAPI, chịu tải 129083 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Phan Thiết (công suất 131212 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 3164788 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Biên Hòa (công suất 372729 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 3760408 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm Python tính số Fibonacci thứ 869 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Quy Nhơn (công suất 89041 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Nha Trang (công suất 146276 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Phan Thiết (công suất 391325 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 3311950 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm C++ tính số Fibonacci thứ 1976 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 1405041 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa SOL và BTC; nêu tình huống sử dụng phù hợp. #35285
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Nha Trang (công suất 307975 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Hạ Long dùng Svelte, chịu tải 2796809 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Tối ưu đoạn code Java đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp. #35288
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Nha Trang (công suất 432890 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Hạ Long dùng Vue, chịu tải 1549735 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 121844 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế thí nghiệm A/B để đánh giá RLHF cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu. #35292
+Thiết kế chỉ mục văn bản cho 1787391 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Vinh (công suất 82415 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết hàm TypeScript tính số Fibonacci thứ 1791 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 4873020 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 3009862 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Cần Thơ dùng React, chịu tải 2626047 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 4910324 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Cần Thơ (công suất 427361 cảm biến); thiết kế pipeline ingest → ETL → lake → BI. #35300
+Viết hàm C++ tính số Fibonacci thứ 365 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Viết hàm C++ tính số Fibonacci thứ 373 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 1727337 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 1753757 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 3980140 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật. #35305
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Huế (công suất 194695 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 993148 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 122435 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm C++ tính số Fibonacci thứ 1298 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Huế (công suất 124542 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Bắc Ninh dùng Next.js, chịu tải 3125497 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Bangkok dùng Next.js, chịu tải 613601 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết hàm JavaScript tính số Fibonacci thứ 1827 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 138748 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Biên Hòa (công suất 450107 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Nha Trang dùng NestJS, chịu tải 2361630 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Vinh dùng Svelte, chịu tải 70032 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Phan Thiết (công suất 304930 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Đà Nẵng dùng Spring Boot, chịu tải 2617525 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Quy Nhơn (công suất 395566 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 4802283 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Thái Nguyên dùng Spring Boot, chịu tải 3866906 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 3236300 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho TP.HCM (công suất 61636 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Cần Thơ dùng Django, chịu tải 2580196 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết hàm Rust tính số Fibonacci thứ 647 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Tối ưu biểu thức: ∑_(i=1..n) i^9 + ∑_(i=1..n) i^3; chứng minh bằng quy nạp công thức đóng. #35327
+Thiết kế chỉ mục văn bản cho 4471058 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Hướng dẫn Huy học Rust từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày. #35329
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Nha Trang (công suất 63214 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết hàm Bash tính số Fibonacci thứ 1562 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế hệ thống đặt vé du lịch tại Quy Nhơn dùng NestJS, chịu tải 4808192 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 2342406 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Phan Thiết dùng Next.js, chịu tải 968191 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 4990938 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 3291000 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Nha Trang dùng Django, chịu tải 2246034 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Quy Nhơn dùng Svelte, chịu tải 2819469 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Buôn Ma Thuột (công suất 433133 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Cần Thơ dùng React, chịu tải 3812961 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế kiến trúc multi-region trên AWS đạt RTO 5 phút, RPO 0; mô tả replication, failover và thử nghiệm định kỳ. #35341
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Quy Nhơn (công suất 495749 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Paris dùng React, chịu tải 2785975 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 4162034 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hạ Long (công suất 359355 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết pseudo-code tính VWAP cho ARB theo dữ liệu OHLCV 11 ngày; kèm phân tích độ phức tạp. #35346
+Viết hàm Bash tính số Fibonacci thứ 634 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination. #35348
+Thiết kế hệ thống đặt vé du lịch tại Berlin dùng Vue, chịu tải 1863588 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Hà Nội dùng NestJS, chịu tải 1455920 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Berlin dùng Vue, chịu tải 2791963 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Seoul dùng Next.js, chịu tải 252734 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết hàm Go tính số Fibonacci thứ 587 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Viết unit test table-driven cho một hàm Python parse datetime không chuẩn; kèm 6 test case méo mó. #35354
+Thiết kế hệ thống đặt vé du lịch tại Bắc Ninh dùng Spring Boot, chịu tải 1473659 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 2027404 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 1963333 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Giải thích CORS là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp. #35358
+Thiết kế chỉ mục văn bản cho 296772 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Berlin dùng FastAPI, chịu tải 970777 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết hàm Go tính số Fibonacci thứ 97 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Viết hàm TypeScript tính số Fibonacci thứ 788 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Phan Thiết (công suất 47966 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hạ Long (công suất 178620 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Biên Hòa (công suất 126135 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Hạ Long dùng Spring Boot, chịu tải 2009278 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Quy Nhơn dùng Django, chịu tải 4776358 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Giải thích Zero Trust là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp. #35368
+Viết hàm Python tính số Fibonacci thứ 1241 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Giải thích CSRF là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp. #35370
+Thiết kế chỉ mục văn bản cho 4625395 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Hạ Long dùng Django, chịu tải 860056 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Phan Thiết dùng Vue, chịu tải 4761977 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Phan Thiết dùng React, chịu tải 3383672 người dùng đồng thời; phác thảo kiến trúc và bottleneck. #35374
+Viết hàm Java tính số Fibonacci thứ 550 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Cần Thơ (công suất 245640 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 568058 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Huế (công suất 429134 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Berlin dùng Spring Boot, chịu tải 1058221 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết hàm Go tính số Fibonacci thứ 178 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 4369253 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế thí nghiệm A/B để đánh giá multimodal cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu. #35382
+Viết hàm C++ tính số Fibonacci thứ 1573 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 374141 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Bắc Ninh (công suất 392762 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hải Phòng (công suất 253123 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Nha Trang (công suất 458467 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Phan Thiết (công suất 315278 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Hải Phòng dùng Svelte, chịu tải 3584393 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Seoul dùng FastAPI, chịu tải 159356 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Biên Hòa dùng FastAPI, chịu tải 2033589 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại New York dùng Svelte, chịu tải 2872594 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Hải Phòng dùng Next.js, chịu tải 3470335 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hà Nội (công suất 217173 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Thái Nguyên (công suất 114339 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Vinh (công suất 458639 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết hàm Rust tính số Fibonacci thứ 96 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa BNB và APT; nêu tình huống sử dụng phù hợp. #35398
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Nha Trang (công suất 446392 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Đà Nẵng (công suất 23315 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hà Nội (công suất 74161 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Đà Nẵng (công suất 230664 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết câu lệnh PostgreSQL tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng. #35403
+Thiết kế chỉ mục văn bản cho 2570228 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho TP.HCM (công suất 259699 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Paris dùng Vue, chịu tải 4575134 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hải Phòng (công suất 399803 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 1934908 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Tối ưu đoạn code Java đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp. #35409
+Viết hàm Rust tính số Fibonacci thứ 1621 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hải Phòng (công suất 87451 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Cần Thơ (công suất 75972 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 1040750 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Singapore dùng FastAPI, chịu tải 1932755 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết hàm TypeScript tính số Fibonacci thứ 1448 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Thái Nguyên (công suất 12950 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Phan Thiết dùng Spring Boot, chịu tải 1135019 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Bắc Ninh dùng Express.js, chịu tải 2696055 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Seoul dùng Next.js, chịu tải 1216512 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 2845263 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm JavaScript tính số Fibonacci thứ 1128 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Vinh (công suất 239865 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Cần Thơ dùng FastAPI, chịu tải 4131967 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Buôn Ma Thuột dùng Express.js, chịu tải 4447224 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 4616442 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm JavaScript tính số Fibonacci thứ 932 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 4272780 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Đà Nẵng (công suất 316042 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Buôn Ma Thuột (công suất 191821 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết hàm Rust tính số Fibonacci thứ 1522 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Quy Nhơn (công suất 66321 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 461579 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Nha Trang dùng React, chịu tải 805695 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Hạ Long dùng Django, chịu tải 4658538 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 1791238 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Dubai dùng Django, chịu tải 85593 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Thái Nguyên dùng Express.js, chịu tải 1351361 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho TP.HCM (công suất 371192 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Paris dùng React, chịu tải 3936807 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 4099315 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 3663556 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Paris dùng NestJS, chịu tải 2603169 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Buôn Ma Thuột dùng Vue, chịu tải 189297 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 2139068 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Hải Phòng dùng NestJS, chịu tải 4140071 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 2034353 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể. #35447
+Thiết kế hệ thống đặt vé du lịch tại TP.HCM dùng Express.js, chịu tải 1688574 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Quy Nhơn dùng Svelte, chịu tải 4975414 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Cần Thơ (công suất 95160 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết hàm Python tính số Fibonacci thứ 555 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Quy Nhơn (công suất 64263 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 4497173 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 3363033 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Biên Hòa (công suất 318420 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết hàm Bash tính số Fibonacci thứ 1612 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho TP.HCM (công suất 186217 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Hà Nội dùng Express.js, chịu tải 2189725 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Dubai dùng Spring Boot, chịu tải 2240816 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 627887 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hạ Long (công suất 268195 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết hàm Rust tính số Fibonacci thứ 1345 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Đà Nẵng (công suất 349086 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại London dùng React, chịu tải 2986601 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Đà Nẵng (công suất 452344 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại TP.HCM dùng Vue, chịu tải 3385849 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Berlin dùng Django, chịu tải 1614614 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 340321 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Cần Thơ (công suất 88022 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại TP.HCM dùng Next.js, chịu tải 1986299 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Hải Phòng dùng Next.js, chịu tải 4707514 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 2062664 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Hà Nội dùng Spring Boot, chịu tải 1208328 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết hàm Go tính số Fibonacci thứ 1865 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế hệ thống đặt vé du lịch tại Cần Thơ dùng Django, chịu tải 1425918 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết hàm Python tính số Fibonacci thứ 690 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 3572815 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm Java tính số Fibonacci thứ 59 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 870110 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 2850723 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm C++ tính số Fibonacci thứ 1843 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Thái Nguyên (công suất 266511 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 3741823 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Thái Nguyên dùng Django, chịu tải 164494 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Hạ Long dùng Next.js, chịu tải 809461 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 1045100 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại New York dùng Svelte, chịu tải 131652 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Hải Phòng dùng React, chịu tải 644847 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Hạ Long dùng Django, chịu tải 1383404 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết hàm SQL tính số Fibonacci thứ 1908 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế hệ thống đặt vé du lịch tại Biên Hòa dùng FastAPI, chịu tải 1530598 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết hàm JavaScript tính số Fibonacci thứ 1051 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế hệ thống đặt vé du lịch tại Hạ Long dùng React, chịu tải 3748139 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Quy Nhơn dùng Next.js, chịu tải 960584 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết hàm Go tính số Fibonacci thứ 872 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 4135322 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 260581 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 3197258 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 3322685 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Buôn Ma Thuột dùng React, chịu tải 4742722 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Seoul dùng Django, chịu tải 2195781 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế thí nghiệm A/B để đánh giá RLHF cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu. #35502
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Biên Hòa (công suất 212449 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Thái Nguyên (công suất 96025 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại London dùng Django, chịu tải 4952917 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 1375154 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Buôn Ma Thuột dùng Django, chịu tải 4123780 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Sydney dùng React, chịu tải 4298032 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết hàm Rust tính số Fibonacci thứ 550 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế hệ thống đặt vé du lịch tại Paris dùng Svelte, chịu tải 1614831 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Quy Nhơn (công suất 18854 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Hà Nội dùng Spring Boot, chịu tải 1144114 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 917660 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 822723 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết Django hook/component xử lý vô hiệu hoá nút Submit khi form chưa hợp lệ; kèm ví dụ code ngắn. #35515
+Thiết kế chỉ mục văn bản cho 722300 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 3547055 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Huế (công suất 221506 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 3979795 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết pseudo-code tính VWAP cho APT theo dữ liệu OHLCV 24 ngày; kèm phân tích độ phức tạp. #35520
+Thiết kế hệ thống đặt vé du lịch tại Đà Nẵng dùng React, chịu tải 1274851 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 3472234 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 1336860 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho TP.HCM (công suất 384317 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Quy Nhơn (công suất 368966 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 73047 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Vinh dùng NestJS, chịu tải 2088480 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Tối ưu đoạn code Java đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp. #35528
+Thiết kế chỉ mục văn bản cho 207638 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 2474582 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Nha Trang dùng Spring Boot, chịu tải 518795 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Đà Nẵng (công suất 158501 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Bắc Ninh (công suất 63604 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết hàm JavaScript tính số Fibonacci thứ 172 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Viết hàm TypeScript tính số Fibonacci thứ 968 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế hệ thống đặt vé du lịch tại Bangkok dùng Next.js, chịu tải 4578158 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 2039645 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup gaming ở Việt Nam; tính toán đơn giản CAC, LTV, payback. #35538
+Thiết kế chỉ mục văn bản cho 1091648 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 870026 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Dubai dùng Next.js, chịu tải 1627747 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 3147981 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Phan Thiết (công suất 241065 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Cần Thơ dùng Express.js, chịu tải 2091374 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 699611 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết unit test table-driven cho một hàm C++ parse datetime không chuẩn; kèm 6 test case méo mó. #35546
+Thiết kế hệ thống đặt vé du lịch tại Huế dùng NestJS, chịu tải 4216905 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Phan Thiết (công suất 245665 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Nha Trang (công suất 80285 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Bangkok dùng Next.js, chịu tải 4575523 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết hàm SQL tính số Fibonacci thứ 750 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 2232611 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho TP.HCM (công suất 169835 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết hàm Bash tính số Fibonacci thứ 1627 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Tối ưu biểu thức: ∑_(i=1..n) i^4 + ∑_(i=1..n) i^7; chứng minh bằng quy nạp công thức đóng. #35555
+Thiết kế chỉ mục văn bản cho 1705282 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 4591687 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 1831312 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 599400 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Hạ Long dùng NestJS, chịu tải 3233990 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+So sánh WebSocket và UDP trong bối cảnh g; khi nào chọn cái nào và vì sao? #35561
+Thiết kế hệ thống đặt vé du lịch tại Tokyo dùng Vue, chịu tải 929417 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 2130127 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm Java tính số Fibonacci thứ 115 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 2268794 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Thái Nguyên (công suất 296752 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Biên Hòa (công suất 412736 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Cần Thơ (công suất 180597 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hạ Long (công suất 138094 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 1326786 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch du lịch Sydney 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương. #35571
+Lập kế hoạch du lịch Sydney 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương. #35572
+Thiết kế hệ thống đặt vé du lịch tại Phan Thiết dùng Django, chịu tải 1555537 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Singapore dùng Express.js, chịu tải 3641076 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại TP.HCM dùng Spring Boot, chịu tải 1150513 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 3715874 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 834264 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Paris dùng Next.js, chịu tải 3730357 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Sydney dùng Next.js, chịu tải 2330179 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 4700320 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Nha Trang (công suất 476625 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 4397936 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Huế (công suất 92970 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Quy Nhơn (công suất 278427 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Vinh dùng Next.js, chịu tải 2622519 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết hàm SQL tính số Fibonacci thứ 517 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 1581211 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 4831213 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 3853920 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 3657651 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm Python tính số Fibonacci thứ 1962 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 3367044 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 862862 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Cần Thơ (công suất 437325 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Huế (công suất 131181 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hạ Long (công suất 115502 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Buôn Ma Thuột dùng Vue, chịu tải 4034508 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 1473438 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 1468924 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Huế (công suất 368339 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Dubai dùng Express.js, chịu tải 2353863 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Hải Phòng dùng Next.js, chịu tải 720761 người dùng đồng thời; phác thảo kiến trúc và bottleneck. #35602
+Thiết kế chỉ mục văn bản cho 803464 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại New York dùng Next.js, chịu tải 2014389 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 1128665 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hà Nội (công suất 205968 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Phan Thiết (công suất 183500 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Bắc Ninh (công suất 274145 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại TP.HCM dùng Express.js, chịu tải 1004475 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại TP.HCM; nêu RACI, ma trận liên hệ và kênh truyền thông. #35610
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Đà Nẵng (công suất 233323 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Tối ưu biểu thức: ∑_(i=1..n) i^6 + ∑_(i=1..n) i^5; chứng minh bằng quy nạp công thức đóng. #35612
+Viết hàm Java tính số Fibonacci thứ 1941 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 4079350 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm Go tính số Fibonacci thứ 910 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 66038 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Bangkok dùng NestJS, chịu tải 4667370 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 228907 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại TP.HCM dùng Spring Boot, chịu tải 2523741 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 3969075 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 4397138 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Nha Trang (công suất 147782 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 751370 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Biên Hòa dùng Next.js, chịu tải 2840589 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Chuyển đổi log ứng dụng sang Avro tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema. #35625
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Huế (công suất 196877 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Quy Nhơn (công suất 258643 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Berlin dùng React, chịu tải 1923433 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 63823 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm SQL tính số Fibonacci thứ 1779 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Huế (công suất 398316 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Hải Phòng dùng FastAPI, chịu tải 3563144 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết hàm SQL tính số Fibonacci thứ 195 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Viết hàm Python tính số Fibonacci thứ 691 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Đà Nẵng (công suất 492254 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hải Phòng (công suất 454342 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết hàm Go tính số Fibonacci thứ 1867 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế hệ thống đặt vé du lịch tại Seoul dùng Svelte, chịu tải 649332 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Hà Nội dùng Svelte, chịu tải 3677531 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Chuyển đổi log ứng dụng sang Avro tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema. #35640
+Viết hàm Rust tính số Fibonacci thứ 831 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Bắc Ninh (công suất 197192 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Nha Trang dùng React, chịu tải 11566 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 3972665 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hải Phòng (công suất 155052 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Biên Hòa dùng Vue, chịu tải 4538900 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Huế (công suất 292930 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 4090404 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Sydney dùng React, chịu tải 4425162 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 1377762 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hạ Long (công suất 132105 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 1068147 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Đà Nẵng dùng Next.js, chịu tải 629434 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Paris dùng Spring Boot, chịu tải 78795 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Hà Nội dùng Django, chịu tải 4186640 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại TP.HCM dùng FastAPI, chịu tải 4338521 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Biên Hòa (công suất 491695 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 2360343 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Bangkok dùng Vue, chịu tải 715777 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 1636650 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm Java tính số Fibonacci thứ 1483 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho TP.HCM (công suất 32526 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Biên Hòa (công suất 107857 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Hà Nội dùng NestJS, chịu tải 844571 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Buôn Ma Thuột dùng Vue, chịu tải 695962 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Nha Trang dùng Svelte, chịu tải 340484 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Bắc Ninh dùng Svelte, chịu tải 2385363 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Hạ Long dùng Django, chịu tải 1402478 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết câu lệnh Redis tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng. #35669
+Thiết kế hệ thống đặt vé du lịch tại Sydney dùng NestJS, chịu tải 896070 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết hàm C++ tính số Fibonacci thứ 1012 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 934114 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm JavaScript tính số Fibonacci thứ 687 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 3214198 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề hóa học dành cho học sinh lớp 10; có gợi ý đáp án. #35675
+Tối ưu đoạn code Rust đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp. #35676
+Thiết kế hệ thống đặt vé du lịch tại Hà Nội dùng Svelte, chịu tải 2076890 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Biên Hòa (công suất 339616 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Thái Nguyên dùng NestJS, chịu tải 2749435 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Bangkok dùng Spring Boot, chịu tải 4255831 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Biên Hòa dùng Spring Boot, chịu tải 10885 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Singapore dùng React, chịu tải 366450 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 2267835 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 4594593 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Chuyển đổi log ứng dụng sang Parquet tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema. #35685
+Thiết kế hệ thống đặt vé du lịch tại Phan Thiết dùng FastAPI, chịu tải 1694717 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 548076 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Huế (công suất 147344 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Bắc Ninh (công suất 227558 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 3679420 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa MATIC và SOL; nêu tình huống sử dụng phù hợp. #35691
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Thái Nguyên (công suất 80585 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Bangkok dùng React, chịu tải 1985546 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Seoul dùng Vue, chịu tải 1650658 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Thái Nguyên dùng React, chịu tải 3422233 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Bangkok dùng FastAPI, chịu tải 1568841 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Thái Nguyên dùng Next.js, chịu tải 4750427 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 2760048 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Quy Nhơn dùng Vue, chịu tải 4186299 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 3241066 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Biên Hòa (công suất 179323 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Thái Nguyên (công suất 217180 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 2081431 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hạ Long (công suất 159016 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết hàm JavaScript tính số Fibonacci thứ 1894 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 906113 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 257300 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 2071475 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Buôn Ma Thuột dùng Vue, chịu tải 2368282 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại New York dùng FastAPI, chịu tải 4078846 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho TP.HCM (công suất 74023 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại London dùng FastAPI, chịu tải 2103054 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Dubai dùng React, chịu tải 1705474 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 568969 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Tối ưu đoạn code JavaScript đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp. #35715
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hạ Long (công suất 10646 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Huế (công suất 150397 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 271923 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm Rust tính số Fibonacci thứ 523 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế hệ thống đặt vé du lịch tại Thái Nguyên dùng React, chịu tải 509406 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 697847 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật. #35721
+Thiết kế hệ thống đặt vé du lịch tại Tokyo dùng Spring Boot, chịu tải 3083207 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Quy Nhơn (công suất 29836 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 3842725 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Phan Thiết (công suất 49026 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Buôn Ma Thuột dùng Django, chịu tải 3682343 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Vinh dùng FastAPI, chịu tải 2009750 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Nha Trang dùng Spring Boot, chịu tải 4326195 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết hàm Bash tính số Fibonacci thứ 200 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Viết pseudo-code tính VWAP cho APT theo dữ liệu OHLCV 9 ngày; kèm phân tích độ phức tạp. #35730
+Thiết kế hệ thống đặt vé du lịch tại TP.HCM dùng FastAPI, chịu tải 4781700 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết hàm Java tính số Fibonacci thứ 221 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+So sánh HTTP/3 và UDP trong bối cảnh I; khi nào chọn cái nào và vì sao? #35733
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hạ Long (công suất 252970 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Cần Thơ (công suất 391724 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết hàm Bash tính số Fibonacci thứ 669 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Viết hàm Java tính số Fibonacci thứ 184 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Viết hàm Java tính số Fibonacci thứ 1268 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế hệ thống đặt vé du lịch tại Dubai dùng Vue, chịu tải 3536865 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết hàm SQL tính số Fibonacci thứ 910 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Viết hàm SQL tính số Fibonacci thứ 826 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế hệ thống đặt vé du lịch tại Singapore dùng Express.js, chịu tải 3186386 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Đà Nẵng dùng FastAPI, chịu tải 3790897 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 4029643 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Đà Nẵng (công suất 315239 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết hàm Java tính số Fibonacci thứ 624 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Đà Nẵng (công suất 98096 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Đà Nẵng (công suất 123756 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hà Nội (công suất 268816 cảm biến); thiết kế pipeline ingest → ETL → lake → BI. #35749
+Thiết kế chỉ mục văn bản cho 4659595 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Vinh dùng Next.js, chịu tải 390547 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Vinh dùng Spring Boot, chịu tải 4425877 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Bangkok dùng Svelte, chịu tải 1711941 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Hà Nội dùng FastAPI, chịu tải 1639650 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 4620350 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 1753974 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Đà Nẵng dùng React, chịu tải 2005925 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết hàm JavaScript tính số Fibonacci thứ 1806 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Viết hàm C++ tính số Fibonacci thứ 400 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian. #35759
+Thiết kế hệ thống đặt vé du lịch tại Đà Nẵng dùng Spring Boot, chịu tải 240665 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Biên Hòa (công suất 430416 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 2056758 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho TP.HCM (công suất 312622 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Phan Thiết (công suất 385517 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Giải hệ phương trình: { x + y = 8, x·y = 16 } và giải thích phương pháp. #35765
+Thiết kế hệ thống đặt vé du lịch tại Đà Nẵng dùng React, chịu tải 2400761 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết hàm Bash tính số Fibonacci thứ 187 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 4087614 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Biên Hòa (công suất 253614 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết hàm Java tính số Fibonacci thứ 1597 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Đà Nẵng; nêu RACI, ma trận liên hệ và kênh truyền thông. #35771
+Thiết kế chỉ mục văn bản cho 4482060 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Biên Hòa dùng React, chịu tải 3089370 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết hàm Rust tính số Fibonacci thứ 1588 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Quy Nhơn (công suất 116377 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 1289829 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm Rust tính số Fibonacci thứ 436 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Nha Trang (công suất 286831 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 365434 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Quy Nhơn (công suất 149203 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hà Nội (công suất 472693 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Giải thích WAF là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp. #35782
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Cần Thơ (công suất 130399 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Dubai dùng Vue, chịu tải 2910359 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 4521863 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật. #35785
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Huế (công suất 460055 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Vinh (công suất 183898 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Berlin dùng NestJS, chịu tải 3730610 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 3975125 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 4003013 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm SQL tính số Fibonacci thứ 268 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế hệ thống đặt vé du lịch tại Paris dùng Vue, chịu tải 2896078 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 2330932 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể. #35794
+Thiết kế hệ thống đặt vé du lịch tại Nha Trang dùng Django, chịu tải 4044957 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 3098685 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm SQL tính số Fibonacci thứ 1610 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế hệ thống đặt vé du lịch tại Singapore dùng Django, chịu tải 1562233 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Hà Nội dùng NestJS, chịu tải 766514 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Buôn Ma Thuột dùng Svelte, chịu tải 1013491 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Nha Trang (công suất 145470 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 2681230 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm JavaScript tính số Fibonacci thứ 1031 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 4192549 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Bangkok dùng Spring Boot, chịu tải 435441 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 3695565 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm Java tính số Fibonacci thứ 1518 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Viết hàm Bash tính số Fibonacci thứ 67 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Huế (công suất 493488 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Vinh (công suất 354209 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết hàm SQL tính số Fibonacci thứ 1787 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Viết hàm Bash tính số Fibonacci thứ 283 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Viết hàm JavaScript tính số Fibonacci thứ 978 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch du lịch New York 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương. #35814
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Buôn Ma Thuột (công suất 310454 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết hàm Bash tính số Fibonacci thứ 456 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 2305819 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 3248761 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm Rust tính số Fibonacci thứ 1217 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Đà Nẵng (công suất 346345 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết hàm Python tính số Fibonacci thứ 616 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Quy Nhơn (công suất 422993 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 2156411 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm C++ tính số Fibonacci thứ 1972 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 4278013 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm JavaScript tính số Fibonacci thứ 1863 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 2890930 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm Bash tính số Fibonacci thứ 1309 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hạ Long (công suất 270313 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại London dùng Svelte, chịu tải 3059118 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Đà Nẵng (công suất 438160 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Nha Trang (công suất 496350 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Đà Nẵng (công suất 250703 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Bài toán chia kẹo: có 25 viên, chia cho 2 bạn chênh nhau 13 viên; liệt kê mọi phương án hợp lệ. #35834
+Thiết kế chỉ mục văn bản cho 4146939 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Sydney dùng Express.js, chịu tải 1450762 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết hàm Go tính số Fibonacci thứ 740 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Buôn Ma Thuột (công suất 141464 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Bắc Ninh (công suất 244489 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 4116622 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Vinh (công suất 473041 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 3787221 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Vinh (công suất 330196 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 76070 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 2795752 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 3869291 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 4958501 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Cần Thơ dùng Django, chịu tải 2620223 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Vinh (công suất 307534 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Dubai dùng React, chịu tải 4787768 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 1432320 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm C++ tính số Fibonacci thứ 677 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế hệ thống đặt vé du lịch tại Seoul dùng Next.js, chịu tải 4533143 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Thái Nguyên dùng Django, chịu tải 1498049 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Seoul dùng Express.js, chịu tải 3261104 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Nha Trang dùng Svelte, chịu tải 1371123 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Buôn Ma Thuột (công suất 173153 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Huế (công suất 256041 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết hàm Bash tính số Fibonacci thứ 465 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế hệ thống đặt vé du lịch tại Nha Trang dùng Vue, chịu tải 3262171 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên đồng hồ thông minh chạy Ubuntu 24.04. #35861
+Thiết kế chỉ mục văn bản cho 1316542 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Bangkok dùng Express.js, chịu tải 4273640 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Giải hệ phương trình: { x + y = 5, x·y = 6 } và giải thích phương pháp. #35864
+Chuyển đổi log ứng dụng sang XML tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema. #35865
+Đo và cải thiện availability mà không làm xấu error rate trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi. #35866
+Viết hàm SQL tính số Fibonacci thứ 424 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Bắc Ninh (công suất 55302 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Buôn Ma Thuột (công suất 190525 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 4866519 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Cần Thơ dùng Vue, chịu tải 4670646 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Quy Nhơn (công suất 379235 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 4533345 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa APT và SUI; nêu tình huống sử dụng phù hợp. #35874
+Thiết kế hệ thống đặt vé du lịch tại Hạ Long dùng Spring Boot, chịu tải 4640921 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Thái Nguyên (công suất 495700 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Xây dựng pipeline dữ liệu cho bài toán nhận dạng thực thể tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu. #35877
+Thiết kế chỉ mục văn bản cho 233475 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Trình bày quy trình multimodal cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng. #35879
+Thiết kế chỉ mục văn bản cho 4960517 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm JavaScript tính số Fibonacci thứ 1325 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Viết hàm Bash tính số Fibonacci thứ 1626 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Viết hàm C++ tính số Fibonacci thứ 1000 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Viết hàm Bash tính số Fibonacci thứ 1104 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Bắc Ninh (công suất 35702 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Biên Hòa (công suất 440900 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Biên Hòa (công suất 277282 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 871327 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Tokyo dùng Next.js, chịu tải 3606097 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Buôn Ma Thuột (công suất 58861 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Giải hệ phương trình: { x + y = 8, x·y = 15 } và giải thích phương pháp. #35891
+Thiết kế chỉ mục văn bản cho 3726455 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Bắc Ninh (công suất 16654 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Buôn Ma Thuột dùng NestJS, chịu tải 2490143 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Bangkok dùng NestJS, chịu tải 1038317 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết hàm Java tính số Fibonacci thứ 425 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hạ Long (công suất 428917 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại TP.HCM dùng Next.js, chịu tải 3412869 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Nha Trang (công suất 329882 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết hàm SQL tính số Fibonacci thứ 78 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Viết hàm C++ tính số Fibonacci thứ 98 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Áp dụng tổ hợp để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp. #35902
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Quy Nhơn (công suất 303573 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Bắc Ninh (công suất 193251 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Seoul dùng Next.js, chịu tải 4716488 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hà Nội (công suất 292001 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 1599955 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Huế (công suất 392818 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 4171229 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Vinh (công suất 240322 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hải Phòng (công suất 498288 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Minh hoạ bắt tay (handshake) của HTTP/2; trình bày từng bước và điểm dễ sai ở tầng mạng. #35912
+Viết hàm TypeScript tính số Fibonacci thứ 655 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Biên Hòa (công suất 241574 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hải Phòng (công suất 245220 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Huế (công suất 182580 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 310902 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm Rust tính số Fibonacci thứ 1375 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 3060136 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm C++ tính số Fibonacci thứ 1370 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế hệ thống đặt vé du lịch tại Hà Nội dùng NestJS, chịu tải 2731663 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Berlin dùng NestJS, chịu tải 4946079 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Buôn Ma Thuột dùng Express.js, chịu tải 4024302 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hà Nội (công suất 86056 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 4730012 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm C++ tính số Fibonacci thứ 506 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 3505800 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 4179349 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Nha Trang dùng FastAPI, chịu tải 2102357 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Sydney dùng React, chịu tải 4668565 người dùng đồng thời; phác thảo kiến trúc và bottleneck. #35930
+Thiết kế chỉ mục văn bản cho 423780 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Bắc Ninh (công suất 404311 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết hàm TypeScript tính số Fibonacci thứ 505 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Viết hàm TypeScript tính số Fibonacci thứ 564 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Huế (công suất 456682 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Huế (công suất 125353 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Áp dụng đạo hàm để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp. #35937
+Thiết kế chỉ mục văn bản cho 1039497 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm TypeScript tính số Fibonacci thứ 1090 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Phan Thiết (công suất 474252 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 2109124 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 3139274 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 543329 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Biên Hòa dùng React, chịu tải 1131626 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Singapore dùng Express.js, chịu tải 3591577 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Phan Thiết (công suất 201916 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết hàm JavaScript tính số Fibonacci thứ 1095 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 3514566 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 3148187 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 2280462 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Phan Thiết (công suất 448393 cảm biến); thiết kế pipeline ingest → ETL → lake → BI. #35951
+Thiết kế hệ thống đặt vé du lịch tại Tokyo dùng Django, chịu tải 2403709 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Hải Phòng dùng React, chịu tải 4034641 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết hàm JavaScript tính số Fibonacci thứ 1831 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Giải thích rate limit là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp. #35955
+Thiết kế chỉ mục văn bản cho 3804866 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm C++ tính số Fibonacci thứ 296 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế thí nghiệm A/B để đánh giá LoRA fine-tuning cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu. #35958
+Thiết kế chỉ mục văn bản cho 174232 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hải Phòng (công suất 476592 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết hàm Rust tính số Fibonacci thứ 1893 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế hệ thống đặt vé du lịch tại Paris dùng Svelte, chịu tải 2740157 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại New York dùng Svelte, chịu tải 1206161 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho TP.HCM (công suất 237211 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 3302188 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chỉ mục văn bản cho 3233626 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Hạ Long dùng React, chịu tải 85880 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế chỉ mục văn bản cho 2805598 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Đo và cải thiện IOPS mà không làm xấu throughput trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi. #35969
+Thiết kế hệ thống đặt vé du lịch tại Biên Hòa dùng FastAPI, chịu tải 3751240 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết hàm JavaScript tính số Fibonacci thứ 1886 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hải Phòng (công suất 47365 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 1691210 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Sydney dùng React, chịu tải 3049277 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết hàm Rust tính số Fibonacci thứ 47 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 812501 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hải Phòng (công suất 248336 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 2275882 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hạ Long (công suất 409412 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 3743000 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Bắc Ninh dùng Svelte, chịu tải 2861571 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết hàm Java tính số Fibonacci thứ 1490 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 1308270 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Quy Nhơn (công suất 190568 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 1476342 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch du lịch Paris 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương. #35986
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Thái Nguyên (công suất 291514 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế chỉ mục văn bản cho 1019324 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết hàm Rust tính số Fibonacci thứ 79 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Thiết kế chỉ mục văn bản cho 2631833 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế hệ thống đặt vé du lịch tại Biên Hòa dùng React, chịu tải 3238843 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Hải Phòng dùng Vue, chịu tải 3547401 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế hệ thống đặt vé du lịch tại Hà Nội dùng Vue, chịu tải 2620210 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Thái Nguyên (công suất 96142 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế hệ thống đặt vé du lịch tại Đà Nẵng dùng React, chịu tải 3082754 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Bắc Ninh (công suất 176398 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Đo và cải thiện memory mà không làm xấu error rate trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi. #35997
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Quy Nhơn (công suất 243019 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Biên Hòa (công suất 22702 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Huế (công suất 448642 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.

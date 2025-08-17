@@ -1,0 +1,1000 @@
+Viết middleware Svelte để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Giải thích lý do tắc nghẽn giao thông giờ cao điểm và đưa giải pháp can thiệp hành vi (nudging) khả thi.
+Nêu cơ chế tin giả lan truyền trên nền tảng nhắn tin mã hóa đầu-cuối; đề xuất biện pháp nâng cao nhận thức người dùng.
+Đề xuất mô hình nhà ở giá rẻ cho lao động nhập cư tại Bắc Ninh; phân tích tài chính sơ bộ và tác động xã hội.
+Thiết kế workshop 1 ngày về tư duy phản biện cho nhân viên mới; mục tiêu, nội dung, cách đo hiệu quả.
+Đặt bài toán kinh tế học hành vi: vì sao người tiêu dùng thích gói cước 'không giới hạn'? Mô hình giải thích và thử nghiệm.
+Lập kế hoạch du lịch Toronto 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Đề xuất giải pháp du lịch bền vững tại San Francisco nhằm hạn chế overtourism; nêu tác động tới cộng đồng địa phương.
+Thiết kế kiến trúc multi-region trên GCP đạt RTO 5 phút, RPO 0; mô tả replication, failover và thử nghiệm định kỳ.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa OP và TON; nêu tình huống sử dụng phù hợp.
+Đặt tình huống đạo đức trong y học: phân bổ nguồn vac-xin khan hiếm; đề xuất nguyên tắc và quy trình ra quyết định.
+Thiết kế thí nghiệm tâm lý xã hội kiểm tra hiệu ứng bầy đàn trong quyết định mua hàng trực tuyến.
+Viết kịch bản đàm phán giữa doanh nghiệp khởi nghiệp và nhà đầu tư thiên thần; xác định điều khoản then chốt và rủi ro pháp lý.
+Nêu rủi ro đạo đức của deepfake trong chính trị và giáo dục truyền thông để giảm thiểu tác hại.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa ADA và PHRS; nêu tình huống sử dụng phù hợp.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề tâm lý học dành cho học sinh lớp 10; có gợi ý đáp án.
+Thiết kế thí nghiệm tâm lý xã hội kiểm tra hiệu ứng bầy đàn trong quyết định mua hàng trực tuyến.
+Phân tích nguyên nhân và hệ quả của lạm phát cao trong 2 năm liên tiếp đối với hộ gia đình thu nhập trung bình ở Việt Nam.
+Thiết kế bài kiểm tra đánh giá năng lực đọc hiểu truyền thông số cho sinh viên năm nhất; rubric chấm điểm.
+Phân tích tác động biến đổi khí hậu tới ngành nông nghiệp cà phê; đề xuất thích ứng.
+Phân tích nguyên nhân và hệ quả của lạm phát cao trong 2 năm liên tiếp đối với hộ gia đình thu nhập trung bình ở Việt Nam.
+Viết câu lệnh Snowflake tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Thiết kế chỉ mục văn bản cho 2519205 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Đưa ra lộ trình chuyển đổi năng lượng sạch cho doanh nghiệp sản xuất vừa và nhỏ trong 3 năm; ước tính chi phí và lợi ích.
+Mô tả quy trình phân loại rác tại nguồn cho một quận ở Đà Nẵng; xây KPI giảm rác chôn lấp theo từng quý.
+Xây dựng kế hoạch cá nhân hóa học tập với AI cho học sinh yếu môn toán; các mốc theo dõi tiến bộ.
+Đề xuất giải pháp du lịch bền vững tại Istanbul nhằm hạn chế overtourism; nêu tác động tới cộng đồng địa phương.
+Viết unit test table-driven cho một hàm C++ parse datetime không chuẩn; kèm 6 test case méo mó.
+Phân tích nguyên nhân và hệ quả của lạm phát cao trong 3 năm liên tiếp đối với hộ gia đình thu nhập trung bình ở Việt Nam.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề tâm lý học dành cho học sinh lớp 10; có gợi ý đáp án.
+Thiết kế kiến trúc multi-region trên DigitalOcean đạt RTO 5 phút, RPO 0; mô tả replication, failover và thử nghiệm định kỳ.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Giải thích khái niệm vốn xã hội và tác động của nó đến khả năng tìm việc làm của sinh viên mới tốt nghiệp.
+Giải thích rate limit là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Chuyển đổi log ứng dụng sang CSV tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Tối ưu đoạn code Rust đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Xây dựng pipeline dữ liệu cho bài toán dịch máy tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa ARB và BNB; nêu tình huống sử dụng phù hợp.
+Thiết kế chỉ mục văn bản cho 2779172 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Xây dựng kế hoạch cá nhân hóa học tập với AI cho học sinh yếu môn toán; các mốc theo dõi tiến bộ.
+Viết NestJS hook/component xử lý vô hiệu hoá nút Submit khi form chưa hợp lệ; kèm ví dụ code ngắn.
+Phân tích nguyên nhân và hệ quả của lạm phát cao trong 1 năm liên tiếp đối với hộ gia đình thu nhập trung bình ở Việt Nam.
+Đo và cải thiện SLA mà không làm xấu latency trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+Bài toán chia kẹo: có 22 viên, chia cho 2 bạn chênh nhau 8 viên; liệt kê mọi phương án hợp lệ.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup e-commerce ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Thiết kế hệ thống phản hồi công dân qua ứng dụng di động cho chính quyền địa phương; quy trình xử lý kiến nghị.
+Thiết kế workshop 1 ngày về tư duy phản biện cho nhân viên mới; mục tiêu, nội dung, cách đo hiệu quả.
+Trình bày quy trình vector database cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Viết unit test table-driven cho một hàm C++ parse datetime không chuẩn; kèm 6 test case méo mó.
+Đo và cải thiện latency mà không làm xấu CPU trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+Viết React hook/component xử lý vô hiệu hoá nút Submit khi form chưa hợp lệ; kèm ví dụ code ngắn.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Viết middleware Express.js để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Phân tích yếu tố văn hóa vùng miền ảnh hưởng đến khẩu vị ẩm thực; thiết kế khảo sát và cách lấy mẫu.
+Giải thích OAuth2 là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Mô tả quy trình phân loại rác tại nguồn cho một quận ở Nha Trang; xây KPI giảm rác chôn lấp theo từng quý.
+Trình bày tiến trình toàn cầu hóa văn hóa qua ví dụ âm nhạc/điện ảnh; nêu mặt tích cực và tiêu cực.
+Thiết kế thí nghiệm A/B để đánh giá function calling cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup logistics ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Áp dụng tối ưu hóa để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Tối ưu biểu thức: ∑_(i=1..n) i^3 + ∑_(i=1..n) i^6; chứng minh bằng quy nạp công thức đóng.
+Giải thích lý do tắc nghẽn giao thông giờ cao điểm và đưa giải pháp can thiệp hành vi (nudging) khả thi.
+So sánh TLS 1.3 và DNS-over-HTTPS trong bối cảnh trading real-time; khi nào chọn cái nào và vì sao?
+Trình bày quy trình Mixture-of-Experts cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Đặt tình huống xung đột lợi ích trong công ty: phòng marketing và phòng kỹ thuật mâu thuẫn KPI; đề xuất cơ chế giải quyết và chỉ số đánh giá.
+Đặt tình huống xung đột lợi ích trong công ty: phòng marketing và phòng kỹ thuật mâu thuẫn KPI; đề xuất cơ chế giải quyết và chỉ số đánh giá.
+Giải thích khái niệm vốn xã hội và tác động của nó đến khả năng tìm việc làm của sinh viên mới tốt nghiệp.
+Viết pseudo-code tính VWAP cho ETH theo dữ liệu OHLCV 46 ngày; kèm phân tích độ phức tạp.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên loa thông minh chạy macOS Sequoia.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Biên Hòa (công suất 493203 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Đề xuất bộ nguyên tắc đạo đức sử dụng dữ liệu khách hàng trong thương mại điện tử; ví dụ vi phạm phổ biến.
+Viết hàm TypeScript tính số Fibonacci thứ 922 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên máy tính bảng chạy Fedora 40.
+So sánh cách tiếp cận quản trị nước sạch giữa Singapore và Huế; rút kinh nghiệm áp dụng.
+Nêu rủi ro đạo đức của deepfake trong chính trị và giáo dục truyền thông để giảm thiểu tác hại.
+Viết pseudo-code tính VWAP cho TRX theo dữ liệu OHLCV 17 ngày; kèm phân tích độ phức tạp.
+Thiết kế hệ thống phản hồi công dân qua ứng dụng di động cho chính quyền địa phương; quy trình xử lý kiến nghị.
+Xây dựng kế hoạch cá nhân hóa học tập với AI cho học sinh yếu môn toán; các mốc theo dõi tiến bộ.
+Viết pseudo-code tính VWAP cho APT theo dữ liệu OHLCV 70 ngày; kèm phân tích độ phức tạp.
+Thiết kế hệ thống gợi ý top-14 sản phẩm theo lịch sử người dùng; mô tả lược đồ dữ liệu, offline/online feature store và đánh giá offline/online.
+Viết unit test table-driven cho một hàm Python parse datetime không chuẩn; kèm 6 test case méo mó.
+Thiết kế chiến dịch truyền thông phòng chống bạo lực học đường kéo dài 6 tháng; KPI, nội dung, kênh triển khai.
+Thiết kế workshop 1 ngày về tư duy phản biện cho nhân viên mới; mục tiêu, nội dung, cách đo hiệu quả.
+Đo và cải thiện SLA mà không làm xấu availability trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+Đề xuất mô hình nhà ở giá rẻ cho lao động nhập cư tại Buôn Ma Thuột; phân tích tài chính sơ bộ và tác động xã hội.
+Đưa ra lộ trình chuyển đổi năng lượng sạch cho doanh nghiệp sản xuất vừa và nhỏ trong 3 năm; ước tính chi phí và lợi ích.
+Nêu cơ chế tin giả lan truyền trên nền tảng nhắn tin mã hóa đầu-cuối; đề xuất biện pháp nâng cao nhận thức người dùng.
+Thiết kế chương trình giáo dục tài chính cá nhân cho học sinh lớp 11 trong 8 tuần; có bài tập thực hành và tiêu chí đánh giá.
+Đề xuất giải pháp du lịch bền vững tại Seoul nhằm hạn chế overtourism; nêu tác động tới cộng đồng địa phương.
+Đề xuất giải pháp du lịch bền vững tại Istanbul nhằm hạn chế overtourism; nêu tác động tới cộng đồng địa phương.
+Đề xuất mô hình nhà ở giá rẻ cho lao động nhập cư tại Hải Phòng; phân tích tài chính sơ bộ và tác động xã hội.
+Phân tích yếu tố văn hóa vùng miền ảnh hưởng đến khẩu vị ẩm thực; thiết kế khảo sát và cách lấy mẫu.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Giải thích mã hóa AES-GCM là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Viết Django hook/component xử lý vô hiệu hoá nút Submit khi form chưa hợp lệ; kèm ví dụ code ngắn.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa SOL và ETH; nêu tình huống sử dụng phù hợp.
+Phân tích tác động biến đổi khí hậu tới ngành nông nghiệp lúa gạo; đề xuất thích ứng.
+Giải thích mối quan hệ giữa hạnh phúc chủ quan và thu nhập; thảo luận nghịch lý Easterlin.
+Trình bày tiến trình toàn cầu hóa văn hóa qua ví dụ âm nhạc/điện ảnh; nêu mặt tích cực và tiêu cực.
+Đặt tình huống đạo đức trong y học: phân bổ nguồn vac-xin khan hiếm; đề xuất nguyên tắc và quy trình ra quyết định.
+Thiết kế chiến dịch truyền thông phòng chống bạo lực học đường kéo dài 6 tháng; KPI, nội dung, kênh triển khai.
+Đánh giá tác động của học theo dự án (project-based learning) đối với kỹ năng hợp tác của học sinh lớp 9; phương pháp đo lường.
+So sánh cách tiếp cận quản trị nước sạch giữa Barcelona và Hà Nội; rút kinh nghiệm áp dụng.
+Phân tích yếu tố văn hóa vùng miền ảnh hưởng đến khẩu vị ẩm thực; thiết kế khảo sát và cách lấy mẫu.
+Phân tích nguyên nhân và hệ quả của lạm phát cao trong 2 năm liên tiếp đối với hộ gia đình thu nhập trung bình ở Việt Nam.
+Mô tả quy trình phân loại rác tại nguồn cho một quận ở Bắc Ninh; xây KPI giảm rác chôn lấp theo từng quý.
+Nêu cơ chế tin giả lan truyền trên nền tảng nhắn tin mã hóa đầu-cuối; đề xuất biện pháp nâng cao nhận thức người dùng.
+Đề xuất mô hình nhà ở giá rẻ cho lao động nhập cư tại Quy Nhơn; phân tích tài chính sơ bộ và tác động xã hội.
+Tranh luận: mạng xã hội tác động tích cực hay tiêu cực đến sức khỏe tinh thần của thanh thiếu niên? Đưa bằng chứng và biện pháp giảm hại.
+Giải hệ phương trình: { x + y = 8, x·y = 16 } và giải thích phương pháp.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Viết NestJS hook/component xử lý vô hiệu hoá nút Submit khi form chưa hợp lệ; kèm ví dụ code ngắn.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề xã hội học dành cho học sinh lớp 10; có gợi ý đáp án.
+So sánh HTTP/3 và HTTP/2 trong bối cảnh game online; khi nào chọn cái nào và vì sao?
+Viết unit test table-driven cho một hàm JavaScript parse datetime không chuẩn; kèm 6 test case méo mó.
+Viết pseudo-code tính VWAP cho APT theo dữ liệu OHLCV 28 ngày; kèm phân tích độ phức tạp.
+Thiết kế bài kiểm tra đánh giá năng lực đọc hiểu truyền thông số cho sinh viên năm nhất; rubric chấm điểm.
+Đặt tình huống đạo đức trong y học: phân bổ nguồn vac-xin khan hiếm; đề xuất nguyên tắc và quy trình ra quyết định.
+Đo và cải thiện p99 mà không làm xấu cost per request trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+Đo và cải thiện SLA mà không làm xấu tail latency trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên kính AR chạy Fedora 40.
+Giải thích mối quan hệ giữa hạnh phúc chủ quan và thu nhập; thảo luận nghịch lý Easterlin.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Phan Thiết (công suất 123609 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Giải thích lý do tắc nghẽn giao thông giờ cao điểm và đưa giải pháp can thiệp hành vi (nudging) khả thi.
+Phân tích chiến lược bảo tồn di sản kiến trúc ở Huế trong bối cảnh đô thị hóa nhanh.
+Phân tích nguyên nhân và hệ quả của lạm phát cao trong 1 năm liên tiếp đối với hộ gia đình thu nhập trung bình ở Việt Nam.
+Giải thích khái niệm vốn xã hội và tác động của nó đến khả năng tìm việc làm của sinh viên mới tốt nghiệp.
+Nêu rủi ro đạo đức của deepfake trong chính trị và giáo dục truyền thông để giảm thiểu tác hại.
+Đo và cải thiện error rate mà không làm xấu latency trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+Phân tích nguyên nhân và hệ quả của lạm phát cao trong 2 năm liên tiếp đối với hộ gia đình thu nhập trung bình ở Việt Nam.
+Nêu cơ chế tin giả lan truyền trên nền tảng nhắn tin mã hóa đầu-cuối; đề xuất biện pháp nâng cao nhận thức người dùng.
+Viết câu lệnh Elasticsearch tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Viết Express.js hook/component xử lý vô hiệu hoá nút Submit khi form chưa hợp lệ; kèm ví dụ code ngắn.
+Áp dụng biến đổi Fourier để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Đề xuất giải pháp du lịch bền vững tại Seoul nhằm hạn chế overtourism; nêu tác động tới cộng đồng địa phương.
+Nêu cơ chế tin giả lan truyền trên nền tảng nhắn tin mã hóa đầu-cuối; đề xuất biện pháp nâng cao nhận thức người dùng.
+Xây dựng pipeline dữ liệu cho bài toán tóm tắt văn bản tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Viết hàm Rust tính số Fibonacci thứ 397 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Trình bày tiến trình toàn cầu hóa văn hóa qua ví dụ âm nhạc/điện ảnh; nêu mặt tích cực và tiêu cực.
+Mô tả quy trình phân loại rác tại nguồn cho một quận ở Quy Nhơn; xây KPI giảm rác chôn lấp theo từng quý.
+Thiết kế hệ thống đặt vé du lịch tại Vinh dùng Express.js, chịu tải 264721 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Trình bày tiến trình toàn cầu hóa văn hóa qua ví dụ âm nhạc/điện ảnh; nêu mặt tích cực và tiêu cực.
+Phân tích văn bản văn học hiện đại theo trường phái ký hiệu học; áp dụng cho một truyện ngắn bất kỳ.
+Đưa ra lộ trình chuyển đổi năng lượng sạch cho doanh nghiệp sản xuất vừa và nhỏ trong 3 năm; ước tính chi phí và lợi ích.
+Thiết kế hệ thống phản hồi công dân qua ứng dụng di động cho chính quyền địa phương; quy trình xử lý kiến nghị.
+Tranh luận: mạng xã hội tác động tích cực hay tiêu cực đến sức khỏe tinh thần của thanh thiếu niên? Đưa bằng chứng và biện pháp giảm hại.
+Phân tích chiến lược bảo tồn di sản kiến trúc ở Quy Nhơn trong bối cảnh đô thị hóa nhanh.
+Xây dựng pipeline dữ liệu cho bài toán nhận dạng thực thể tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Thiết kế chương trình giáo dục tài chính cá nhân cho học sinh lớp 11 trong 8 tuần; có bài tập thực hành và tiêu chí đánh giá.
+Hướng dẫn Lan học Rust từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+Thiết kế thí nghiệm A/B để đánh giá Mixture-of-Experts cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Đặt tình huống đạo đức trong y học: phân bổ nguồn vac-xin khan hiếm; đề xuất nguyên tắc và quy trình ra quyết định.
+Phân tích yếu tố văn hóa vùng miền ảnh hưởng đến khẩu vị ẩm thực; thiết kế khảo sát và cách lấy mẫu.
+Đo và cải thiện availability mà không làm xấu latency trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+Thiết kế chỉ mục văn bản cho 2016594 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Minh hoạ bắt tay (handshake) của HTTP/2; trình bày từng bước và điểm dễ sai ở tầng mạng.
+Thiết kế hệ thống phản hồi công dân qua ứng dụng di động cho chính quyền địa phương; quy trình xử lý kiến nghị.
+Thiết kế hệ thống phản hồi công dân qua ứng dụng di động cho chính quyền địa phương; quy trình xử lý kiến nghị.
+Nêu rủi ro đạo đức của deepfake trong chính trị và giáo dục truyền thông để giảm thiểu tác hại.
+Phân tích tác động biến đổi khí hậu tới ngành nông nghiệp lúa gạo; đề xuất thích ứng.
+Thiết kế chỉ mục văn bản cho 4249036 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Nêu rủi ro đạo đức của deepfake trong chính trị và giáo dục truyền thông để giảm thiểu tác hại.
+Giải thích OAuth2 là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Đánh giá tác động của học theo dự án (project-based learning) đối với kỹ năng hợp tác của học sinh lớp 9; phương pháp đo lường.
+Thiết kế chỉ mục văn bản cho 2141112 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+So sánh hai nhân vật lịch sử Việt Nam về chiến lược lãnh đạo và di sản; rút ra 3 bài học cho quản trị hiện đại.
+Thiết kế hệ thống phản hồi công dân qua ứng dụng di động cho chính quyền địa phương; quy trình xử lý kiến nghị.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+Xây dựng dashboard KPI cho nông nghiệp trong 1 tuần; nêu 8 chỉ số cốt lõi và mô hình dữ liệu.
+Lập kế hoạch du lịch San Francisco 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Đặt bài toán kinh tế học hành vi: vì sao người tiêu dùng thích gói cước 'không giới hạn'? Mô hình giải thích và thử nghiệm.
+Tranh luận: mạng xã hội tác động tích cực hay tiêu cực đến sức khỏe tinh thần của thanh thiếu niên? Đưa bằng chứng và biện pháp giảm hại.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Tối ưu đoạn code Rust đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Giải thích mối quan hệ giữa hạnh phúc chủ quan và thu nhập; thảo luận nghịch lý Easterlin.
+Thiết kế chiến dịch truyền thông phòng chống bạo lực học đường kéo dài 6 tháng; KPI, nội dung, kênh triển khai.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+Thiết kế chiến dịch truyền thông phòng chống bạo lực học đường kéo dài 6 tháng; KPI, nội dung, kênh triển khai.
+Mô tả quy trình phân loại rác tại nguồn cho một quận ở TP.HCM; xây KPI giảm rác chôn lấp theo từng quý.
+Đặt tình huống xung đột lợi ích trong công ty: phòng marketing và phòng kỹ thuật mâu thuẫn KPI; đề xuất cơ chế giải quyết và chỉ số đánh giá.
+So sánh cách tiếp cận quản trị nước sạch giữa Istanbul và Vinh; rút kinh nghiệm áp dụng.
+So sánh cách tiếp cận quản trị nước sạch giữa Dubai và Đà Nẵng; rút kinh nghiệm áp dụng.
+Phân tích tác động biến đổi khí hậu tới ngành nông nghiệp cà phê; đề xuất thích ứng.
+Thiết kế thí nghiệm tâm lý xã hội kiểm tra hiệu ứng bầy đàn trong quyết định mua hàng trực tuyến.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa BTC và TRX; nêu tình huống sử dụng phù hợp.
+Đo và cải thiện throughput mà không làm xấu SLA trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+Xây dựng kế hoạch cá nhân hóa học tập với AI cho học sinh yếu môn toán; các mốc theo dõi tiến bộ.
+Viết middleware Flutter để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Thiết kế hệ thống phản hồi công dân qua ứng dụng di động cho chính quyền địa phương; quy trình xử lý kiến nghị.
+Phân tích yếu tố văn hóa vùng miền ảnh hưởng đến khẩu vị ẩm thực; thiết kế khảo sát và cách lấy mẫu.
+Viết pseudo-code tính VWAP cho ADA theo dữ liệu OHLCV 90 ngày; kèm phân tích độ phức tạp.
+Bài toán chia kẹo: có 21 viên, chia cho 2 bạn chênh nhau 1 viên; liệt kê mọi phương án hợp lệ.
+Phân tích tác động biến đổi khí hậu tới ngành nông nghiệp lúa gạo; đề xuất thích ứng.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hà Nội (công suất 297101 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Tranh luận: mạng xã hội tác động tích cực hay tiêu cực đến sức khỏe tinh thần của thanh thiếu niên? Đưa bằng chứng và biện pháp giảm hại.
+Đánh giá tác động của học theo dự án (project-based learning) đối với kỹ năng hợp tác của học sinh lớp 9; phương pháp đo lường.
+Đề xuất giải pháp du lịch bền vững tại Barcelona nhằm hạn chế overtourism; nêu tác động tới cộng đồng địa phương.
+Minh hoạ bắt tay (handshake) của HTTP/2; trình bày từng bước và điểm dễ sai ở tầng mạng.
+Đặt tình huống xung đột lợi ích trong công ty: phòng marketing và phòng kỹ thuật mâu thuẫn KPI; đề xuất cơ chế giải quyết và chỉ số đánh giá.
+Chuyển đổi log ứng dụng sang CSV tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Nêu cơ chế tin giả lan truyền trên nền tảng nhắn tin mã hóa đầu-cuối; đề xuất biện pháp nâng cao nhận thức người dùng.
+Thiết kế chỉ mục văn bản cho 298986 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chiến dịch truyền thông phòng chống bạo lực học đường kéo dài 6 tháng; KPI, nội dung, kênh triển khai.
+Đưa ra lộ trình chuyển đổi năng lượng sạch cho doanh nghiệp sản xuất vừa và nhỏ trong 3 năm; ước tính chi phí và lợi ích.
+Đề xuất giải pháp du lịch bền vững tại San Francisco nhằm hạn chế overtourism; nêu tác động tới cộng đồng địa phương.
+Thiết kế thí nghiệm tâm lý xã hội kiểm tra hiệu ứng bầy đàn trong quyết định mua hàng trực tuyến.
+Đề xuất giải pháp du lịch bền vững tại Paris nhằm hạn chế overtourism; nêu tác động tới cộng đồng địa phương.
+Đo và cải thiện IOPS mà không làm xấu error rate trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+Trình bày quy trình prompt engineering cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Đề xuất mô hình nhà ở giá rẻ cho lao động nhập cư tại Vinh; phân tích tài chính sơ bộ và tác động xã hội.
+Phân tích văn bản văn học hiện đại theo trường phái ký hiệu học; áp dụng cho một truyện ngắn bất kỳ.
+Xây dựng pipeline dữ liệu cho bài toán dịch máy tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Xây dựng kế hoạch cá nhân hóa học tập với AI cho học sinh yếu môn toán; các mốc theo dõi tiến bộ.
+Hướng dẫn Trang học Kotlin từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+Tối ưu đoạn code Kotlin đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+So sánh gRPC và UDP trong bối cảnh trading real-time; khi nào chọn cái nào và vì sao?
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Viết middleware Vue để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Viết unit test table-driven cho một hàm Kotlin parse datetime không chuẩn; kèm 6 test case méo mó.
+Viết unit test table-driven cho một hàm Swift parse datetime không chuẩn; kèm 6 test case méo mó.
+Trình bày quy trình multimodal cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Hạ Long; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Viết câu lệnh MySQL tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+Xây dựng kế hoạch cá nhân hóa học tập với AI cho học sinh yếu môn toán; các mốc theo dõi tiến bộ.
+Giải thích lý do tắc nghẽn giao thông giờ cao điểm và đưa giải pháp can thiệp hành vi (nudging) khả thi.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Giải thích mối quan hệ giữa hạnh phúc chủ quan và thu nhập; thảo luận nghịch lý Easterlin.
+Đưa ra lộ trình chuyển đổi năng lượng sạch cho doanh nghiệp sản xuất vừa và nhỏ trong 3 năm; ước tính chi phí và lợi ích.
+Phân tích chiến lược bảo tồn di sản kiến trúc ở Thái Nguyên trong bối cảnh đô thị hóa nhanh.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề văn học dành cho học sinh lớp 10; có gợi ý đáp án.
+Giải thích các trường phái đạo đức (hậu quả, nghĩa vụ, đức hạnh) qua một tình huống kiểm duyệt nội dung AI.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup healthcare ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Trình bày tiến trình toàn cầu hóa văn hóa qua ví dụ âm nhạc/điện ảnh; nêu mặt tích cực và tiêu cực.
+Tranh luận: mạng xã hội tác động tích cực hay tiêu cực đến sức khỏe tinh thần của thanh thiếu niên? Đưa bằng chứng và biện pháp giảm hại.
+Thiết kế chiến dịch truyền thông phòng chống bạo lực học đường kéo dài 6 tháng; KPI, nội dung, kênh triển khai.
+Đặt tình huống đạo đức trong y học: phân bổ nguồn vac-xin khan hiếm; đề xuất nguyên tắc và quy trình ra quyết định.
+Mô tả quy trình phân loại rác tại nguồn cho một quận ở Vinh; xây KPI giảm rác chôn lấp theo từng quý.
+Phân tích yếu tố văn hóa vùng miền ảnh hưởng đến khẩu vị ẩm thực; thiết kế khảo sát và cách lấy mẫu.
+Viết câu lệnh MongoDB tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Tối ưu biểu thức: ∑_(i=1..n) i^8 + ∑_(i=1..n) i^5; chứng minh bằng quy nạp công thức đóng.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Nêu cơ chế tin giả lan truyền trên nền tảng nhắn tin mã hóa đầu-cuối; đề xuất biện pháp nâng cao nhận thức người dùng.
+Đề xuất giải pháp du lịch bền vững tại Seoul nhằm hạn chế overtourism; nêu tác động tới cộng đồng địa phương.
+Tối ưu đoạn code Bash đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Viết pseudo-code tính VWAP cho APT theo dữ liệu OHLCV 28 ngày; kèm phân tích độ phức tạp.
+Thiết kế chương trình giáo dục tài chính cá nhân cho học sinh lớp 11 trong 8 tuần; có bài tập thực hành và tiêu chí đánh giá.
+Thiết kế chương trình giáo dục tài chính cá nhân cho học sinh lớp 11 trong 8 tuần; có bài tập thực hành và tiêu chí đánh giá.
+Phân tích văn bản văn học hiện đại theo trường phái ký hiệu học; áp dụng cho một truyện ngắn bất kỳ.
+Giải thích các trường phái đạo đức (hậu quả, nghĩa vụ, đức hạnh) qua một tình huống kiểm duyệt nội dung AI.
+Phân tích văn bản văn học hiện đại theo trường phái ký hiệu học; áp dụng cho một truyện ngắn bất kỳ.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Thái Nguyên (công suất 370169 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Giải thích mối quan hệ giữa hạnh phúc chủ quan và thu nhập; thảo luận nghịch lý Easterlin.
+Giải thích XSS là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Đề xuất giải pháp du lịch bền vững tại New York nhằm hạn chế overtourism; nêu tác động tới cộng đồng địa phương.
+Phân tích văn bản văn học hiện đại theo trường phái ký hiệu học; áp dụng cho một truyện ngắn bất kỳ.
+Thiết kế chỉ mục văn bản cho 3187391 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chiến dịch truyền thông phòng chống bạo lực học đường kéo dài 6 tháng; KPI, nội dung, kênh triển khai.
+Viết kịch bản đàm phán giữa doanh nghiệp khởi nghiệp và nhà đầu tư thiên thần; xác định điều khoản then chốt và rủi ro pháp lý.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Viết middleware Qt để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Tối ưu biểu thức: ∑_(i=1..n) i^7 + ∑_(i=1..n) i^9; chứng minh bằng quy nạp công thức đóng.
+Giải hệ phương trình: { x + y = 8, x·y = 15 } và giải thích phương pháp.
+Viết kịch bản đàm phán giữa doanh nghiệp khởi nghiệp và nhà đầu tư thiên thần; xác định điều khoản then chốt và rủi ro pháp lý.
+Thiết kế hệ thống đặt vé du lịch tại Dubai dùng Qt, chịu tải 2499967 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Nêu rủi ro đạo đức của deepfake trong chính trị và giáo dục truyền thông để giảm thiểu tác hại.
+Thiết kế hệ thống gợi ý top-4 sản phẩm theo lịch sử người dùng; mô tả lược đồ dữ liệu, offline/online feature store và đánh giá offline/online.
+So sánh hai nhân vật lịch sử Việt Nam về chiến lược lãnh đạo và di sản; rút ra 3 bài học cho quản trị hiện đại.
+Lập kế hoạch du lịch Sydney 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Đề xuất bộ nguyên tắc đạo đức sử dụng dữ liệu khách hàng trong thương mại điện tử; ví dụ vi phạm phổ biến.
+Đặt tình huống đạo đức trong y học: phân bổ nguồn vac-xin khan hiếm; đề xuất nguyên tắc và quy trình ra quyết định.
+Xây dựng kế hoạch cá nhân hóa học tập với AI cho học sinh yếu môn toán; các mốc theo dõi tiến bộ.
+Phân tích yếu tố văn hóa vùng miền ảnh hưởng đến khẩu vị ẩm thực; thiết kế khảo sát và cách lấy mẫu.
+Trình bày quy trình prompt engineering cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Phân tích văn bản văn học hiện đại theo trường phái ký hiệu học; áp dụng cho một truyện ngắn bất kỳ.
+Giải thích khái niệm vốn xã hội và tác động của nó đến khả năng tìm việc làm của sinh viên mới tốt nghiệp.
+Tranh luận: mạng xã hội tác động tích cực hay tiêu cực đến sức khỏe tinh thần của thanh thiếu niên? Đưa bằng chứng và biện pháp giảm hại.
+Đánh giá lợi ích và rủi ro của làm việc từ xa 3 ngày/tuần đối với năng suất và văn hóa công ty; đưa khuyến nghị.
+Thiết kế thí nghiệm A/B để đánh giá RAG cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Chuyển đổi log ứng dụng sang ProtoBuf tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Trình bày tiến trình toàn cầu hóa văn hóa qua ví dụ âm nhạc/điện ảnh; nêu mặt tích cực và tiêu cực.
+Thiết kế hệ thống phản hồi công dân qua ứng dụng di động cho chính quyền địa phương; quy trình xử lý kiến nghị.
+Đặt tình huống đạo đức trong y học: phân bổ nguồn vac-xin khan hiếm; đề xuất nguyên tắc và quy trình ra quyết định.
+Thiết kế hệ thống phản hồi công dân qua ứng dụng di động cho chính quyền địa phương; quy trình xử lý kiến nghị.
+Phân tích văn bản văn học hiện đại theo trường phái ký hiệu học; áp dụng cho một truyện ngắn bất kỳ.
+So sánh hai nhân vật lịch sử Việt Nam về chiến lược lãnh đạo và di sản; rút ra 3 bài học cho quản trị hiện đại.
+Phân tích ảnh hưởng của trí tuệ nhân tạo lên thị trường lao động 10 năm tới; khuyến nghị đào tạo lại kỹ năng.
+Viết middleware Express.js để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Trình bày quy trình RAG cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Giải thích khái niệm vốn xã hội và tác động của nó đến khả năng tìm việc làm của sinh viên mới tốt nghiệp.
+So sánh hai nhân vật lịch sử Việt Nam về chiến lược lãnh đạo và di sản; rút ra 3 bài học cho quản trị hiện đại.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+Tối ưu biểu thức: ∑_(i=1..n) i^9 + ∑_(i=1..n) i^8; chứng minh bằng quy nạp công thức đóng.
+Đề xuất giải pháp du lịch bền vững tại Dubai nhằm hạn chế overtourism; nêu tác động tới cộng đồng địa phương.
+Thiết kế workshop 1 ngày về tư duy phản biện cho nhân viên mới; mục tiêu, nội dung, cách đo hiệu quả.
+Đề xuất mô hình nhà ở giá rẻ cho lao động nhập cư tại Đà Nẵng; phân tích tài chính sơ bộ và tác động xã hội.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Nha Trang (công suất 115799 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Phân tích tác động biến đổi khí hậu tới ngành nông nghiệp lúa gạo; đề xuất thích ứng.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Phan Thiết (công suất 103586 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Thiết kế hệ thống phản hồi công dân qua ứng dụng di động cho chính quyền địa phương; quy trình xử lý kiến nghị.
+Đo và cải thiện memory mà không làm xấu throughput trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+Giải thích mối quan hệ giữa hạnh phúc chủ quan và thu nhập; thảo luận nghịch lý Easterlin.
+Tối ưu biểu thức: ∑_(i=1..n) i^9 + ∑_(i=1..n) i^8; chứng minh bằng quy nạp công thức đóng.
+Giải thích các trường phái đạo đức (hậu quả, nghĩa vụ, đức hạnh) qua một tình huống kiểm duyệt nội dung AI.
+Thiết kế thí nghiệm tâm lý xã hội kiểm tra hiệu ứng bầy đàn trong quyết định mua hàng trực tuyến.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa PHRS và SOL; nêu tình huống sử dụng phù hợp.
+Giải hệ phương trình: { x + y = 10, x·y = 25 } và giải thích phương pháp.
+Đề xuất bộ nguyên tắc đạo đức sử dụng dữ liệu khách hàng trong thương mại điện tử; ví dụ vi phạm phổ biến.
+Tối ưu đoạn code Java đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Viết unit test table-driven cho một hàm Rust parse datetime không chuẩn; kèm 6 test case méo mó.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Phan Thiết (công suất 489301 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế workshop 1 ngày về tư duy phản biện cho nhân viên mới; mục tiêu, nội dung, cách đo hiệu quả.
+Hướng dẫn Tú học C# từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+Giải thích các trường phái đạo đức (hậu quả, nghĩa vụ, đức hạnh) qua một tình huống kiểm duyệt nội dung AI.
+Viết kịch bản đàm phán giữa doanh nghiệp khởi nghiệp và nhà đầu tư thiên thần; xác định điều khoản then chốt và rủi ro pháp lý.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Đề xuất giải pháp du lịch bền vững tại Barcelona nhằm hạn chế overtourism; nêu tác động tới cộng đồng địa phương.
+Hướng dẫn Trinh học Bash từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+Giải thích mối quan hệ giữa hạnh phúc chủ quan và thu nhập; thảo luận nghịch lý Easterlin.
+Viết pseudo-code tính VWAP cho MATIC theo dữ liệu OHLCV 23 ngày; kèm phân tích độ phức tạp.
+Tối ưu biểu thức: ∑_(i=1..n) i^3 + ∑_(i=1..n) i^6; chứng minh bằng quy nạp công thức đóng.
+Thiết kế chỉ mục văn bản cho 4154244 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Đặt tình huống đạo đức trong y học: phân bổ nguồn vac-xin khan hiếm; đề xuất nguyên tắc và quy trình ra quyết định.
+Đề xuất mô hình nhà ở giá rẻ cho lao động nhập cư tại Bắc Ninh; phân tích tài chính sơ bộ và tác động xã hội.
+Thiết kế chỉ mục văn bản cho 1383126 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Phan Thiết (công suất 336240 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Phân tích văn bản văn học hiện đại theo trường phái ký hiệu học; áp dụng cho một truyện ngắn bất kỳ.
+Đặt tình huống đạo đức trong y học: phân bổ nguồn vac-xin khan hiếm; đề xuất nguyên tắc và quy trình ra quyết định.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Tối ưu đoạn code Rust đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Xây dựng dashboard KPI cho sản xuất trong 1 tháng; nêu 8 chỉ số cốt lõi và mô hình dữ liệu.
+Hướng dẫn Trí học C++ từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+So sánh QUIC và gRPC trong bối cảnh streaming video; khi nào chọn cái nào và vì sao?
+Viết middleware Flutter để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Viết Vue hook/component xử lý vô hiệu hoá nút Submit khi form chưa hợp lệ; kèm ví dụ code ngắn.
+Trình bày quy trình function calling cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Đánh giá tác động của học theo dự án (project-based learning) đối với kỹ năng hợp tác của học sinh lớp 9; phương pháp đo lường.
+Viết middleware Spring Boot để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Viết unit test table-driven cho một hàm Bash parse datetime không chuẩn; kèm 6 test case méo mó.
+Đặt tình huống xung đột lợi ích trong công ty: phòng marketing và phòng kỹ thuật mâu thuẫn KPI; đề xuất cơ chế giải quyết và chỉ số đánh giá.
+Lập kế hoạch du lịch Bangkok 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Giải hệ phương trình: { x + y = 7, x·y = 12 } và giải thích phương pháp.
+Giải thích mối quan hệ giữa hạnh phúc chủ quan và thu nhập; thảo luận nghịch lý Easterlin.
+Thiết kế chương trình giáo dục tài chính cá nhân cho học sinh lớp 11 trong 8 tuần; có bài tập thực hành và tiêu chí đánh giá.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+Thiết kế chỉ mục văn bản cho 1447320 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Lập kế hoạch du lịch Bangkok 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+Viết middleware Django để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Viết middleware Express.js để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Phân tích ảnh hưởng của trí tuệ nhân tạo lên thị trường lao động 10 năm tới; khuyến nghị đào tạo lại kỹ năng.
+Đề xuất giải pháp du lịch bền vững tại Paris nhằm hạn chế overtourism; nêu tác động tới cộng đồng địa phương.
+Phân tích ảnh hưởng của trí tuệ nhân tạo lên thị trường lao động 10 năm tới; khuyến nghị đào tạo lại kỹ năng.
+Thiết kế chiến dịch truyền thông phòng chống bạo lực học đường kéo dài 6 tháng; KPI, nội dung, kênh triển khai.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Đà Nẵng; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Thiết kế chương trình giáo dục tài chính cá nhân cho học sinh lớp 11 trong 8 tuần; có bài tập thực hành và tiêu chí đánh giá.
+Thiết kế chiến dịch truyền thông phòng chống bạo lực học đường kéo dài 6 tháng; KPI, nội dung, kênh triển khai.
+Giải thích các trường phái đạo đức (hậu quả, nghĩa vụ, đức hạnh) qua một tình huống kiểm duyệt nội dung AI.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Đo và cải thiện CPU mà không làm xấu latency trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+Đề xuất bộ nguyên tắc đạo đức sử dụng dữ liệu khách hàng trong thương mại điện tử; ví dụ vi phạm phổ biến.
+Thiết kế thí nghiệm A/B để đánh giá prompt engineering cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Bắc Ninh; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Giải thích OAuth2 là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup social network ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Tranh luận: mạng xã hội tác động tích cực hay tiêu cực đến sức khỏe tinh thần của thanh thiếu niên? Đưa bằng chứng và biện pháp giảm hại.
+Thiết kế hệ thống đặt vé du lịch tại Đà Nẵng dùng Spring Boot, chịu tải 1796173 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Giải thích lý do tắc nghẽn giao thông giờ cao điểm và đưa giải pháp can thiệp hành vi (nudging) khả thi.
+Đo và cải thiện latency mà không làm xấu cost per request trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+Đặt tình huống xung đột lợi ích trong công ty: phòng marketing và phòng kỹ thuật mâu thuẫn KPI; đề xuất cơ chế giải quyết và chỉ số đánh giá.
+Nêu rủi ro đạo đức của deepfake trong chính trị và giáo dục truyền thông để giảm thiểu tác hại.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup fintech ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Trình bày tiến trình toàn cầu hóa văn hóa qua ví dụ âm nhạc/điện ảnh; nêu mặt tích cực và tiêu cực.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên đồng hồ thông minh chạy Fedora 40.
+Thiết kế hệ thống phản hồi công dân qua ứng dụng di động cho chính quyền địa phương; quy trình xử lý kiến nghị.
+Chuyển đổi log ứng dụng sang JSON tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Phân tích tác động biến đổi khí hậu tới ngành nông nghiệp lúa gạo; đề xuất thích ứng.
+Giải thích SSO SAML là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên TV chạy Ubuntu 24.04.
+Thiết kế hệ thống đặt vé du lịch tại Nha Trang dùng FastAPI, chịu tải 2408500 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết Spring Boot hook/component xử lý vô hiệu hoá nút Submit khi form chưa hợp lệ; kèm ví dụ code ngắn.
+Thiết kế hệ thống đặt vé du lịch tại Berlin dùng Django, chịu tải 3006737 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Biên Hòa; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Giải hệ phương trình: { x + y = 7, x·y = 12 } và giải thích phương pháp.
+Thiết kế thí nghiệm A/B để đánh giá LoRA fine-tuning cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Thiết kế workshop 1 ngày về tư duy phản biện cho nhân viên mới; mục tiêu, nội dung, cách đo hiệu quả.
+Thiết kế chỉ mục văn bản cho 4872381 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Tranh luận: mạng xã hội tác động tích cực hay tiêu cực đến sức khỏe tinh thần của thanh thiếu niên? Đưa bằng chứng và biện pháp giảm hại.
+Đề xuất giải pháp du lịch bền vững tại Sydney nhằm hạn chế overtourism; nêu tác động tới cộng đồng địa phương.
+Giải hệ phương trình: { x + y = 7, x·y = 10 } và giải thích phương pháp.
+Viết Django hook/component xử lý vô hiệu hoá nút Submit khi form chưa hợp lệ; kèm ví dụ code ngắn.
+Xây dựng kế hoạch cá nhân hóa học tập với AI cho học sinh yếu môn toán; các mốc theo dõi tiến bộ.
+Thiết kế hệ thống đặt vé du lịch tại Vinh dùng Django, chịu tải 1553112 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế bài kiểm tra đánh giá năng lực đọc hiểu truyền thông số cho sinh viên năm nhất; rubric chấm điểm.
+Thiết kế kiến trúc multi-region trên OVH đạt RTO 5 phút, RPO 0; mô tả replication, failover và thử nghiệm định kỳ.
+Tối ưu đoạn code C# đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Hướng dẫn Thịnh học SQL từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa APT và TRX; nêu tình huống sử dụng phù hợp.
+Áp dụng ma trận để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Đặt tình huống xung đột lợi ích trong công ty: phòng marketing và phòng kỹ thuật mâu thuẫn KPI; đề xuất cơ chế giải quyết và chỉ số đánh giá.
+Tối ưu đoạn code Go đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Giải thích các trường phái đạo đức (hậu quả, nghĩa vụ, đức hạnh) qua một tình huống kiểm duyệt nội dung AI.
+Lập kế hoạch du lịch Paris 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Viết NestJS hook/component xử lý vô hiệu hoá nút Submit khi form chưa hợp lệ; kèm ví dụ code ngắn.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa BNB và ARB; nêu tình huống sử dụng phù hợp.
+Phân tích tác động biến đổi khí hậu tới ngành nông nghiệp lúa gạo; đề xuất thích ứng.
+Thiết kế kiến trúc multi-region trên GCP đạt RTO 5 phút, RPO 0; mô tả replication, failover và thử nghiệm định kỳ.
+Viết câu lệnh PostgreSQL tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Viết unit test table-driven cho một hàm SQL parse datetime không chuẩn; kèm 6 test case méo mó.
+Mô tả quy trình phân loại rác tại nguồn cho một quận ở Bắc Ninh; xây KPI giảm rác chôn lấp theo từng quý.
+Đề xuất mô hình nhà ở giá rẻ cho lao động nhập cư tại Phan Thiết; phân tích tài chính sơ bộ và tác động xã hội.
+Hướng dẫn Chi học Go từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+Phân tích văn bản văn học hiện đại theo trường phái ký hiệu học; áp dụng cho một truyện ngắn bất kỳ.
+Thiết kế chương trình giáo dục tài chính cá nhân cho học sinh lớp 11 trong 8 tuần; có bài tập thực hành và tiêu chí đánh giá.
+Phân tích tác động biến đổi khí hậu tới ngành nông nghiệp cà phê; đề xuất thích ứng.
+Lập kế hoạch du lịch Seoul 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Đánh giá tác động của học theo dự án (project-based learning) đối với kỹ năng hợp tác của học sinh lớp 9; phương pháp đo lường.
+Thiết kế thí nghiệm tâm lý xã hội kiểm tra hiệu ứng bầy đàn trong quyết định mua hàng trực tuyến.
+Xây dựng dashboard KPI cho sản xuất trong 1 quý; nêu 8 chỉ số cốt lõi và mô hình dữ liệu.
+Thiết kế hệ thống phản hồi công dân qua ứng dụng di động cho chính quyền địa phương; quy trình xử lý kiến nghị.
+Đề xuất giải pháp du lịch bền vững tại Sydney nhằm hạn chế overtourism; nêu tác động tới cộng đồng địa phương.
+So sánh hai nhân vật lịch sử Việt Nam về chiến lược lãnh đạo và di sản; rút ra 3 bài học cho quản trị hiện đại.
+Phân tích chiến lược bảo tồn di sản kiến trúc ở Đà Nẵng trong bối cảnh đô thị hóa nhanh.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên TV chạy iOS 18.
+Minh hoạ bắt tay (handshake) của gRPC; trình bày từng bước và điểm dễ sai ở tầng mạng.
+Giải thích CORS là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Trình bày tiến trình toàn cầu hóa văn hóa qua ví dụ âm nhạc/điện ảnh; nêu mặt tích cực và tiêu cực.
+Giải thích mối quan hệ giữa hạnh phúc chủ quan và thu nhập; thảo luận nghịch lý Easterlin.
+Đặt tình huống xung đột lợi ích trong công ty: phòng marketing và phòng kỹ thuật mâu thuẫn KPI; đề xuất cơ chế giải quyết và chỉ số đánh giá.
+Viết hàm Go tính số Fibonacci thứ 1343 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Viết câu lệnh BigQuery tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Nêu cơ chế tin giả lan truyền trên nền tảng nhắn tin mã hóa đầu-cuối; đề xuất biện pháp nâng cao nhận thức người dùng.
+Áp dụng đạo hàm để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Tranh luận: mạng xã hội tác động tích cực hay tiêu cực đến sức khỏe tinh thần của thanh thiếu niên? Đưa bằng chứng và biện pháp giảm hại.
+Thiết kế chương trình giáo dục tài chính cá nhân cho học sinh lớp 11 trong 8 tuần; có bài tập thực hành và tiêu chí đánh giá.
+Đánh giá lợi ích và rủi ro của làm việc từ xa 3 ngày/tuần đối với năng suất và văn hóa công ty; đưa khuyến nghị.
+Xây dựng kế hoạch cá nhân hóa học tập với AI cho học sinh yếu môn toán; các mốc theo dõi tiến bộ.
+Thiết kế chỉ mục văn bản cho 1571696 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết pseudo-code tính VWAP cho ARB theo dữ liệu OHLCV 81 ngày; kèm phân tích độ phức tạp.
+Đặt bài toán kinh tế học hành vi: vì sao người tiêu dùng thích gói cước 'không giới hạn'? Mô hình giải thích và thử nghiệm.
+Thiết kế hệ thống gợi ý top-10 sản phẩm theo lịch sử người dùng; mô tả lược đồ dữ liệu, offline/online feature store và đánh giá offline/online.
+Tối ưu biểu thức: ∑_(i=1..n) i^3 + ∑_(i=1..n) i^4; chứng minh bằng quy nạp công thức đóng.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Thái Nguyên; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Viết pseudo-code tính VWAP cho ETH theo dữ liệu OHLCV 25 ngày; kèm phân tích độ phức tạp.
+Giải thích các trường phái đạo đức (hậu quả, nghĩa vụ, đức hạnh) qua một tình huống kiểm duyệt nội dung AI.
+Thiết kế hệ thống phản hồi công dân qua ứng dụng di động cho chính quyền địa phương; quy trình xử lý kiến nghị.
+Phân tích yếu tố văn hóa vùng miền ảnh hưởng đến khẩu vị ẩm thực; thiết kế khảo sát và cách lấy mẫu.
+Hướng dẫn An học SQL từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Buôn Ma Thuột (công suất 298278 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+So sánh hai nhân vật lịch sử Việt Nam về chiến lược lãnh đạo và di sản; rút ra 3 bài học cho quản trị hiện đại.
+Đặt tình huống xung đột lợi ích trong công ty: phòng marketing và phòng kỹ thuật mâu thuẫn KPI; đề xuất cơ chế giải quyết và chỉ số đánh giá.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên điện thoại chạy Fedora 40.
+Giải hệ phương trình: { x + y = 8, x·y = 15 } và giải thích phương pháp.
+Đo và cải thiện IOPS mà không làm xấu error rate trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+Xây dựng dashboard KPI cho bán lẻ trong 1 tuần; nêu 8 chỉ số cốt lõi và mô hình dữ liệu.
+Tối ưu đoạn code Go đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Đặt tình huống xung đột lợi ích trong công ty: phòng marketing và phòng kỹ thuật mâu thuẫn KPI; đề xuất cơ chế giải quyết và chỉ số đánh giá.
+Giải thích CSRF là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Đặt tình huống đạo đức trong y học: phân bổ nguồn vac-xin khan hiếm; đề xuất nguyên tắc và quy trình ra quyết định.
+Đo và cải thiện tail latency mà không làm xấu IOPS trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề sinh học dành cho học sinh lớp 10; có gợi ý đáp án.
+Phân tích tác động biến đổi khí hậu tới ngành nông nghiệp cà phê; đề xuất thích ứng.
+Phân tích văn bản văn học hiện đại theo trường phái ký hiệu học; áp dụng cho một truyện ngắn bất kỳ.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên điện thoại chạy iOS 18.
+Trình bày tiến trình toàn cầu hóa văn hóa qua ví dụ âm nhạc/điện ảnh; nêu mặt tích cực và tiêu cực.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên kính AR chạy iOS 18.
+Viết câu lệnh Snowflake tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+So sánh UDP và DNS-over-HTTPS trong bối cảnh video call; khi nào chọn cái nào và vì sao?
+Đặt bài toán kinh tế học hành vi: vì sao người tiêu dùng thích gói cước 'không giới hạn'? Mô hình giải thích và thử nghiệm.
+Phân tích chiến lược bảo tồn di sản kiến trúc ở Buôn Ma Thuột trong bối cảnh đô thị hóa nhanh.
+Phân tích chiến lược bảo tồn di sản kiến trúc ở Vinh trong bối cảnh đô thị hóa nhanh.
+So sánh UDP và gRPC trong bối cảnh game online; khi nào chọn cái nào và vì sao?
+Giải thích khái niệm vốn xã hội và tác động của nó đến khả năng tìm việc làm của sinh viên mới tốt nghiệp.
+Trình bày quy trình transformer cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Đặt tình huống đạo đức trong y học: phân bổ nguồn vac-xin khan hiếm; đề xuất nguyên tắc và quy trình ra quyết định.
+Đề xuất giải pháp du lịch bền vững tại Berlin nhằm hạn chế overtourism; nêu tác động tới cộng đồng địa phương.
+Phân tích yếu tố văn hóa vùng miền ảnh hưởng đến khẩu vị ẩm thực; thiết kế khảo sát và cách lấy mẫu.
+Thiết kế workshop 1 ngày về tư duy phản biện cho nhân viên mới; mục tiêu, nội dung, cách đo hiệu quả.
+Viết kịch bản đàm phán giữa doanh nghiệp khởi nghiệp và nhà đầu tư thiên thần; xác định điều khoản then chốt và rủi ro pháp lý.
+Áp dụng ma trận để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Viết hàm Java tính số Fibonacci thứ 601 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Đề xuất bộ nguyên tắc đạo đức sử dụng dữ liệu khách hàng trong thương mại điện tử; ví dụ vi phạm phổ biến.
+Tối ưu đoạn code Kotlin đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Thiết kế thí nghiệm A/B để đánh giá multimodal cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+So sánh hai nhân vật lịch sử Việt Nam về chiến lược lãnh đạo và di sản; rút ra 3 bài học cho quản trị hiện đại.
+Tối ưu đoạn code SQL đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Biên Hòa (công suất 259228 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Thiết kế thí nghiệm tâm lý xã hội kiểm tra hiệu ứng bầy đàn trong quyết định mua hàng trực tuyến.
+Thiết kế chỉ mục văn bản cho 4340871 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Phân tích yếu tố văn hóa vùng miền ảnh hưởng đến khẩu vị ẩm thực; thiết kế khảo sát và cách lấy mẫu.
+Thiết kế kiến trúc multi-region trên DigitalOcean đạt RTO 5 phút, RPO 0; mô tả replication, failover và thử nghiệm định kỳ.
+Viết unit test table-driven cho một hàm Go parse datetime không chuẩn; kèm 6 test case méo mó.
+Đặt tình huống xung đột lợi ích trong công ty: phòng marketing và phòng kỹ thuật mâu thuẫn KPI; đề xuất cơ chế giải quyết và chỉ số đánh giá.
+Thiết kế hệ thống đặt vé du lịch tại Berlin dùng Flutter, chịu tải 4704713 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế bài kiểm tra đánh giá năng lực đọc hiểu truyền thông số cho sinh viên năm nhất; rubric chấm điểm.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Trình bày tiến trình toàn cầu hóa văn hóa qua ví dụ âm nhạc/điện ảnh; nêu mặt tích cực và tiêu cực.
+Viết middleware Spring Boot để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Viết kịch bản đàm phán giữa doanh nghiệp khởi nghiệp và nhà đầu tư thiên thần; xác định điều khoản then chốt và rủi ro pháp lý.
+Tối ưu biểu thức: ∑_(i=1..n) i^4 + ∑_(i=1..n) i^6; chứng minh bằng quy nạp công thức đóng.
+Giải thích khái niệm vốn xã hội và tác động của nó đến khả năng tìm việc làm của sinh viên mới tốt nghiệp.
+Mô tả quy trình phân loại rác tại nguồn cho một quận ở Cần Thơ; xây KPI giảm rác chôn lấp theo từng quý.
+Phân tích nguyên nhân và hệ quả của lạm phát cao trong 2 năm liên tiếp đối với hộ gia đình thu nhập trung bình ở Việt Nam.
+Phân tích ảnh hưởng của trí tuệ nhân tạo lên thị trường lao động 10 năm tới; khuyến nghị đào tạo lại kỹ năng.
+Nêu rủi ro đạo đức của deepfake trong chính trị và giáo dục truyền thông để giảm thiểu tác hại.
+Thiết kế hệ thống đặt vé du lịch tại Quy Nhơn dùng Flutter, chịu tải 2014740 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Thiết kế workshop 1 ngày về tư duy phản biện cho nhân viên mới; mục tiêu, nội dung, cách đo hiệu quả.
+Thiết kế bài kiểm tra đánh giá năng lực đọc hiểu truyền thông số cho sinh viên năm nhất; rubric chấm điểm.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên máy tính bảng chạy Fedora 40.
+Thiết kế hệ thống phản hồi công dân qua ứng dụng di động cho chính quyền địa phương; quy trình xử lý kiến nghị.
+Áp dụng tích phân để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề hóa học dành cho học sinh lớp 10; có gợi ý đáp án.
+Viết pseudo-code tính VWAP cho MATIC theo dữ liệu OHLCV 40 ngày; kèm phân tích độ phức tạp.
+Áp dụng tích phân để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề hóa học dành cho học sinh lớp 10; có gợi ý đáp án.
+Giải hệ phương trình: { x + y = 8, x·y = 15 } và giải thích phương pháp.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa SUI và MATIC; nêu tình huống sử dụng phù hợp.
+Thiết kế thí nghiệm A/B để đánh giá distillation cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Thiết kế chiến dịch truyền thông phòng chống bạo lực học đường kéo dài 6 tháng; KPI, nội dung, kênh triển khai.
+Đề xuất giải pháp du lịch bền vững tại Tokyo nhằm hạn chế overtourism; nêu tác động tới cộng đồng địa phương.
+Đề xuất mô hình nhà ở giá rẻ cho lao động nhập cư tại Hạ Long; phân tích tài chính sơ bộ và tác động xã hội.
+Đặt bài toán kinh tế học hành vi: vì sao người tiêu dùng thích gói cước 'không giới hạn'? Mô hình giải thích và thử nghiệm.
+Xây dựng kế hoạch cá nhân hóa học tập với AI cho học sinh yếu môn toán; các mốc theo dõi tiến bộ.
+Xây dựng kế hoạch cá nhân hóa học tập với AI cho học sinh yếu môn toán; các mốc theo dõi tiến bộ.
+Thiết kế hệ thống đặt vé du lịch tại TP.HCM dùng Spring Boot, chịu tải 1110586 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+So sánh HTTP/2 và gRPC trong bối cảnh IoT sensor; khi nào chọn cái nào và vì sao?
+Thiết kế hệ thống đặt vé du lịch tại Tokyo dùng NestJS, chịu tải 196273 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết unit test table-driven cho một hàm Python parse datetime không chuẩn; kèm 6 test case méo mó.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa TRX và SUI; nêu tình huống sử dụng phù hợp.
+Nêu cơ chế tin giả lan truyền trên nền tảng nhắn tin mã hóa đầu-cuối; đề xuất biện pháp nâng cao nhận thức người dùng.
+Trình bày tiến trình toàn cầu hóa văn hóa qua ví dụ âm nhạc/điện ảnh; nêu mặt tích cực và tiêu cực.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên laptop chạy Debian 12.
+Viết middleware Vue để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Giải thích lý do tắc nghẽn giao thông giờ cao điểm và đưa giải pháp can thiệp hành vi (nudging) khả thi.
+Giải thích CORS là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên laptop chạy Android 15.
+Thiết kế workshop 1 ngày về tư duy phản biện cho nhân viên mới; mục tiêu, nội dung, cách đo hiệu quả.
+Tối ưu đoạn code Kotlin đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Viết middleware Qt để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên máy tính bảng chạy Ubuntu 24.04.
+Giải thích các trường phái đạo đức (hậu quả, nghĩa vụ, đức hạnh) qua một tình huống kiểm duyệt nội dung AI.
+Phân tích yếu tố văn hóa vùng miền ảnh hưởng đến khẩu vị ẩm thực; thiết kế khảo sát và cách lấy mẫu.
+Viết câu lệnh Snowflake tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Giải thích lý do tắc nghẽn giao thông giờ cao điểm và đưa giải pháp can thiệp hành vi (nudging) khả thi.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+Đề xuất bộ nguyên tắc đạo đức sử dụng dữ liệu khách hàng trong thương mại điện tử; ví dụ vi phạm phổ biến.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup blockchain ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Giải thích khái niệm vốn xã hội và tác động của nó đến khả năng tìm việc làm của sinh viên mới tốt nghiệp.
+Minh hoạ bắt tay (handshake) của SCTP; trình bày từng bước và điểm dễ sai ở tầng mạng.
+Thiết kế kiến trúc multi-region trên Azure đạt RTO 5 phút, RPO 0; mô tả replication, failover và thử nghiệm định kỳ.
+Bài toán chia kẹo: có 19 viên, chia cho 2 bạn chênh nhau 3 viên; liệt kê mọi phương án hợp lệ.
+Đề xuất mô hình nhà ở giá rẻ cho lao động nhập cư tại Phan Thiết; phân tích tài chính sơ bộ và tác động xã hội.
+Viết unit test table-driven cho một hàm Rust parse datetime không chuẩn; kèm 6 test case méo mó.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Hà Nội; nêu RACI, ma trận liên hệ và kênh truyền thông.
+So sánh cách tiếp cận quản trị nước sạch giữa Barcelona và Đà Nẵng; rút kinh nghiệm áp dụng.
+Đánh giá lợi ích và rủi ro của làm việc từ xa 3 ngày/tuần đối với năng suất và văn hóa công ty; đưa khuyến nghị.
+Viết pseudo-code tính VWAP cho BNB theo dữ liệu OHLCV 41 ngày; kèm phân tích độ phức tạp.
+Xây dựng pipeline dữ liệu cho bài toán tóm tắt văn bản tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Giải thích khái niệm vốn xã hội và tác động của nó đến khả năng tìm việc làm của sinh viên mới tốt nghiệp.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên TV chạy Android 15.
+Viết React hook/component xử lý vô hiệu hoá nút Submit khi form chưa hợp lệ; kèm ví dụ code ngắn.
+Phân tích văn bản văn học hiện đại theo trường phái ký hiệu học; áp dụng cho một truyện ngắn bất kỳ.
+Tối ưu biểu thức: ∑_(i=1..n) i^2 + ∑_(i=1..n) i^4; chứng minh bằng quy nạp công thức đóng.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Giải thích lý do tắc nghẽn giao thông giờ cao điểm và đưa giải pháp can thiệp hành vi (nudging) khả thi.
+Xây dựng dashboard KPI cho giáo dục trong 1 tháng; nêu 8 chỉ số cốt lõi và mô hình dữ liệu.
+Đánh giá tác động của học theo dự án (project-based learning) đối với kỹ năng hợp tác của học sinh lớp 9; phương pháp đo lường.
+Xây dựng dashboard KPI cho sản xuất trong 1 quý; nêu 8 chỉ số cốt lõi và mô hình dữ liệu.
+Chuyển đổi log ứng dụng sang ORC tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Giải thích WAF là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Giải hệ phương trình: { x + y = 8, x·y = 16 } và giải thích phương pháp.
+Thiết kế thí nghiệm tâm lý xã hội kiểm tra hiệu ứng bầy đàn trong quyết định mua hàng trực tuyến.
+Đánh giá lợi ích và rủi ro của làm việc từ xa 3 ngày/tuần đối với năng suất và văn hóa công ty; đưa khuyến nghị.
+Giải thích lý do tắc nghẽn giao thông giờ cao điểm và đưa giải pháp can thiệp hành vi (nudging) khả thi.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề văn học dành cho học sinh lớp 10; có gợi ý đáp án.
+Phân tích tác động biến đổi khí hậu tới ngành nông nghiệp lúa gạo; đề xuất thích ứng.
+Viết unit test table-driven cho một hàm Python parse datetime không chuẩn; kèm 6 test case méo mó.
+Viết hàm Bash tính số Fibonacci thứ 1427 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+So sánh SCTP và QUIC trong bối cảnh game online; khi nào chọn cái nào và vì sao?
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Vinh (công suất 486763 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Đo và cải thiện availability mà không làm xấu tail latency trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+Tranh luận: mạng xã hội tác động tích cực hay tiêu cực đến sức khỏe tinh thần của thanh thiếu niên? Đưa bằng chứng và biện pháp giảm hại.
+So sánh hai nhân vật lịch sử Việt Nam về chiến lược lãnh đạo và di sản; rút ra 3 bài học cho quản trị hiện đại.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề hóa học dành cho học sinh lớp 10; có gợi ý đáp án.
+Nêu rủi ro đạo đức của deepfake trong chính trị và giáo dục truyền thông để giảm thiểu tác hại.
+Viết kịch bản đàm phán giữa doanh nghiệp khởi nghiệp và nhà đầu tư thiên thần; xác định điều khoản then chốt và rủi ro pháp lý.
+Viết câu lệnh MongoDB tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Hướng dẫn Linh học Swift từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+Tối ưu biểu thức: ∑_(i=1..n) i^4 + ∑_(i=1..n) i^2; chứng minh bằng quy nạp công thức đóng.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Xây dựng kế hoạch cá nhân hóa học tập với AI cho học sinh yếu môn toán; các mốc theo dõi tiến bộ.
+Tranh luận: mạng xã hội tác động tích cực hay tiêu cực đến sức khỏe tinh thần của thanh thiếu niên? Đưa bằng chứng và biện pháp giảm hại.
+Phân tích tác động biến đổi khí hậu tới ngành nông nghiệp thủy sản; đề xuất thích ứng.
+Đề xuất mô hình nhà ở giá rẻ cho lao động nhập cư tại Cần Thơ; phân tích tài chính sơ bộ và tác động xã hội.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa TRX và BNB; nêu tình huống sử dụng phù hợp.
+Thiết kế thí nghiệm A/B để đánh giá Mixture-of-Experts cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Đặt tình huống đạo đức trong y học: phân bổ nguồn vac-xin khan hiếm; đề xuất nguyên tắc và quy trình ra quyết định.
+Trình bày tiến trình toàn cầu hóa văn hóa qua ví dụ âm nhạc/điện ảnh; nêu mặt tích cực và tiêu cực.
+Chuyển đổi log ứng dụng sang ProtoBuf tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Đề xuất mô hình nhà ở giá rẻ cho lao động nhập cư tại Đà Nẵng; phân tích tài chính sơ bộ và tác động xã hội.
+Xây dựng pipeline dữ liệu cho bài toán dịch máy tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Nêu rủi ro đạo đức của deepfake trong chính trị và giáo dục truyền thông để giảm thiểu tác hại.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hạ Long (công suất 497937 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Phân tích chiến lược bảo tồn di sản kiến trúc ở Vinh trong bối cảnh đô thị hóa nhanh.
+So sánh SCTP và TCP trong bối cảnh streaming video; khi nào chọn cái nào và vì sao?
+Phân tích ảnh hưởng của trí tuệ nhân tạo lên thị trường lao động 10 năm tới; khuyến nghị đào tạo lại kỹ năng.
+Đưa ra lộ trình chuyển đổi năng lượng sạch cho doanh nghiệp sản xuất vừa và nhỏ trong 3 năm; ước tính chi phí và lợi ích.
+Giải thích CORS là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Trình bày tiến trình toàn cầu hóa văn hóa qua ví dụ âm nhạc/điện ảnh; nêu mặt tích cực và tiêu cực.
+So sánh cách tiếp cận quản trị nước sạch giữa Singapore và Hạ Long; rút kinh nghiệm áp dụng.
+Minh hoạ bắt tay (handshake) của DNS-over-HTTPS; trình bày từng bước và điểm dễ sai ở tầng mạng.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Quy Nhơn (công suất 428953 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Quy Nhơn; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Đặt tình huống đạo đức trong y học: phân bổ nguồn vac-xin khan hiếm; đề xuất nguyên tắc và quy trình ra quyết định.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa TON và ARB; nêu tình huống sử dụng phù hợp.
+Áp dụng lập trình động để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Thiết kế chiến dịch truyền thông phòng chống bạo lực học đường kéo dài 6 tháng; KPI, nội dung, kênh triển khai.
+Phân tích ảnh hưởng của trí tuệ nhân tạo lên thị trường lao động 10 năm tới; khuyến nghị đào tạo lại kỹ năng.
+Tối ưu biểu thức: ∑_(i=1..n) i^8 + ∑_(i=1..n) i^5; chứng minh bằng quy nạp công thức đóng.
+Thiết kế thí nghiệm A/B để đánh giá multimodal cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Phân tích chiến lược bảo tồn di sản kiến trúc ở Hải Phòng trong bối cảnh đô thị hóa nhanh.
+Phân tích ảnh hưởng của trí tuệ nhân tạo lên thị trường lao động 10 năm tới; khuyến nghị đào tạo lại kỹ năng.
+Đánh giá tác động của học theo dự án (project-based learning) đối với kỹ năng hợp tác của học sinh lớp 9; phương pháp đo lường.
+Thiết kế chương trình giáo dục tài chính cá nhân cho học sinh lớp 11 trong 8 tuần; có bài tập thực hành và tiêu chí đánh giá.
+Xây dựng kế hoạch cá nhân hóa học tập với AI cho học sinh yếu môn toán; các mốc theo dõi tiến bộ.
+Phân tích văn bản văn học hiện đại theo trường phái ký hiệu học; áp dụng cho một truyện ngắn bất kỳ.
+Xây dựng dashboard KPI cho ngân hàng trong 5 năm; nêu 8 chỉ số cốt lõi và mô hình dữ liệu.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Trình bày quy trình distillation cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Thiết kế workshop 1 ngày về tư duy phản biện cho nhân viên mới; mục tiêu, nội dung, cách đo hiệu quả.
+Đề xuất bộ nguyên tắc đạo đức sử dụng dữ liệu khách hàng trong thương mại điện tử; ví dụ vi phạm phổ biến.
+Đề xuất giải pháp du lịch bền vững tại Dubai nhằm hạn chế overtourism; nêu tác động tới cộng đồng địa phương.
+Viết unit test table-driven cho một hàm Python parse datetime không chuẩn; kèm 6 test case méo mó.
+Bài toán chia kẹo: có 34 viên, chia cho 2 bạn chênh nhau 6 viên; liệt kê mọi phương án hợp lệ.
+Thiết kế workshop 1 ngày về tư duy phản biện cho nhân viên mới; mục tiêu, nội dung, cách đo hiệu quả.
+So sánh cách tiếp cận quản trị nước sạch giữa Rome và Biên Hòa; rút kinh nghiệm áp dụng.
+So sánh TCP và DNS-over-HTTPS trong bối cảnh trading real-time; khi nào chọn cái nào và vì sao?
+Đánh giá lợi ích và rủi ro của làm việc từ xa 3 ngày/tuần đối với năng suất và văn hóa công ty; đưa khuyến nghị.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup IoT ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Tối ưu biểu thức: ∑_(i=1..n) i^3 + ∑_(i=1..n) i^7; chứng minh bằng quy nạp công thức đóng.
+Xây dựng pipeline dữ liệu cho bài toán dịch máy tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Lập kế hoạch du lịch Rome 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Viết unit test table-driven cho một hàm SQL parse datetime không chuẩn; kèm 6 test case méo mó.
+Phân tích tác động biến đổi khí hậu tới ngành nông nghiệp cà phê; đề xuất thích ứng.
+Thiết kế bài kiểm tra đánh giá năng lực đọc hiểu truyền thông số cho sinh viên năm nhất; rubric chấm điểm.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề triết học dành cho học sinh lớp 10; có gợi ý đáp án.
+Thiết kế hệ thống gợi ý top-10 sản phẩm theo lịch sử người dùng; mô tả lược đồ dữ liệu, offline/online feature store và đánh giá offline/online.
+Viết middleware Express.js để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Phân tích ảnh hưởng của trí tuệ nhân tạo lên thị trường lao động 10 năm tới; khuyến nghị đào tạo lại kỹ năng.
+Thiết kế kiến trúc multi-region trên DigitalOcean đạt RTO 5 phút, RPO 0; mô tả replication, failover và thử nghiệm định kỳ.
+Xây dựng pipeline dữ liệu cho bài toán tóm tắt văn bản tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Tranh luận: mạng xã hội tác động tích cực hay tiêu cực đến sức khỏe tinh thần của thanh thiếu niên? Đưa bằng chứng và biện pháp giảm hại.
+Trình bày tiến trình toàn cầu hóa văn hóa qua ví dụ âm nhạc/điện ảnh; nêu mặt tích cực và tiêu cực.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup e-commerce ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa PHRS và ARB; nêu tình huống sử dụng phù hợp.
+So sánh cách tiếp cận quản trị nước sạch giữa Istanbul và TP.HCM; rút kinh nghiệm áp dụng.
+Lập kế hoạch du lịch Sydney 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Giải hệ phương trình: { x + y = 9, x·y = 20 } và giải thích phương pháp.
+Thiết kế thí nghiệm A/B để đánh giá RAG cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Thiết kế thí nghiệm A/B để đánh giá distillation cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Vinh; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Giải thích các trường phái đạo đức (hậu quả, nghĩa vụ, đức hạnh) qua một tình huống kiểm duyệt nội dung AI.
+Viết kịch bản đàm phán giữa doanh nghiệp khởi nghiệp và nhà đầu tư thiên thần; xác định điều khoản then chốt và rủi ro pháp lý.
+So sánh hai nhân vật lịch sử Việt Nam về chiến lược lãnh đạo và di sản; rút ra 3 bài học cho quản trị hiện đại.
+Đặt tình huống xung đột lợi ích trong công ty: phòng marketing và phòng kỹ thuật mâu thuẫn KPI; đề xuất cơ chế giải quyết và chỉ số đánh giá.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Giải thích lý do tắc nghẽn giao thông giờ cao điểm và đưa giải pháp can thiệp hành vi (nudging) khả thi.
+Thiết kế kiến trúc multi-region trên Fly.io đạt RTO 5 phút, RPO 0; mô tả replication, failover và thử nghiệm định kỳ.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup agritech ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Đề xuất giải pháp du lịch bền vững tại Paris nhằm hạn chế overtourism; nêu tác động tới cộng đồng địa phương.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hà Nội (công suất 258408 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Phân tích văn bản văn học hiện đại theo trường phái ký hiệu học; áp dụng cho một truyện ngắn bất kỳ.
+Thiết kế chiến dịch truyền thông phòng chống bạo lực học đường kéo dài 6 tháng; KPI, nội dung, kênh triển khai.
+Giải thích CORS là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Áp dụng lập trình động để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Đề xuất giải pháp du lịch bền vững tại San Francisco nhằm hạn chế overtourism; nêu tác động tới cộng đồng địa phương.
+Đặt tình huống xung đột lợi ích trong công ty: phòng marketing và phòng kỹ thuật mâu thuẫn KPI; đề xuất cơ chế giải quyết và chỉ số đánh giá.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Đặt bài toán kinh tế học hành vi: vì sao người tiêu dùng thích gói cước 'không giới hạn'? Mô hình giải thích và thử nghiệm.
+Xây dựng pipeline dữ liệu cho bài toán phân loại cảm xúc tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+So sánh hai nhân vật lịch sử Việt Nam về chiến lược lãnh đạo và di sản; rút ra 3 bài học cho quản trị hiện đại.
+Phân tích ảnh hưởng của trí tuệ nhân tạo lên thị trường lao động 10 năm tới; khuyến nghị đào tạo lại kỹ năng.
+Đưa ra lộ trình chuyển đổi năng lượng sạch cho doanh nghiệp sản xuất vừa và nhỏ trong 3 năm; ước tính chi phí và lợi ích.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Thiết kế chương trình giáo dục tài chính cá nhân cho học sinh lớp 11 trong 8 tuần; có bài tập thực hành và tiêu chí đánh giá.
+Chuyển đổi log ứng dụng sang Parquet tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Đề xuất giải pháp du lịch bền vững tại Berlin nhằm hạn chế overtourism; nêu tác động tới cộng đồng địa phương.
+Đặt tình huống xung đột lợi ích trong công ty: phòng marketing và phòng kỹ thuật mâu thuẫn KPI; đề xuất cơ chế giải quyết và chỉ số đánh giá.
+Xây dựng kế hoạch cá nhân hóa học tập với AI cho học sinh yếu môn toán; các mốc theo dõi tiến bộ.
+Giải thích mối quan hệ giữa hạnh phúc chủ quan và thu nhập; thảo luận nghịch lý Easterlin.
+Đặt tình huống xung đột lợi ích trong công ty: phòng marketing và phòng kỹ thuật mâu thuẫn KPI; đề xuất cơ chế giải quyết và chỉ số đánh giá.
+Đánh giá lợi ích và rủi ro của làm việc từ xa 3 ngày/tuần đối với năng suất và văn hóa công ty; đưa khuyến nghị.
+Tối ưu đoạn code Bash đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Xây dựng pipeline dữ liệu cho bài toán phân loại cảm xúc tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Giải thích rate limit là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Đo và cải thiện tail latency mà không làm xấu latency trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+Đề xuất mô hình nhà ở giá rẻ cho lao động nhập cư tại Hà Nội; phân tích tài chính sơ bộ và tác động xã hội.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup fintech ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Đặt bài toán kinh tế học hành vi: vì sao người tiêu dùng thích gói cước 'không giới hạn'? Mô hình giải thích và thử nghiệm.
+Viết kịch bản đàm phán giữa doanh nghiệp khởi nghiệp và nhà đầu tư thiên thần; xác định điều khoản then chốt và rủi ro pháp lý.
+Lập kế hoạch du lịch Berlin 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Hải Phòng; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Thiết kế hệ thống đặt vé du lịch tại Hà Nội dùng Spring Boot, chịu tải 1151991 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Đặt tình huống đạo đức trong y học: phân bổ nguồn vac-xin khan hiếm; đề xuất nguyên tắc và quy trình ra quyết định.
+Giải thích CSRF là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Trình bày tiến trình toàn cầu hóa văn hóa qua ví dụ âm nhạc/điện ảnh; nêu mặt tích cực và tiêu cực.
+Xây dựng pipeline dữ liệu cho bài toán trả lời câu hỏi tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Áp dụng quy hoạch tuyến tính để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Đánh giá tác động của học theo dự án (project-based learning) đối với kỹ năng hợp tác của học sinh lớp 9; phương pháp đo lường.
+So sánh TCP và TLS 1.3 trong bối cảnh trading real-time; khi nào chọn cái nào và vì sao?
+Thiết kế thí nghiệm A/B để đánh giá Mixture-of-Experts cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+So sánh TCP và QUIC trong bối cảnh game online; khi nào chọn cái nào và vì sao?
+Trình bày quy trình RAG cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Viết middleware NestJS để log trace-id và đo thời gian xử lý từng request; kèm ví dụ cấu hình.
+Mô tả quy trình phân loại rác tại nguồn cho một quận ở Nha Trang; xây KPI giảm rác chôn lấp theo từng quý.
+Lập kế hoạch du lịch San Francisco 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Thiết kế hệ thống gợi ý top-20 sản phẩm theo lịch sử người dùng; mô tả lược đồ dữ liệu, offline/online feature store và đánh giá offline/online.
+Bài toán chia kẹo: có 32 viên, chia cho 2 bạn chênh nhau 2 viên; liệt kê mọi phương án hợp lệ.
+Phân tích văn bản văn học hiện đại theo trường phái ký hiệu học; áp dụng cho một truyện ngắn bất kỳ.
+Tranh luận: mạng xã hội tác động tích cực hay tiêu cực đến sức khỏe tinh thần của thanh thiếu niên? Đưa bằng chứng và biện pháp giảm hại.
+Trình bày tiến trình toàn cầu hóa văn hóa qua ví dụ âm nhạc/điện ảnh; nêu mặt tích cực và tiêu cực.
+Nêu rủi ro đạo đức của deepfake trong chính trị và giáo dục truyền thông để giảm thiểu tác hại.
+Đề xuất giải pháp du lịch bền vững tại Tokyo nhằm hạn chế overtourism; nêu tác động tới cộng đồng địa phương.
+Xây dựng dashboard KPI cho sản xuất trong 3 năm; nêu 8 chỉ số cốt lõi và mô hình dữ liệu.
+Viết hàm SQL tính số Fibonacci thứ 932 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+So sánh cách tiếp cận quản trị nước sạch giữa San Francisco và Vinh; rút kinh nghiệm áp dụng.
+Đề xuất bộ nguyên tắc đạo đức sử dụng dữ liệu khách hàng trong thương mại điện tử; ví dụ vi phạm phổ biến.
+Chuyển đổi log ứng dụng sang ORC tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Thiết kế workshop 1 ngày về tư duy phản biện cho nhân viên mới; mục tiêu, nội dung, cách đo hiệu quả.
+Xây dựng pipeline dữ liệu cho bài toán tóm tắt văn bản tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Thiết kế chương trình giáo dục tài chính cá nhân cho học sinh lớp 11 trong 8 tuần; có bài tập thực hành và tiêu chí đánh giá.
+Xây dựng pipeline dữ liệu cho bài toán dịch máy tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề văn học dành cho học sinh lớp 10; có gợi ý đáp án.
+Nêu cơ chế tin giả lan truyền trên nền tảng nhắn tin mã hóa đầu-cuối; đề xuất biện pháp nâng cao nhận thức người dùng.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Viết Flutter hook/component xử lý vô hiệu hoá nút Submit khi form chưa hợp lệ; kèm ví dụ code ngắn.
+Thiết kế bài kiểm tra đánh giá năng lực đọc hiểu truyền thông số cho sinh viên năm nhất; rubric chấm điểm.
+Mô tả quy trình phân loại rác tại nguồn cho một quận ở Hải Phòng; xây KPI giảm rác chôn lấp theo từng quý.
+So sánh cách tiếp cận quản trị nước sạch giữa Berlin và Biên Hòa; rút kinh nghiệm áp dụng.
+Đặt tình huống đạo đức trong y học: phân bổ nguồn vac-xin khan hiếm; đề xuất nguyên tắc và quy trình ra quyết định.
+Giải thích JWT là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+Viết pseudo-code tính VWAP cho BNB theo dữ liệu OHLCV 54 ngày; kèm phân tích độ phức tạp.
+Xây dựng pipeline dữ liệu cho bài toán dịch máy tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Đề xuất mô hình nhà ở giá rẻ cho lao động nhập cư tại Thái Nguyên; phân tích tài chính sơ bộ và tác động xã hội.
+Mô tả quy trình phân loại rác tại nguồn cho một quận ở Quy Nhơn; xây KPI giảm rác chôn lấp theo từng quý.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+So sánh hai nhân vật lịch sử Việt Nam về chiến lược lãnh đạo và di sản; rút ra 3 bài học cho quản trị hiện đại.
+Tối ưu biểu thức: ∑_(i=1..n) i^3 + ∑_(i=1..n) i^4; chứng minh bằng quy nạp công thức đóng.
+Trình bày quy trình distillation cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Đề xuất bộ nguyên tắc đạo đức sử dụng dữ liệu khách hàng trong thương mại điện tử; ví dụ vi phạm phổ biến.
+Phân tích ảnh hưởng của trí tuệ nhân tạo lên thị trường lao động 10 năm tới; khuyến nghị đào tạo lại kỹ năng.
+Xây dựng pipeline dữ liệu cho bài toán nhận dạng thực thể tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Hướng dẫn An học Go từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+Xây dựng kế hoạch cá nhân hóa học tập với AI cho học sinh yếu môn toán; các mốc theo dõi tiến bộ.
+Giải thích các trường phái đạo đức (hậu quả, nghĩa vụ, đức hạnh) qua một tình huống kiểm duyệt nội dung AI.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên TV chạy macOS Sequoia.
+Nêu rủi ro đạo đức của deepfake trong chính trị và giáo dục truyền thông để giảm thiểu tác hại.
+Đề xuất giải pháp du lịch bền vững tại Paris nhằm hạn chế overtourism; nêu tác động tới cộng đồng địa phương.
+Trình bày tiến trình toàn cầu hóa văn hóa qua ví dụ âm nhạc/điện ảnh; nêu mặt tích cực và tiêu cực.
+Phân tích yếu tố văn hóa vùng miền ảnh hưởng đến khẩu vị ẩm thực; thiết kế khảo sát và cách lấy mẫu.
+Thiết kế workshop 1 ngày về tư duy phản biện cho nhân viên mới; mục tiêu, nội dung, cách đo hiệu quả.
+Đặt tình huống xung đột lợi ích trong công ty: phòng marketing và phòng kỹ thuật mâu thuẫn KPI; đề xuất cơ chế giải quyết và chỉ số đánh giá.
+Thiết kế chỉ mục văn bản cho 3536952 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên laptop chạy Fedora 40.
+Trình bày quy trình Mixture-of-Experts cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Đo và cải thiện error rate mà không làm xấu p99 trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+Viết kịch bản đàm phán giữa doanh nghiệp khởi nghiệp và nhà đầu tư thiên thần; xác định điều khoản then chốt và rủi ro pháp lý.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Giải hệ phương trình: { x + y = 7, x·y = 10 } và giải thích phương pháp.
+Giải thích mối quan hệ giữa hạnh phúc chủ quan và thu nhập; thảo luận nghịch lý Easterlin.
+Tranh luận: mạng xã hội tác động tích cực hay tiêu cực đến sức khỏe tinh thần của thanh thiếu niên? Đưa bằng chứng và biện pháp giảm hại.
+Áp dụng tích phân để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+So sánh WebSocket và SCTP trong bối cảnh IoT sensor; khi nào chọn cái nào và vì sao?
+Đặt 5 câu hỏi tư duy phản biện về chủ đề vật lý dành cho học sinh lớp 10; có gợi ý đáp án.
+Thiết kế chương trình giáo dục tài chính cá nhân cho học sinh lớp 11 trong 8 tuần; có bài tập thực hành và tiêu chí đánh giá.
+Xây dựng dashboard KPI cho giáo dục trong 3 năm; nêu 8 chỉ số cốt lõi và mô hình dữ liệu.
+Tranh luận: mạng xã hội tác động tích cực hay tiêu cực đến sức khỏe tinh thần của thanh thiếu niên? Đưa bằng chứng và biện pháp giảm hại.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa ADA và TRX; nêu tình huống sử dụng phù hợp.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Bắc Ninh (công suất 412321 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Đặt tình huống xung đột lợi ích trong công ty: phòng marketing và phòng kỹ thuật mâu thuẫn KPI; đề xuất cơ chế giải quyết và chỉ số đánh giá.
+Thiết kế thí nghiệm tâm lý xã hội kiểm tra hiệu ứng bầy đàn trong quyết định mua hàng trực tuyến.
+Phân tích yếu tố văn hóa vùng miền ảnh hưởng đến khẩu vị ẩm thực; thiết kế khảo sát và cách lấy mẫu.
+Thiết kế workshop 1 ngày về tư duy phản biện cho nhân viên mới; mục tiêu, nội dung, cách đo hiệu quả.
+Thiết kế hệ thống gợi ý top-3 sản phẩm theo lịch sử người dùng; mô tả lược đồ dữ liệu, offline/online feature store và đánh giá offline/online.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup edtech ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Bài toán chia kẹo: có 20 viên, chia cho 2 bạn chênh nhau 16 viên; liệt kê mọi phương án hợp lệ.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Thiết kế hệ thống gợi ý top-19 sản phẩm theo lịch sử người dùng; mô tả lược đồ dữ liệu, offline/online feature store và đánh giá offline/online.
+Đánh giá tác động của học theo dự án (project-based learning) đối với kỹ năng hợp tác của học sinh lớp 9; phương pháp đo lường.
+Trình bày quy trình RLHF cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Thiết kế hệ thống phản hồi công dân qua ứng dụng di động cho chính quyền địa phương; quy trình xử lý kiến nghị.
+Trình bày quy trình Mixture-of-Experts cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Phân tích yếu tố văn hóa vùng miền ảnh hưởng đến khẩu vị ẩm thực; thiết kế khảo sát và cách lấy mẫu.
+Xây dựng dashboard KPI cho chứng khoán trong 1 ngày; nêu 8 chỉ số cốt lõi và mô hình dữ liệu.
+Trình bày quy trình function calling cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Giải thích lý do tắc nghẽn giao thông giờ cao điểm và đưa giải pháp can thiệp hành vi (nudging) khả thi.
+Trình bày quy trình vector database cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề địa lý dành cho học sinh lớp 10; có gợi ý đáp án.
+Viết unit test table-driven cho một hàm C# parse datetime không chuẩn; kèm 6 test case méo mó.
+Trình bày quy trình transformer cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+So sánh QUIC và WebSocket trong bối cảnh IoT sensor; khi nào chọn cái nào và vì sao?
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+So sánh TCP và SCTP trong bối cảnh video call; khi nào chọn cái nào và vì sao?
+Đề xuất bộ nguyên tắc đạo đức sử dụng dữ liệu khách hàng trong thương mại điện tử; ví dụ vi phạm phổ biến.
+So sánh HTTP/2 và TCP trong bối cảnh streaming video; khi nào chọn cái nào và vì sao?
+Giải thích mối quan hệ giữa hạnh phúc chủ quan và thu nhập; thảo luận nghịch lý Easterlin.
+Viết pseudo-code tính VWAP cho SUI theo dữ liệu OHLCV 11 ngày; kèm phân tích độ phức tạp.
+Đo và cải thiện error rate mà không làm xấu memory trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+So sánh cách tiếp cận quản trị nước sạch giữa Singapore và Hà Nội; rút kinh nghiệm áp dụng.
+Đặt tình huống xung đột lợi ích trong công ty: phòng marketing và phòng kỹ thuật mâu thuẫn KPI; đề xuất cơ chế giải quyết và chỉ số đánh giá.
+Giải thích lý do tắc nghẽn giao thông giờ cao điểm và đưa giải pháp can thiệp hành vi (nudging) khả thi.
+Phân tích nguyên nhân và hệ quả của lạm phát cao trong 2 năm liên tiếp đối với hộ gia đình thu nhập trung bình ở Việt Nam.
+Trình bày quy trình RAG cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Xây dựng pipeline dữ liệu cho bài toán nhận dạng thực thể tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Mô tả quy trình phân loại rác tại nguồn cho một quận ở Hạ Long; xây KPI giảm rác chôn lấp theo từng quý.
+Phân tích chiến lược bảo tồn di sản kiến trúc ở Nha Trang trong bối cảnh đô thị hóa nhanh.
+Đặt tình huống xung đột lợi ích trong công ty: phòng marketing và phòng kỹ thuật mâu thuẫn KPI; đề xuất cơ chế giải quyết và chỉ số đánh giá.
+So sánh hai nhân vật lịch sử Việt Nam về chiến lược lãnh đạo và di sản; rút ra 3 bài học cho quản trị hiện đại.
+Viết kịch bản đàm phán giữa doanh nghiệp khởi nghiệp và nhà đầu tư thiên thần; xác định điều khoản then chốt và rủi ro pháp lý.
+Giải thích lý do tắc nghẽn giao thông giờ cao điểm và đưa giải pháp can thiệp hành vi (nudging) khả thi.
+Nêu cơ chế tin giả lan truyền trên nền tảng nhắn tin mã hóa đầu-cuối; đề xuất biện pháp nâng cao nhận thức người dùng.
+Áp dụng xác suất để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Xây dựng pipeline dữ liệu cho bài toán dịch máy tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Thiết kế chỉ mục văn bản cho 3588565 tài liệu dùng inverted index + BM25; phân tích chi phí bộ nhớ và cập nhật.
+Thiết kế chương trình giáo dục tài chính cá nhân cho học sinh lớp 11 trong 8 tuần; có bài tập thực hành và tiêu chí đánh giá.
+Thiết kế workshop 1 ngày về tư duy phản biện cho nhân viên mới; mục tiêu, nội dung, cách đo hiệu quả.
+Thiết kế thí nghiệm A/B để đánh giá LoRA fine-tuning cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Viết pseudo-code tính VWAP cho APT theo dữ liệu OHLCV 34 ngày; kèm phân tích độ phức tạp.
+Viết hàm Go tính số Fibonacci thứ 1011 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Đề xuất 3 mô hình kinh doanh khả thi cho startup fintech ở Việt Nam; tính toán đơn giản CAC, LTV, payback.
+Áp dụng biến đổi Fourier để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Viết kịch bản đàm phán giữa doanh nghiệp khởi nghiệp và nhà đầu tư thiên thần; xác định điều khoản then chốt và rủi ro pháp lý.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa APT và SUI; nêu tình huống sử dụng phù hợp.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề xã hội học dành cho học sinh lớp 10; có gợi ý đáp án.
+Bài toán chia kẹo: có 20 viên, chia cho 2 bạn chênh nhau 16 viên; liệt kê mọi phương án hợp lệ.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Bài toán chia kẹo: có 36 viên, chia cho 2 bạn chênh nhau 0 viên; liệt kê mọi phương án hợp lệ.
+Xây dựng kế hoạch cá nhân hóa học tập với AI cho học sinh yếu môn toán; các mốc theo dõi tiến bộ.
+Mô tả quy trình phân loại rác tại nguồn cho một quận ở Đà Nẵng; xây KPI giảm rác chôn lấp theo từng quý.
+Viết hàm SQL tính số Fibonacci thứ 1824 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Đo và cải thiện IOPS mà không làm xấu tail latency trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+Viết kịch bản đàm phán giữa doanh nghiệp khởi nghiệp và nhà đầu tư thiên thần; xác định điều khoản then chốt và rủi ro pháp lý.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên đồng hồ thông minh chạy Fedora 40.
+Đề xuất giải pháp du lịch bền vững tại Dubai nhằm hạn chế overtourism; nêu tác động tới cộng đồng địa phương.
+Mô tả quy trình phân loại rác tại nguồn cho một quận ở Nha Trang; xây KPI giảm rác chôn lấp theo từng quý.
+Viết pseudo-code tính VWAP cho MATIC theo dữ liệu OHLCV 37 ngày; kèm phân tích độ phức tạp.
+Đề xuất bộ nguyên tắc đạo đức sử dụng dữ liệu khách hàng trong thương mại điện tử; ví dụ vi phạm phổ biến.
+Viết hàm JavaScript tính số Fibonacci thứ 1387 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Tối ưu đoạn code Bash đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Phân tích chiến lược bảo tồn di sản kiến trúc ở Vinh trong bối cảnh đô thị hóa nhanh.
+Đo và cải thiện CPU mà không làm xấu memory trong dịch vụ microservice; đưa KPI cụ thể và dashboard cần theo dõi.
+Hướng dẫn Nam học TypeScript từ zero đến viết REST API trong 7 ngày; liệt kê lịch học chi tiết theo ngày.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Hải Phòng; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Trình bày tiến trình toàn cầu hóa văn hóa qua ví dụ âm nhạc/điện ảnh; nêu mặt tích cực và tiêu cực.
+Phân tích chiến lược bảo tồn di sản kiến trúc ở Phan Thiết trong bối cảnh đô thị hóa nhanh.
+Phân tích yếu tố văn hóa vùng miền ảnh hưởng đến khẩu vị ẩm thực; thiết kế khảo sát và cách lấy mẫu.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Áp dụng biến đổi Fourier để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Đề xuất bộ nguyên tắc đạo đức sử dụng dữ liệu khách hàng trong thương mại điện tử; ví dụ vi phạm phổ biến.
+Đặt bài toán kinh tế học hành vi: vì sao người tiêu dùng thích gói cước 'không giới hạn'? Mô hình giải thích và thử nghiệm.
+Tối ưu biểu thức: ∑_(i=1..n) i^2 + ∑_(i=1..n) i^2; chứng minh bằng quy nạp công thức đóng.
+Phân tích yếu tố văn hóa vùng miền ảnh hưởng đến khẩu vị ẩm thực; thiết kế khảo sát và cách lấy mẫu.
+So sánh SCTP và WebSocket trong bối cảnh game online; khi nào chọn cái nào và vì sao?
+Đề xuất mô hình nhà ở giá rẻ cho lao động nhập cư tại Quy Nhơn; phân tích tài chính sơ bộ và tác động xã hội.
+Giải thích lý do tắc nghẽn giao thông giờ cao điểm và đưa giải pháp can thiệp hành vi (nudging) khả thi.
+Thiết kế thí nghiệm A/B để đánh giá transformer cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Đặt tình huống đạo đức trong y học: phân bổ nguồn vac-xin khan hiếm; đề xuất nguyên tắc và quy trình ra quyết định.
+Giải thích các trường phái đạo đức (hậu quả, nghĩa vụ, đức hạnh) qua một tình huống kiểm duyệt nội dung AI.
+Viết unit test table-driven cho một hàm JavaScript parse datetime không chuẩn; kèm 6 test case méo mó.
+Thiết kế bài kiểm tra đánh giá năng lực đọc hiểu truyền thông số cho sinh viên năm nhất; rubric chấm điểm.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Đề xuất mô hình nhà ở giá rẻ cho lao động nhập cư tại Phan Thiết; phân tích tài chính sơ bộ và tác động xã hội.
+Nêu cơ chế tin giả lan truyền trên nền tảng nhắn tin mã hóa đầu-cuối; đề xuất biện pháp nâng cao nhận thức người dùng.
+Nêu cơ chế tin giả lan truyền trên nền tảng nhắn tin mã hóa đầu-cuối; đề xuất biện pháp nâng cao nhận thức người dùng.
+Giải hệ phương trình: { x + y = 10, x·y = 25 } và giải thích phương pháp.
+Thiết kế hệ thống phản hồi công dân qua ứng dụng di động cho chính quyền địa phương; quy trình xử lý kiến nghị.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Viết hàm JavaScript tính số Fibonacci thứ 684 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Hà Nội (công suất 149060 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Đánh giá lợi ích và rủi ro của làm việc từ xa 3 ngày/tuần đối với năng suất và văn hóa công ty; đưa khuyến nghị.
+Đặt tình huống xung đột lợi ích trong công ty: phòng marketing và phòng kỹ thuật mâu thuẫn KPI; đề xuất cơ chế giải quyết và chỉ số đánh giá.
+Đưa ra lộ trình chuyển đổi năng lượng sạch cho doanh nghiệp sản xuất vừa và nhỏ trong 3 năm; ước tính chi phí và lợi ích.
+Viết hướng dẫn style guide API REST: quy tắc versioning, lỗi chuẩn hoá, idempotency và pagination.
+Giải thích khái niệm vốn xã hội và tác động của nó đến khả năng tìm việc làm của sinh viên mới tốt nghiệp.
+Xây dựng pipeline dữ liệu cho bài toán tóm tắt văn bản tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Đề xuất bộ nguyên tắc đạo đức sử dụng dữ liệu khách hàng trong thương mại điện tử; ví dụ vi phạm phổ biến.
+Chuyển đổi log ứng dụng sang JSON tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Áp dụng quy hoạch tuyến tính để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Trình bày tiến trình toàn cầu hóa văn hóa qua ví dụ âm nhạc/điện ảnh; nêu mặt tích cực và tiêu cực.
+Thiết kế kiến trúc multi-region trên GCP đạt RTO 5 phút, RPO 0; mô tả replication, failover và thử nghiệm định kỳ.
+Thiết kế thí nghiệm A/B để đánh giá multimodal cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Thiết kế hệ thống đặt vé du lịch tại Rome dùng FastAPI, chịu tải 1459689 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Lập kế hoạch du lịch Dubai 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Giải hệ phương trình: { x + y = 7, x·y = 10 } và giải thích phương pháp.
+Chuyển đổi log ứng dụng sang ORC tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Giải thích lý do tắc nghẽn giao thông giờ cao điểm và đưa giải pháp can thiệp hành vi (nudging) khả thi.
+Thiết kế bài kiểm tra đánh giá năng lực đọc hiểu truyền thông số cho sinh viên năm nhất; rubric chấm điểm.
+Lập kế hoạch hạ tầng IoT đo chất lượng không khí cho Nha Trang (công suất 309909 cảm biến); thiết kế pipeline ingest → ETL → lake → BI.
+Xây dựng pipeline dữ liệu cho bài toán tóm tắt văn bản tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Viết kịch bản đàm phán giữa doanh nghiệp khởi nghiệp và nhà đầu tư thiên thần; xác định điều khoản then chốt và rủi ro pháp lý.
+Lập kế hoạch du lịch Paris 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Áp dụng tối ưu hóa để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Tối ưu đoạn code C# đọc file lớn 50GB; phân tích IO-bound vs CPU-bound và đề xuất kỹ thuật thích hợp.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+Phân tích tác động biến đổi khí hậu tới ngành nông nghiệp lúa gạo; đề xuất thích ứng.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa TRX và OP; nêu tình huống sử dụng phù hợp.
+So sánh cách tiếp cận quản trị nước sạch giữa Rome và Hà Nội; rút kinh nghiệm áp dụng.
+Thiết kế workshop 1 ngày về tư duy phản biện cho nhân viên mới; mục tiêu, nội dung, cách đo hiệu quả.
+Minh hoạ bắt tay (handshake) của QUIC; trình bày từng bước và điểm dễ sai ở tầng mạng.
+Đánh giá tác động của học theo dự án (project-based learning) đối với kỹ năng hợp tác của học sinh lớp 9; phương pháp đo lường.
+So sánh HTTP/2 và WebSocket trong bối cảnh trading real-time; khi nào chọn cái nào và vì sao?
+Thiết kế kiến trúc multi-region trên OVH đạt RTO 5 phút, RPO 0; mô tả replication, failover và thử nghiệm định kỳ.
+Đặt tình huống đạo đức trong y học: phân bổ nguồn vac-xin khan hiếm; đề xuất nguyên tắc và quy trình ra quyết định.
+Thiết kế hệ thống đặt vé du lịch tại San Francisco dùng React, chịu tải 682088 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Viết testcase (Given/When/Then) kiểm thử đăng nhập sinh trắc học trên laptop chạy Android 15.
+So sánh hai nhân vật lịch sử Việt Nam về chiến lược lãnh đạo và di sản; rút ra 3 bài học cho quản trị hiện đại.
+Đặt 5 câu hỏi tư duy phản biện về chủ đề xã hội học dành cho học sinh lớp 10; có gợi ý đáp án.
+Đề xuất mô hình nhà ở giá rẻ cho lao động nhập cư tại Hải Phòng; phân tích tài chính sơ bộ và tác động xã hội.
+Đặt tình huống đạo đức trong y học: phân bổ nguồn vac-xin khan hiếm; đề xuất nguyên tắc và quy trình ra quyết định.
+Thiết kế thí nghiệm tâm lý xã hội kiểm tra hiệu ứng bầy đàn trong quyết định mua hàng trực tuyến.
+Chuyển đổi log ứng dụng sang ProtoBuf tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Chuyển đổi log ứng dụng sang ORC tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Xây dựng kế hoạch cá nhân hóa học tập với AI cho học sinh yếu môn toán; các mốc theo dõi tiến bộ.
+Áp dụng lập trình động để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Viết kịch bản đàm phán giữa doanh nghiệp khởi nghiệp và nhà đầu tư thiên thần; xác định điều khoản then chốt và rủi ro pháp lý.
+Nêu cơ chế tin giả lan truyền trên nền tảng nhắn tin mã hóa đầu-cuối; đề xuất biện pháp nâng cao nhận thức người dùng.
+Chuyển đổi log ứng dụng sang YAML tối ưu cho phân tích; nêu lược đồ, ví dụ 2 record, và quy tắc versioning schema.
+Minh hoạ bắt tay (handshake) của gRPC; trình bày từng bước và điểm dễ sai ở tầng mạng.
+Xây dựng dashboard KPI cho chứng khoán trong 1 năm; nêu 8 chỉ số cốt lõi và mô hình dữ liệu.
+Thiết kế hệ thống phản hồi công dân qua ứng dụng di động cho chính quyền địa phương; quy trình xử lý kiến nghị.
+Giải hệ phương trình: { x + y = 8, x·y = 16 } và giải thích phương pháp.
+Xây dựng kế hoạch cá nhân hóa học tập với AI cho học sinh yếu môn toán; các mốc theo dõi tiến bộ.
+Tranh luận: mạng xã hội tác động tích cực hay tiêu cực đến sức khỏe tinh thần của thanh thiếu niên? Đưa bằng chứng và biện pháp giảm hại.
+So sánh DNS-over-HTTPS và SCTP trong bối cảnh game online; khi nào chọn cái nào và vì sao?
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Thiết kế thí nghiệm A/B để đánh giá Mixture-of-Experts cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Thiết kế bài kiểm tra đánh giá năng lực đọc hiểu truyền thông số cho sinh viên năm nhất; rubric chấm điểm.
+Giải thích mối quan hệ giữa hạnh phúc chủ quan và thu nhập; thảo luận nghịch lý Easterlin.
+Giải thích nguyên tắc CAP, PACELC và áp vào thiết kế cơ sở dữ liệu cho ứng dụng ngân hàng số.
+Nêu 10 lỗi phổ biến khi dùng prompt với mô hình đa phương thức và cách khắc phục từng lỗi bằng ví dụ cụ thể.
+Thiết kế thí nghiệm A/B để đánh giá multimodal cho chatbot tiếng Việt; xác định biến đo lường và cỡ mẫu.
+Giải thích mối quan hệ giữa hạnh phúc chủ quan và thu nhập; thảo luận nghịch lý Easterlin.
+Đặt tình huống đạo đức trong y học: phân bổ nguồn vac-xin khan hiếm; đề xuất nguyên tắc và quy trình ra quyết định.
+Viết pseudo-code tính VWAP cho SUI theo dữ liệu OHLCV 80 ngày; kèm phân tích độ phức tạp.
+Thiết kế hệ thống phản hồi công dân qua ứng dụng di động cho chính quyền địa phương; quy trình xử lý kiến nghị.
+Nêu rủi ro đạo đức của deepfake trong chính trị và giáo dục truyền thông để giảm thiểu tác hại.
+Lập kế hoạch du lịch Bangkok 3 ngày dưới 300 USD; tối ưu di chuyển, ăn uống, và trải nghiệm địa phương.
+Viết hàm Python tính số Fibonacci thứ 1421 với bộ nhớ O(1), rồi phân tích độ phức tạp thời gian.
+So sánh cách tiếp cận quản trị nước sạch giữa London và Quy Nhơn; rút kinh nghiệm áp dụng.
+So sánh gRPC và DNS-over-HTTPS trong bối cảnh video call; khi nào chọn cái nào và vì sao?
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Thái Nguyên; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Giải thích Zero Trust là gì; đề xuất best practices và ví dụ cấu hình sai thường gặp.
+So sánh HTTP/3 và DNS-over-HTTPS trong bối cảnh trading real-time; khi nào chọn cái nào và vì sao?
+Thiết kế workshop 1 ngày về tư duy phản biện cho nhân viên mới; mục tiêu, nội dung, cách đo hiệu quả.
+Viết pseudo-code tính VWAP cho ARB theo dữ liệu OHLCV 30 ngày; kèm phân tích độ phức tạp.
+Giải thích mối quan hệ giữa hạnh phúc chủ quan và thu nhập; thảo luận nghịch lý Easterlin.
+Thiết kế thí nghiệm tâm lý xã hội kiểm tra hiệu ứng bầy đàn trong quyết định mua hàng trực tuyến.
+Đặt tình huống đạo đức trong y học: phân bổ nguồn vac-xin khan hiếm; đề xuất nguyên tắc và quy trình ra quyết định.
+Xây dựng pipeline dữ liệu cho bài toán phân loại cảm xúc tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Nêu cơ chế tin giả lan truyền trên nền tảng nhắn tin mã hóa đầu-cuối; đề xuất biện pháp nâng cao nhận thức người dùng.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Hà Nội; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Viết câu lệnh BigQuery tạo bảng giao_dich với khoá chính, chỉ mục, ràng buộc CHECK, và ví dụ 3 truy vấn phân tích doanh thu theo tháng.
+Đánh giá tác động của học theo dự án (project-based learning) đối với kỹ năng hợp tác của học sinh lớp 9; phương pháp đo lường.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại TP.HCM; nêu RACI, ma trận liên hệ và kênh truyền thông.
+So sánh cơ chế phí và thời gian xác nhận giao dịch giữa SUI và MATIC; nêu tình huống sử dụng phù hợp.
+Đặt tình huống đạo đức trong y học: phân bổ nguồn vac-xin khan hiếm; đề xuất nguyên tắc và quy trình ra quyết định.
+Thiết kế thí nghiệm tâm lý xã hội kiểm tra hiệu ứng bầy đàn trong quyết định mua hàng trực tuyến.
+Phân tích ảnh hưởng của trí tuệ nhân tạo lên thị trường lao động 10 năm tới; khuyến nghị đào tạo lại kỹ năng.
+Nêu rủi ro đạo đức của deepfake trong chính trị và giáo dục truyền thông để giảm thiểu tác hại.
+Giải thích sự khác nhau giữa batch, micro-batch và streaming; đưa ví dụ cho từng mô hình và tiêu chí chọn.
+Đề xuất bộ nguyên tắc đạo đức sử dụng dữ liệu khách hàng trong thương mại điện tử; ví dụ vi phạm phổ biến.
+Áp dụng ma trận để giải một bài toán tối ưu vận tải; nêu mô hình hoá và thuật toán giải thích hợp.
+Đặt tình huống xung đột lợi ích trong công ty: phòng marketing và phòng kỹ thuật mâu thuẫn KPI; đề xuất cơ chế giải quyết và chỉ số đánh giá.
+So sánh cách tiếp cận quản trị nước sạch giữa Rome và Huế; rút kinh nghiệm áp dụng.
+Đánh giá tác động của học theo dự án (project-based learning) đối với kỹ năng hợp tác của học sinh lớp 9; phương pháp đo lường.
+Trình bày quy trình LoRA fine-tuning cho mô hình ngôn ngữ cỡ nhỏ; nêu rõ dữ liệu, loss, siêu tham số và tiêu chí dừng.
+Đặt tình huống đạo đức trong y học: phân bổ nguồn vac-xin khan hiếm; đề xuất nguyên tắc và quy trình ra quyết định.
+Xây dựng pipeline dữ liệu cho bài toán phân loại cảm xúc tiếng Việt: thu thập, gán nhãn, kiểm định chất lượng và đạo đức dữ liệu.
+Thiết kế workshop 1 ngày về tư duy phản biện cho nhân viên mới; mục tiêu, nội dung, cách đo hiệu quả.
+Viết quy trình phản ứng sự cố CNTT cấp độ P1 tại Thái Nguyên; nêu RACI, ma trận liên hệ và kênh truyền thông.
+Đề xuất mô hình nhà ở giá rẻ cho lao động nhập cư tại Vinh; phân tích tài chính sơ bộ và tác động xã hội.
+Xây dựng kế hoạch cá nhân hóa học tập với AI cho học sinh yếu môn toán; các mốc theo dõi tiến bộ.
+Thiết kế hệ thống đặt vé du lịch tại Bắc Ninh dùng React, chịu tải 3114735 người dùng đồng thời; phác thảo kiến trúc và bottleneck.
+Đề xuất mô hình nhà ở giá rẻ cho lao động nhập cư tại Bắc Ninh; phân tích tài chính sơ bộ và tác động xã hội.
+Giải thích khái niệm vốn xã hội và tác động của nó đến khả năng tìm việc làm của sinh viên mới tốt nghiệp.
